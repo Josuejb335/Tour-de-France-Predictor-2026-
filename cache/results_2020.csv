@@ -1,0 +1,3391 @@
+rider_name,position,won,stage_type,elevation,distance_km,pcs_ranking,rider_type,gap_pct,hist_stage_wins,RCS_ranking
+KristoffAlexander,1,1,hilly,1597,156.0,0,Classic,0.0,0,0
+PedersenMads,2,0,hilly,1597,156.0,0,Classic,0.0,0,0
+BolCees,3,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+BennettSam,4,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+SaganPeter,5,0,hilly,1597,156.0,0,Classic,0.0,0,0
+VivianiElia,6,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+NizzoloGiacomo,7,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+CoquardBryan,8,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+TurgisAnthony,9,0,hilly,1597,156.0,0,Classic,0.0,0,0
+StuyvenJasper,10,0,hilly,1597,156.0,0,Classic,0.0,0,0
+NaesenOliver,11,0,hilly,1597,156.0,0,Classic,0.0,0,0
+TrentinMatteo,12,0,hilly,1597,156.0,0,Classic,0.0,0,0
+VenturiniClément,13,0,hilly,1597,156.0,0,Classic,0.0,0,0
+MezgecLuka,14,0,hilly,1597,156.0,0,Hills,0.0,0,0
+HouleHugo,15,0,hilly,1597,156.0,0,GC,0.0,0,0
+HiguitaSergio,16,0,hilly,1597,156.0,0,Climber,0.0,0,0
+PogačarTadej,17,0,hilly,1597,156.0,0,Climber,0.0,0,0
+SwiftConnor,18,0,hilly,1597,156.0,0,Classic,0.0,0,0
+EwanCaleb,19,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+LaporteChristophe,20,0,hilly,1597,156.0,0,Classic,0.0,0,0
+KochJonas,21,0,hilly,1597,156.0,0,Hills,0.0,0,0
+MørkøvMichael,22,0,hilly,1597,156.0,0,Classic,0.0,0,0
+HallerMarco,23,0,hilly,1597,156.0,0,Classic,0.0,0,0
+GautierCyril,24,0,hilly,1597,156.0,0,Classic,0.0,0,0
+FormoloDavide,25,0,hilly,1597,156.0,0,Climber,0.0,0,0
+AmadorAndrey,26,0,hilly,1597,156.0,0,GC,0.0,0,0
+LaengenVegard Stake,27,0,hilly,1597,156.0,0,GC,0.0,0,0
+ConsonniSimone,28,0,hilly,1597,156.0,0,Classic,0.0,0,0
+PolancJan,29,0,hilly,1597,156.0,0,GC,0.0,0,0
+TheunsEdward,30,0,hilly,1597,156.0,0,Classic,0.0,0,0
+BauerJack,31,0,hilly,1597,156.0,0,TT,0.0,0,0
+PedersenCasper,32,0,hilly,1597,156.0,0,Classic,0.0,0,0
+NieuwenhuisJoris,33,0,hilly,1597,156.0,0,Classic,0.0,0,0
+Kragh AndersenSøren,34,0,hilly,1597,156.0,0,TT,0.0,0,0
+van AertWout,35,0,hilly,1597,156.0,0,Classic,0.0,0,0
+MartínezDaniel Felipe,36,0,hilly,1597,156.0,0,GC,0.0,0,0
+RussoClément,37,0,hilly,1597,156.0,0,Classic,0.0,0,0
+JansenAmund Grøndahl,38,0,hilly,1597,156.0,0,Classic,0.0,0,0
+RogličPrimož,39,0,hilly,1597,156.0,0,Climber,0.0,0,0
+GibbonsRyan,40,0,hilly,1597,156.0,0,Hills,0.0,0,0
+KussSepp,41,0,hilly,1597,156.0,0,Climber,0.0,0,0
+MarcatoMarco,42,0,hilly,1597,156.0,0,Classic,0.0,0,0
+DumoulinTom,43,0,hilly,1597,156.0,0,TT,0.0,0,0
+CarapazRichard,44,0,hilly,1597,156.0,0,Climber,0.0,0,0
+BernalEgan,45,0,hilly,1597,156.0,0,GC,0.0,0,0
+ChavesEsteban,46,0,hilly,1597,156.0,0,Climber,0.0,0,0
+DebusschereJens,47,0,hilly,1597,156.0,0,Classic,0.0,0,0
+OssDaniel,48,0,hilly,1597,156.0,0,Classic,0.0,0,0
+De BuystJasper,49,0,hilly,1597,156.0,0,Classic,0.0,0,0
+KlugeRoger,50,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+Juul-JensenChristopher,51,0,hilly,1597,156.0,0,GC,0.0,0,0
+MartinTony,52,0,hilly,1597,156.0,0,TT,0.0,0,0
+AsgreenKasper,53,0,hilly,1597,156.0,0,TT,0.0,0,0
+BartheCyril,54,0,hilly,1597,156.0,0,Hills,0.0,0,0
+GrellierFabien,55,0,hilly,1597,156.0,0,Classic,0.0,0,0
+RezaKévin,56,0,hilly,1597,156.0,0,Hills,0.0,0,0
+CherelMikaël,57,0,hilly,1597,156.0,0,GC,0.0,0,0
+Van AsbroeckTom,58,0,hilly,1597,156.0,0,Classic,0.0,0,0
+QuintanaDayer,59,0,hilly,1597,156.0,0,GC,0.0,0,0
+QuintanaNairo,60,0,hilly,1597,156.0,0,GC,0.0,0,0
+AruFabio,61,0,hilly,1597,156.0,0,Climber,0.0,0,0
+ChevalierMaxime,62,0,hilly,1597,156.0,0,GC,0.0,0,0
+MühlbergerGregor,63,0,hilly,1597,156.0,0,Climber,0.0,0,0
+BenootTiesj,64,0,hilly,1597,156.0,0,Classic,0.0,0,0
+GroßschartnerFelix,65,0,hilly,1597,156.0,0,GC,0.0,0,0
+BuchmannEmanuel,66,0,hilly,1597,156.0,0,GC,0.0,0,0
+GeschkeSimon,67,0,hilly,1597,156.0,0,Climber,0.0,0,0
+Van AvermaetGreg,68,0,hilly,1597,156.0,0,Classic,0.0,0,0
+GesinkRobert,69,0,hilly,1597,156.0,0,GC,0.0,0,0
+HofstetterHugo,70,0,hilly,1597,156.0,0,Classic,0.0,0,0
+van GarderenTejay,71,0,hilly,1597,156.0,0,GC,0.0,0,0
+KeukeleireJens,72,0,hilly,1597,156.0,0,Classic,0.0,0,0
+PacherQuentin,73,0,hilly,1597,156.0,0,Hills,0.0,0,0
+PérichonPierre-Luc,74,0,hilly,1597,156.0,0,Classic,0.0,0,0
+MartinGuillaume,75,0,hilly,1597,156.0,0,Climber,0.0,0,0
+KwiatkowskiMichał,76,0,hilly,1597,156.0,0,Classic,0.0,0,0
+SoupeGeoffrey,77,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+OliveiraNelson,78,0,hilly,1597,156.0,0,TT,0.0,0,0
+de la CruzDavid,79,0,hilly,1597,156.0,0,GC,0.0,0,0
+MasEnric,80,0,hilly,1597,156.0,0,Climber,0.0,0,0
+VuillermozAlexis,81,0,hilly,1597,156.0,0,Climber,0.0,0,0
+LatourPierre,82,0,hilly,1597,156.0,0,GC,0.0,0,0
+PetersNans,83,0,hilly,1597,156.0,0,Classic,0.0,0,0
+BardetRomain,84,0,hilly,1597,156.0,0,Climber,0.0,0,0
+PowlessNeilson,85,0,hilly,1597,156.0,0,Classic,0.0,0,0
+CarthyHugh,86,0,hilly,1597,156.0,0,GC,0.0,0,0
+BettiolAlberto,87,0,hilly,1597,156.0,0,Classic,0.0,0,0
+NeilandsKrists,88,0,hilly,1597,156.0,0,Classic,0.0,0,0
+WalscheidMax,89,0,hilly,1597,156.0,0,Sprint,0.0,0,0
+ValgrenMichael,90,0,hilly,1597,156.0,0,Classic,0.0,0,0
+Boasson HagenEdvald,91,0,hilly,1597,156.0,0,Classic,0.0,0,0
+IzagirreGorka,92,0,hilly,1597,156.0,0,GC,0.0,0,0
+UránRigoberto,93,0,hilly,1597,156.0,0,Climber,0.0,0,0
+RollandPierre,94,0,hilly,1597,156.0,0,Climber,0.0,0,0
+EdetNicolas,95,0,hilly,1597,156.0,0,GC,0.0,0,0
+MollemaBauke,96,0,hilly,1597,156.0,0,Climber,0.0,0,0
+GoglMichael,97,0,hilly,1597,156.0,0,Classic,0.0,0,0
+NieveMikel,98,0,hilly,1597,156.0,0,Climber,0.0,0,0
+SchachmannMaximilian,99,0,hilly,1597,156.0,0,GC,0.0,0,0
+van BaarleDylan,100,0,hilly,1597,156.0,0,Classic,0.0,0,0
+ElissondeKenny,101,0,hilly,1597,156.0,0,Climber,0.0,0,0
+RocheNicolas,102,0,hilly,1597,156.0,0,Climber,0.0,0,0
+HirtJan,103,0,hilly,1597,156.0,0,GC,0.0,0,0
+De MarchiAlessandro,104,0,hilly,1597,156.0,0,Climber,0.0,0,0
+DevenynsDries,105,0,hilly,1597,156.0,0,GC,0.0,0,0
+DeclercqTim,106,0,hilly,1597,156.0,0,Classic,0.0,0,0
+AlaphilippeJulian,107,0,hilly,1597,156.0,0,Classic,0.0,0,0
+JungelsBob,108,0,hilly,1597,156.0,0,TT,0.0,0,0
+LutsenkoAlexey,109,0,hilly,1597,156.0,0,GC,0.0,0,0
+ZakarinIlnur,110,0,hilly,1597,156.0,0,GC,0.0,0,0
+ErvitiImanol,111,0,hilly,1597,156.0,0,GC,0.0,0,0
+CastroviejoJonathan,112,0,hilly,1597,156.0,0,TT,0.0,0,0
+SánchezLuis León,113,0,hilly,1597,156.0,0,GC,0.0,0,0
+CosnefroyBenoît,114,0,hilly,1597,156.0,0,Classic,0.0,0,0
+PorteRichie,115,0,hilly,1597,156.0,0,GC,0.0,0,0
+YatesAdam,116,0,hilly,1597,156.0,0,Climber,0.0,0,0
+ImpeyDaryl,117,0,hilly,1597,156.0,0,Hills,0.0,0,0
+MartinDan,118,0,hilly,1597,156.0,0,Climber,0.0,0,0
+KämnaLennard,119,0,hilly,1597,156.0,0,Climber,0.0,0,0
+PozzovivoDomenico,120,0,hilly,1597,156.0,0,GC,0.0,0,0
+SkujiņšToms,121,0,hilly,1597,156.0,0,Classic,0.0,0,0
+ValverdeAlejandro,122,0,hilly,1597,156.0,0,Climber,0.0,0,0
+CataldoDario,123,0,hilly,1597,156.0,0,Climber,0.0,0,0
+FrisonFrederik,124,0,hilly,1597,156.0,0,Classic,0.0,0,0
+HerradaJesús,125,0,hilly,1597,156.0,0,GC,0.0,0,0
+SicardRomain,126,0,hilly,1597,156.0,0,GC,0.0,0,0
+KreuzigerRoman,127,0,hilly,1597,156.0,0,GC,0.0,0,0
+LandaMikel,128,0,hilly,1597,156.0,0,Climber,0.0,0,0
+FraileOmar,129,0,hilly,1597,156.0,0,Climber,0.0,0,0
+LópezMiguel Ángel,130,0,hilly,1597,156.0,0,Climber,0.0,0,0
+IzagirreIon,131,0,hilly,1597,156.0,0,GC,0.0,0,0
+TejadaHarold,132,0,hilly,1597,156.0,0,Climber,0.0,0,0
+RoweLuke,133,0,hilly,1597,156.0,0,Classic,1.7154,0,0
+PöstlbergerLukas,134,0,hilly,1597,156.0,0,Classic,1.7154,0,0
+PerezAnthony,135,0,hilly,1597,156.0,0,Classic,1.7154,0,0
+RosaDiego,136,0,hilly,1597,156.0,0,Climber,1.7154,0,0
+BarguilWarren,137,0,hilly,1597,156.0,0,Climber,1.7154,0,0
+AnaconaWinner,138,0,hilly,1597,156.0,0,GC,1.7154,0,0
+HermansBen,139,0,hilly,1597,156.0,0,GC,1.7964,0,0
+BewleySam,140,0,hilly,1597,156.0,0,TT,1.7964,0,0
+KüngStefan,141,0,hilly,1597,156.0,0,TT,1.7964,0,0
+LadagnousMatthieu,142,0,hilly,1597,156.0,0,GC,1.7964,0,0
+MolardRudy,143,0,hilly,1597,156.0,0,Climber,1.7964,0,0
+PinotThibaut,144,0,hilly,1597,156.0,0,Climber,1.7964,0,0
+ReichenbachSébastien,145,0,hilly,1597,156.0,0,GC,1.8773,0,0
+MadouasValentin,146,0,hilly,1597,156.0,0,Classic,1.8773,0,0
+HirschiMarc,147,0,hilly,1597,156.0,0,Classic,1.8773,0,0
+SchärMichael,148,0,hilly,1597,156.0,0,GC,1.8773,0,0
+EgNiklas,149,0,hilly,1597,156.0,0,GC,1.8773,0,0
+BurgaudeauMathieu,150,0,hilly,1597,156.0,0,Hills,2.1424,0,0
+CalmejaneLilian,151,0,hilly,1597,156.0,0,GC,2.1424,0,0
+PoelsWout,152,0,hilly,1597,156.0,0,Climber,2.1424,0,0
+VeronaCarlos,153,0,hilly,1597,156.0,0,GC,2.1424,0,0
+NivGuy,154,0,hilly,1597,156.0,0,GC,2.3117,0,0
+RojasJosé Joaquín,155,0,hilly,1597,156.0,0,Hills,2.3117,0,0
+GreipelAndré,156,0,hilly,1597,156.0,0,Sprint,2.3117,0,0
+PolittNils,157,0,hilly,1597,156.0,0,Classic,2.3117,0,0
+SolerMarc,158,0,hilly,1597,156.0,0,Climber,2.3117,0,0
+BonnetWilliam,159,0,hilly,1597,156.0,0,Classic,2.3117,0,0
+CavagnaRémi,160,0,hilly,1597,156.0,0,TT,2.3117,0,0
+BilbaoPello,161,0,hilly,1597,156.0,0,Climber,2.3117,0,0
+CarusoDamiano,162,0,hilly,1597,156.0,0,GC,2.3117,0,0
+ColbrelliSonny,163,0,hilly,1597,156.0,0,Classic,2.3117,0,0
+MohoričMatej,164,0,hilly,1597,156.0,0,Classic,2.3117,0,0
+GauduDavid,165,0,hilly,1597,156.0,0,Climber,2.3117,0,0
+BennettGeorge,166,0,hilly,1597,156.0,0,GC,2.3117,0,0
+De GendtThomas,167,0,hilly,1597,156.0,0,TT,4.8885,0,0
+BonifazioNiccolò,168,0,hilly,1597,156.0,0,Sprint,4.8885,0,0
+GilbertPhilippe,169,0,hilly,1597,156.0,0,Classic,4.8885,0,0
+CousinJérôme,170,0,hilly,1597,156.0,0,GC,4.8885,0,0
+ArndtNikias,171,0,hilly,1597,156.0,0,Hills,4.8885,0,0
+SivakovPavel,172,0,hilly,1597,156.0,0,GC,5.7719,0,0
+CrasSteff,173,0,hilly,1597,156.0,0,GC,5.7719,0,0
+LedanoisKévin,174,0,hilly,1597,156.0,0,Classic,5.7719,0,0
+VallsRafael,175,0,hilly,1597,156.0,0,GC,5.7719,0,0
+AlaphilippeJulian,1,1,mountain,4066,185.0,0,Classic,0.0,0,0
+HirschiMarc,2,0,mountain,4066,185.0,0,Classic,0.0,0,0
+YatesAdam,3,0,mountain,4066,185.0,0,Climber,0.0056,0,0
+Van AvermaetGreg,4,0,mountain,4066,185.0,0,Classic,0.0113,0,0
+HiguitaSergio,5,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+MollemaBauke,6,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+LutsenkoAlexey,7,0,mountain,4066,185.0,0,GC,0.0113,0,0
+PogačarTadej,8,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+SchachmannMaximilian,9,0,mountain,4066,185.0,0,GC,0.0113,0,0
+BettiolAlberto,10,0,mountain,4066,185.0,0,Classic,0.0113,0,0
+MartinGuillaume,11,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+ChavesEsteban,12,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+CarusoDamiano,13,0,mountain,4066,185.0,0,GC,0.0113,0,0
+ValverdeAlejandro,14,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+LatourPierre,15,0,mountain,4066,185.0,0,GC,0.0113,0,0
+LópezMiguel Ángel,16,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+BernalEgan,17,0,mountain,4066,185.0,0,GC,0.0113,0,0
+QuintanaNairo,18,0,mountain,4066,185.0,0,GC,0.0113,0,0
+HerradaJesús,19,0,mountain,4066,185.0,0,GC,0.0113,0,0
+CarapazRichard,20,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+RollandPierre,21,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+DumoulinTom,22,0,mountain,4066,185.0,0,TT,0.0113,0,0
+ElissondeKenny,23,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+RocheNicolas,24,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+MasEnric,25,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+BuchmannEmanuel,26,0,mountain,4066,185.0,0,GC,0.0113,0,0
+LandaMikel,27,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+BilbaoPello,28,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+PinotThibaut,29,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+BardetRomain,30,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+RogličPrimož,31,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+UránRigoberto,32,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+FormoloDavide,33,0,mountain,4066,185.0,0,Climber,0.0113,0,0
+PorteRichie,34,0,mountain,4066,185.0,0,GC,0.0113,0,0
+ReichenbachSébastien,35,0,mountain,4066,185.0,0,GC,0.0113,0,0
+SánchezLuis León,36,0,mountain,4066,185.0,0,GC,0.0113,0,0
+IzagirreGorka,37,0,mountain,4066,185.0,0,GC,0.1072,0,0
+KwiatkowskiMichał,38,0,mountain,4066,185.0,0,Classic,0.361,0,0
+SolerMarc,39,0,mountain,4066,185.0,0,Climber,0.4062,0,0
+PozzovivoDomenico,40,0,mountain,4066,185.0,0,GC,0.4287,0,0
+BennettGeorge,41,0,mountain,4066,185.0,0,GC,0.4287,0,0
+AruFabio,42,0,mountain,4066,185.0,0,Climber,0.7277,0,0
+MolardRudy,43,0,mountain,4066,185.0,0,Climber,0.7277,0,0
+MadouasValentin,44,0,mountain,4066,185.0,0,Classic,0.7277,0,0
+KussSepp,45,0,mountain,4066,185.0,0,Climber,0.7277,0,0
+van AertWout,46,0,mountain,4066,185.0,0,Classic,0.7277,0,0
+CarthyHugh,47,0,mountain,4066,185.0,0,GC,1.2298,0,0
+MartínezDaniel Felipe,48,0,mountain,4066,185.0,0,GC,1.2298,0,0
+VuillermozAlexis,49,0,mountain,4066,185.0,0,Climber,1.2298,0,0
+EdetNicolas,50,0,mountain,4066,185.0,0,GC,1.4949,0,0
+TejadaHarold,51,0,mountain,4066,185.0,0,Climber,1.4949,0,0
+ZakarinIlnur,52,0,mountain,4066,185.0,0,GC,1.4949,0,0
+SicardRomain,53,0,mountain,4066,185.0,0,GC,1.4949,0,0
+NieveMikel,54,0,mountain,4066,185.0,0,Climber,1.4949,0,0
+IzagirreIon,55,0,mountain,4066,185.0,0,GC,1.4949,0,0
+BarguilWarren,56,0,mountain,4066,185.0,0,Climber,1.4949,0,0
+StuyvenJasper,57,0,mountain,4066,185.0,0,Classic,1.8898,0,0
+NeilandsKrists,58,0,mountain,4066,185.0,0,Classic,2.3805,0,0
+CastroviejoJonathan,59,0,mountain,4066,185.0,0,TT,2.3805,0,0
+JungelsBob,60,0,mountain,4066,185.0,0,TT,2.3805,0,0
+CherelMikaël,61,0,mountain,4066,185.0,0,GC,2.3805,0,0
+AnaconaWinner,62,0,mountain,4066,185.0,0,GC,2.3805,0,0
+OliveiraNelson,63,0,mountain,4066,185.0,0,TT,2.939,0,0
+GesinkRobert,64,0,mountain,4066,185.0,0,GC,2.939,0,0
+EgNiklas,65,0,mountain,4066,185.0,0,GC,2.939,0,0
+RosaDiego,66,0,mountain,4066,185.0,0,Climber,3.3565,0,0
+PolancJan,67,0,mountain,4066,185.0,0,GC,3.3677,0,0
+GautierCyril,68,0,mountain,4066,185.0,0,Classic,3.4918,0,0
+SkujiņšToms,69,0,mountain,4066,185.0,0,Classic,3.4918,0,0
+HermansBen,70,0,mountain,4066,185.0,0,GC,3.4918,0,0
+KämnaLennard,71,0,mountain,4066,185.0,0,Climber,3.4918,0,0
+GroßschartnerFelix,72,0,mountain,4066,185.0,0,GC,3.4918,0,0
+MühlbergerGregor,73,0,mountain,4066,185.0,0,Climber,3.4918,0,0
+CataldoDario,74,0,mountain,4066,185.0,0,Climber,3.4918,0,0
+VenturiniClément,75,0,mountain,4066,185.0,0,Classic,4.3042,0,0
+VeronaCarlos,76,0,mountain,4066,185.0,0,GC,4.6934,0,0
+PowlessNeilson,77,0,mountain,4066,185.0,0,Classic,4.6934,0,0
+Kragh AndersenSøren,78,0,mountain,4066,185.0,0,TT,4.6934,0,0
+DevenynsDries,79,0,mountain,4066,185.0,0,GC,4.9247,0,0
+AsgreenKasper,80,0,mountain,4066,185.0,0,TT,6.0078,0,0
+NaesenOliver,81,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+SwiftConnor,82,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+PolittNils,83,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+QuintanaDayer,84,0,mountain,4066,185.0,0,GC,6.0078,0,0
+KüngStefan,85,0,mountain,4066,185.0,0,TT,6.0078,0,0
+PetersNans,86,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+SchärMichael,87,0,mountain,4066,185.0,0,GC,6.0078,0,0
+KreuzigerRoman,88,0,mountain,4066,185.0,0,GC,6.0078,0,0
+RojasJosé Joaquín,89,0,mountain,4066,185.0,0,Hills,6.0078,0,0
+GeschkeSimon,90,0,mountain,4066,185.0,0,Climber,6.0078,0,0
+PacherQuentin,91,0,mountain,4066,185.0,0,Hills,6.0078,0,0
+CosnefroyBenoît,92,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+KochJonas,93,0,mountain,4066,185.0,0,Hills,6.0078,0,0
+PerezAnthony,94,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+TheunsEdward,95,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+GauduDavid,96,0,mountain,4066,185.0,0,Climber,6.0078,0,0
+BenootTiesj,97,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+FraileOmar,98,0,mountain,4066,185.0,0,Climber,6.0078,0,0
+van GarderenTejay,99,0,mountain,4066,185.0,0,GC,6.0078,0,0
+MartinDan,100,0,mountain,4066,185.0,0,Climber,6.0078,0,0
+JansenAmund Grøndahl,101,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+Boasson HagenEdvald,102,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+PöstlbergerLukas,103,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+DeclercqTim,104,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+van BaarleDylan,105,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+OssDaniel,106,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+GoglMichael,107,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+SaganPeter,108,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+MartinTony,109,0,mountain,4066,185.0,0,TT,6.0078,0,0
+ColbrelliSonny,110,0,mountain,4066,185.0,0,Classic,6.0078,0,0
+De MarchiAlessandro,111,0,mountain,4066,185.0,0,Climber,6.0078,0,0
+HirtJan,112,0,mountain,4066,185.0,0,GC,6.0416,0,0
+ValgrenMichael,113,0,mountain,4066,185.0,0,Classic,7.0063,0,0
+TrentinMatteo,114,0,mountain,4066,185.0,0,Classic,7.0063,0,0
+MohoričMatej,115,0,mountain,4066,185.0,0,Classic,7.0063,0,0
+ImpeyDaryl,116,0,mountain,4066,185.0,0,Hills,7.0063,0,0
+NivGuy,117,0,mountain,4066,185.0,0,GC,7.0063,0,0
+KeukeleireJens,118,0,mountain,4066,185.0,0,Classic,7.0063,0,0
+LedanoisKévin,119,0,mountain,4066,185.0,0,Classic,7.0063,0,0
+BauerJack,120,0,mountain,4066,185.0,0,TT,7.0063,0,0
+PérichonPierre-Luc,121,0,mountain,4066,185.0,0,Classic,7.0063,0,0
+Juul-JensenChristopher,122,0,mountain,4066,185.0,0,GC,7.0063,0,0
+Van AsbroeckTom,123,0,mountain,4066,185.0,0,Classic,7.3222,0,0
+LadagnousMatthieu,124,0,mountain,4066,185.0,0,GC,7.3222,0,0
+BartheCyril,125,0,mountain,4066,185.0,0,Hills,7.3222,0,0
+NieuwenhuisJoris,126,0,mountain,4066,185.0,0,Classic,7.3222,0,0
+ErvitiImanol,127,0,mountain,4066,185.0,0,GC,7.3222,0,0
+HouleHugo,128,0,mountain,4066,185.0,0,GC,7.3222,0,0
+PoelsWout,129,0,mountain,4066,185.0,0,Climber,8.7268,0,0
+SivakovPavel,130,0,mountain,4066,185.0,0,GC,9.5617,0,0
+VivianiElia,131,0,mountain,4066,185.0,0,Sprint,9.5617,0,0
+DebusschereJens,132,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+CavagnaRémi,133,0,mountain,4066,185.0,0,TT,9.5617,0,0
+HofstetterHugo,134,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+SoupeGeoffrey,135,0,mountain,4066,185.0,0,Sprint,9.5617,0,0
+LaengenVegard Stake,136,0,mountain,4066,185.0,0,GC,9.5617,0,0
+KristoffAlexander,137,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+MarcatoMarco,138,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+MezgecLuka,139,0,mountain,4066,185.0,0,Hills,9.5617,0,0
+HallerMarco,140,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+ChevalierMaxime,141,0,mountain,4066,185.0,0,GC,9.5617,0,0
+TurgisAnthony,142,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+CalmejaneLilian,143,0,mountain,4066,185.0,0,GC,9.5617,0,0
+AmadorAndrey,144,0,mountain,4066,185.0,0,GC,9.5617,0,0
+PedersenCasper,145,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+PedersenMads,146,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+LaporteChristophe,147,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+RoweLuke,148,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+MørkøvMichael,149,0,mountain,4066,185.0,0,Classic,9.5617,0,0
+GibbonsRyan,150,0,mountain,4066,185.0,0,Hills,9.7873,0,0
+NizzoloGiacomo,151,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+WalscheidMax,152,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+BonnetWilliam,153,0,mountain,4066,185.0,0,Classic,9.7873,0,0
+BewleySam,154,0,mountain,4066,185.0,0,TT,9.7873,0,0
+GreipelAndré,155,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+RussoClément,156,0,mountain,4066,185.0,0,Classic,9.7873,0,0
+De GendtThomas,157,0,mountain,4066,185.0,0,TT,9.7873,0,0
+CrasSteff,158,0,mountain,4066,185.0,0,GC,9.7873,0,0
+ArndtNikias,159,0,mountain,4066,185.0,0,Hills,9.7873,0,0
+KlugeRoger,160,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+CoquardBryan,161,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+BurgaudeauMathieu,162,0,mountain,4066,185.0,0,Hills,9.7873,0,0
+de la CruzDavid,163,0,mountain,4066,185.0,0,GC,9.7873,0,0
+GrellierFabien,164,0,mountain,4066,185.0,0,Classic,9.7873,0,0
+ConsonniSimone,165,0,mountain,4066,185.0,0,Classic,9.7873,0,0
+CousinJérôme,166,0,mountain,4066,185.0,0,GC,9.7873,0,0
+BolCees,167,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+BennettSam,168,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+BonifazioNiccolò,169,0,mountain,4066,185.0,0,Sprint,9.7873,0,0
+RezaKévin,170,0,mountain,4066,185.0,0,Hills,9.7873,0,0
+FrisonFrederik,171,0,mountain,4066,185.0,0,Classic,9.7873,0,0
+De BuystJasper,172,0,mountain,4066,185.0,0,Classic,9.8607,0,0
+EwanCaleb,173,0,mountain,4066,185.0,0,Sprint,9.8607,0,0
+EwanCaleb,1,1,hilly,3003,198.0,0,Sprint,0.0,0,0
+BennettSam,2,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+NizzoloGiacomo,3,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+HofstetterHugo,4,0,hilly,3003,198.0,0,Classic,0.0,0,0
+SaganPeter,5,0,hilly,3003,198.0,0,Classic,0.0,0,0
+TheunsEdward,6,0,hilly,3003,198.0,0,Classic,0.0,0,0
+BolCees,7,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+TrentinMatteo,8,0,hilly,3003,198.0,0,Classic,0.0,0,0
+CoquardBryan,9,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+BonifazioNiccolò,10,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+MezgecLuka,11,0,hilly,3003,198.0,0,Hills,0.0,0,0
+Van AsbroeckTom,12,0,hilly,3003,198.0,0,Classic,0.0,0,0
+KochJonas,13,0,hilly,3003,198.0,0,Hills,0.0,0,0
+BauerJack,14,0,hilly,3003,198.0,0,TT,0.0,0,0
+KristoffAlexander,15,0,hilly,3003,198.0,0,Classic,0.0,0,0
+HouleHugo,16,0,hilly,3003,198.0,0,GC,0.0,0,0
+SolerMarc,17,0,hilly,3003,198.0,0,Climber,0.0,0,0
+LutsenkoAlexey,18,0,hilly,3003,198.0,0,GC,0.0,0,0
+StuyvenJasper,19,0,hilly,3003,198.0,0,Classic,0.0,0,0
+ConsonniSimone,20,0,hilly,3003,198.0,0,Classic,0.0,0,0
+CarusoDamiano,21,0,hilly,3003,198.0,0,GC,0.0,0,0
+PogačarTadej,22,0,hilly,3003,198.0,0,Climber,0.0,0,0
+PolancJan,23,0,hilly,3003,198.0,0,GC,0.0,0,0
+VenturiniClément,24,0,hilly,3003,198.0,0,Classic,0.0,0,0
+NaesenOliver,25,0,hilly,3003,198.0,0,Classic,0.0,0,0
+RussoClément,26,0,hilly,3003,198.0,0,Classic,0.0,0,0
+OssDaniel,27,0,hilly,3003,198.0,0,Classic,0.0,0,0
+FraileOmar,28,0,hilly,3003,198.0,0,Climber,0.0,0,0
+MartinGuillaume,29,0,hilly,3003,198.0,0,Climber,0.0,0,0
+FormoloDavide,30,0,hilly,3003,198.0,0,Climber,0.0,0,0
+MühlbergerGregor,31,0,hilly,3003,198.0,0,Climber,0.0,0,0
+MørkøvMichael,32,0,hilly,3003,198.0,0,Classic,0.0,0,0
+VivianiElia,33,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+DumoulinTom,34,0,hilly,3003,198.0,0,TT,0.0,0,0
+PedersenMads,35,0,hilly,3003,198.0,0,Classic,0.0,0,0
+BernalEgan,36,0,hilly,3003,198.0,0,GC,0.0,0,0
+ArndtNikias,37,0,hilly,3003,198.0,0,Hills,0.0,0,0
+SánchezLuis León,38,0,hilly,3003,198.0,0,GC,0.0,0,0
+TurgisAnthony,39,0,hilly,3003,198.0,0,Classic,0.0,0,0
+LedanoisKévin,40,0,hilly,3003,198.0,0,Classic,0.0,0,0
+YatesAdam,41,0,hilly,3003,198.0,0,Climber,0.0,0,0
+LópezMiguel Ángel,42,0,hilly,3003,198.0,0,Climber,0.0,0,0
+LaporteChristophe,43,0,hilly,3003,198.0,0,Classic,0.0,0,0
+ErvitiImanol,44,0,hilly,3003,198.0,0,GC,0.0,0,0
+BenootTiesj,45,0,hilly,3003,198.0,0,Classic,0.0,0,0
+GautierCyril,46,0,hilly,3003,198.0,0,Classic,0.0,0,0
+OliveiraNelson,47,0,hilly,3003,198.0,0,TT,0.0,0,0
+BarguilWarren,48,0,hilly,3003,198.0,0,Climber,0.0,0,0
+LaengenVegard Stake,49,0,hilly,3003,198.0,0,GC,0.0,0,0
+QuintanaNairo,50,0,hilly,3003,198.0,0,GC,0.0,0,0
+PetersNans,51,0,hilly,3003,198.0,0,Classic,0.0,0,0
+PinotThibaut,52,0,hilly,3003,198.0,0,Climber,0.0,0,0
+BuchmannEmanuel,53,0,hilly,3003,198.0,0,GC,0.0,0,0
+NieuwenhuisJoris,54,0,hilly,3003,198.0,0,Classic,0.0,0,0
+GroßschartnerFelix,55,0,hilly,3003,198.0,0,GC,0.0,0,0
+Kragh AndersenSøren,56,0,hilly,3003,198.0,0,TT,0.0,0,0
+LandaMikel,57,0,hilly,3003,198.0,0,Climber,0.0,0,0
+AlaphilippeJulian,58,0,hilly,3003,198.0,0,Classic,0.0,0,0
+ChavesEsteban,59,0,hilly,3003,198.0,0,Climber,0.0,0,0
+Van AvermaetGreg,60,0,hilly,3003,198.0,0,Classic,0.0,0,0
+ValverdeAlejandro,61,0,hilly,3003,198.0,0,Climber,0.0,0,0
+LadagnousMatthieu,62,0,hilly,3003,198.0,0,GC,0.0,0,0
+HirschiMarc,63,0,hilly,3003,198.0,0,Classic,0.0,0,0
+DebusschereJens,64,0,hilly,3003,198.0,0,Classic,0.0,0,0
+SwiftConnor,65,0,hilly,3003,198.0,0,Classic,0.0,0,0
+BartheCyril,66,0,hilly,3003,198.0,0,Hills,0.0,0,0
+BardetRomain,67,0,hilly,3003,198.0,0,Climber,0.0,0,0
+ImpeyDaryl,68,0,hilly,3003,198.0,0,Hills,0.0,0,0
+BewleySam,69,0,hilly,3003,198.0,0,TT,0.0,0,0
+GibbonsRyan,70,0,hilly,3003,198.0,0,Hills,0.0,0,0
+CarapazRichard,71,0,hilly,3003,198.0,0,Climber,0.0,0,0
+RogličPrimož,72,0,hilly,3003,198.0,0,Climber,0.0,0,0
+RojasJosé Joaquín,73,0,hilly,3003,198.0,0,Hills,0.0,0,0
+BennettGeorge,74,0,hilly,3003,198.0,0,GC,0.0,0,0
+MadouasValentin,75,0,hilly,3003,198.0,0,Classic,0.0,0,0
+JansenAmund Grøndahl,76,0,hilly,3003,198.0,0,Classic,0.0,0,0
+RosaDiego,77,0,hilly,3003,198.0,0,Climber,0.0,0,0
+IzagirreGorka,78,0,hilly,3003,198.0,0,GC,0.0,0,0
+KüngStefan,79,0,hilly,3003,198.0,0,TT,0.0,0,0
+EgNiklas,80,0,hilly,3003,198.0,0,GC,0.0,0,0
+MollemaBauke,81,0,hilly,3003,198.0,0,Climber,0.0,0,0
+van BaarleDylan,82,0,hilly,3003,198.0,0,Classic,0.0,0,0
+KussSepp,83,0,hilly,3003,198.0,0,Climber,0.0,0,0
+MasEnric,84,0,hilly,3003,198.0,0,Climber,0.0,0,0
+HallerMarco,85,0,hilly,3003,198.0,0,Classic,0.0,0,0
+PérichonPierre-Luc,86,0,hilly,3003,198.0,0,Classic,0.0,0,0
+MartínezDaniel Felipe,87,0,hilly,3003,198.0,0,GC,0.0,0,0
+MohoričMatej,88,0,hilly,3003,198.0,0,Classic,0.0,0,0
+AruFabio,89,0,hilly,3003,198.0,0,Climber,0.0,0,0
+LatourPierre,90,0,hilly,3003,198.0,0,GC,0.0,0,0
+SicardRomain,91,0,hilly,3003,198.0,0,GC,0.0,0,0
+BettiolAlberto,92,0,hilly,3003,198.0,0,Classic,0.0,0,0
+HiguitaSergio,93,0,hilly,3003,198.0,0,Climber,0.0,0,0
+PowlessNeilson,94,0,hilly,3003,198.0,0,Classic,0.0,0,0
+RocheNicolas,95,0,hilly,3003,198.0,0,Climber,0.0,0,0
+PozzovivoDomenico,96,0,hilly,3003,198.0,0,GC,0.0,0,0
+UránRigoberto,97,0,hilly,3003,198.0,0,Climber,0.0,0,0
+SkujiņšToms,98,0,hilly,3003,198.0,0,Classic,0.0,0,0
+CarthyHugh,99,0,hilly,3003,198.0,0,GC,0.0,0,0
+PorteRichie,100,0,hilly,3003,198.0,0,GC,0.0,0,0
+RollandPierre,101,0,hilly,3003,198.0,0,Climber,0.0,0,0
+HerradaJesús,102,0,hilly,3003,198.0,0,GC,0.0,0,0
+WalscheidMax,103,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+RezaKévin,104,0,hilly,3003,198.0,0,Hills,0.0,0,0
+IzagirreIon,105,0,hilly,3003,198.0,0,GC,0.0,0,0
+GesinkRobert,106,0,hilly,3003,198.0,0,GC,0.0,0,0
+ZakarinIlnur,107,0,hilly,3003,198.0,0,GC,0.0,0,0
+GauduDavid,108,0,hilly,3003,198.0,0,Climber,0.0,0,0
+KämnaLennard,109,0,hilly,3003,198.0,0,Climber,0.0,0,0
+NieveMikel,110,0,hilly,3003,198.0,0,Climber,0.0,0,0
+EdetNicolas,111,0,hilly,3003,198.0,0,GC,0.0,0,0
+van GarderenTejay,112,0,hilly,3003,198.0,0,GC,0.0,0,0
+PolittNils,113,0,hilly,3003,198.0,0,Classic,0.0,0,0
+BilbaoPello,114,0,hilly,3003,198.0,0,Climber,0.0,0,0
+JungelsBob,115,0,hilly,3003,198.0,0,TT,0.0,0,0
+CrasSteff,116,0,hilly,3003,198.0,0,GC,0.0,0,0
+ColbrelliSonny,117,0,hilly,3003,198.0,0,Classic,0.0,0,0
+AsgreenKasper,118,0,hilly,3003,198.0,0,TT,0.0,0,0
+CataldoDario,119,0,hilly,3003,198.0,0,Climber,0.0,0,0
+ElissondeKenny,120,0,hilly,3003,198.0,0,Climber,0.0,0,0
+MolardRudy,121,0,hilly,3003,198.0,0,Climber,0.0,0,0
+ChevalierMaxime,122,0,hilly,3003,198.0,0,GC,0.0,0,0
+SchachmannMaximilian,123,0,hilly,3003,198.0,0,GC,0.0,0,0
+CalmejaneLilian,124,0,hilly,3003,198.0,0,GC,0.0,0,0
+VuillermozAlexis,125,0,hilly,3003,198.0,0,Climber,0.0,0,0
+HermansBen,126,0,hilly,3003,198.0,0,GC,0.0,0,0
+PedersenCasper,127,0,hilly,3003,198.0,0,Classic,0.0,0,0
+De GendtThomas,128,0,hilly,3003,198.0,0,TT,0.0,0,0
+GeschkeSimon,129,0,hilly,3003,198.0,0,Climber,0.0,0,0
+MarcatoMarco,130,0,hilly,3003,198.0,0,Classic,0.0,0,0
+ValgrenMichael,131,0,hilly,3003,198.0,0,Classic,0.0,0,0
+BurgaudeauMathieu,132,0,hilly,3003,198.0,0,Hills,0.0,0,0
+NivGuy,133,0,hilly,3003,198.0,0,GC,0.0,0,0
+GreipelAndré,134,0,hilly,3003,198.0,0,Sprint,0.0,0,0
+MartinDan,135,0,hilly,3003,198.0,0,Climber,0.0,0,0
+NeilandsKrists,136,0,hilly,3003,198.0,0,Classic,0.0,0,0
+AmadorAndrey,137,0,hilly,3003,198.0,0,GC,0.0,0,0
+PacherQuentin,138,0,hilly,3003,198.0,0,Hills,0.0,0,0
+SchärMichael,139,0,hilly,3003,198.0,0,GC,0.0,0,0
+TejadaHarold,140,0,hilly,3003,198.0,0,Climber,0.0,0,0
+KeukeleireJens,141,0,hilly,3003,198.0,0,Classic,0.0,0,0
+CastroviejoJonathan,142,0,hilly,3003,198.0,0,TT,0.0,0,0
+Boasson HagenEdvald,143,0,hilly,3003,198.0,0,Classic,0.0,0,0
+DevenynsDries,144,0,hilly,3003,198.0,0,GC,0.1364,0,0
+De BuystJasper,145,0,hilly,3003,198.0,0,Classic,0.1626,0,0
+ReichenbachSébastien,146,0,hilly,3003,198.0,0,GC,0.2098,0,0
+KlugeRoger,147,0,hilly,3003,198.0,0,Sprint,0.3725,0,0
+Juul-JensenChristopher,148,0,hilly,3003,198.0,0,GC,0.4354,0,0
+RoweLuke,149,0,hilly,3003,198.0,0,Classic,0.5089,0,0
+VeronaCarlos,150,0,hilly,3003,198.0,0,GC,0.7607,0,0
+KreuzigerRoman,151,0,hilly,3003,198.0,0,GC,0.8918,0,0
+FrisonFrederik,152,0,hilly,3003,198.0,0,Classic,0.8918,0,0
+GoglMichael,153,0,hilly,3003,198.0,0,Classic,0.8918,0,0
+GrellierFabien,154,0,hilly,3003,198.0,0,Classic,0.8918,0,0
+BonnetWilliam,155,0,hilly,3003,198.0,0,Classic,0.8918,0,0
+DeclercqTim,156,0,hilly,3003,198.0,0,Classic,0.8918,0,0
+SoupeGeoffrey,157,0,hilly,3003,198.0,0,Sprint,0.8918,0,0
+de la CruzDavid,158,0,hilly,3003,198.0,0,GC,0.8918,0,0
+HirtJan,159,0,hilly,3003,198.0,0,GC,0.8918,0,0
+De MarchiAlessandro,160,0,hilly,3003,198.0,0,Climber,1.1646,0,0
+SivakovPavel,161,0,hilly,3003,198.0,0,GC,1.6315,0,0
+KwiatkowskiMichał,162,0,hilly,3003,198.0,0,Classic,1.6315,0,0
+AnaconaWinner,163,0,hilly,3003,198.0,0,GC,1.6315,0,0
+PoelsWout,164,0,hilly,3003,198.0,0,Climber,1.6315,0,0
+CosnefroyBenoît,165,0,hilly,3003,198.0,0,Classic,1.6315,0,0
+CavagnaRémi,166,0,hilly,3003,198.0,0,TT,1.6315,0,0
+CherelMikaël,167,0,hilly,3003,198.0,0,GC,1.6315,0,0
+van AertWout,168,0,hilly,3003,198.0,0,Classic,1.6315,0,0
+MartinTony,169,0,hilly,3003,198.0,0,TT,1.6315,0,0
+CousinJérôme,170,0,hilly,3003,198.0,0,GC,1.6315,0,0
+QuintanaDayer,171,0,hilly,3003,198.0,0,GC,1.6315,0,0
+PöstlbergerLukas,172,0,hilly,3003,198.0,0,Classic,2.3712,0,0
+RogličPrimož,1,1,mountain,3200,160.5,0,Climber,0.0,0,0
+PogačarTadej,2,0,mountain,3200,160.5,0,Climber,0.0,0,0
+MartinGuillaume,3,0,mountain,3200,160.5,0,Climber,0.0,0,0
+QuintanaNairo,4,0,mountain,3200,160.5,0,GC,0.0,0,0
+AlaphilippeJulian,5,0,mountain,3200,160.5,0,Classic,0.0,0,0
+LópezMiguel Ángel,6,0,mountain,3200,160.5,0,Climber,0.0,0,0
+BernalEgan,7,0,mountain,3200,160.5,0,GC,0.0,0,0
+PinotThibaut,8,0,mountain,3200,160.5,0,Climber,0.0,0,0
+LandaMikel,9,0,mountain,3200,160.5,0,Climber,0.0,0,0
+YatesAdam,10,0,mountain,3200,160.5,0,Climber,0.0,0,0
+DumoulinTom,11,0,mountain,3200,160.5,0,TT,0.0,0,0
+ChavesEsteban,12,0,mountain,3200,160.5,0,Climber,0.0,0,0
+MollemaBauke,13,0,mountain,3200,160.5,0,Climber,0.0,0,0
+PorteRichie,14,0,mountain,3200,160.5,0,GC,0.0,0,0
+UránRigoberto,15,0,mountain,3200,160.5,0,Climber,0.0,0,0
+BardetRomain,16,0,mountain,3200,160.5,0,Climber,0.0,0,0
+BuchmannEmanuel,17,0,mountain,3200,160.5,0,GC,0.0605,0,0
+MasEnric,18,0,mountain,3200,160.5,0,Climber,0.0605,0,0
+KussSepp,19,0,mountain,3200,160.5,0,Climber,0.0605,0,0
+CarthyHugh,20,0,mountain,3200,160.5,0,GC,0.1009,0,0
+ValverdeAlejandro,21,0,mountain,3200,160.5,0,Climber,0.1413,0,0
+RocheNicolas,22,0,mountain,3200,160.5,0,Climber,0.1883,0,0
+CarusoDamiano,23,0,mountain,3200,160.5,0,GC,0.1883,0,0
+CarapazRichard,24,0,mountain,3200,160.5,0,Climber,0.1883,0,0
+ReichenbachSébastien,25,0,mountain,3200,160.5,0,GC,0.1883,0,0
+MartínezDaniel Felipe,26,0,mountain,3200,160.5,0,GC,0.1883,0,0
+HiguitaSergio,27,0,mountain,3200,160.5,0,Climber,0.1883,0,0
+HirschiMarc,28,0,mountain,3200,160.5,0,Classic,0.2556,0,0
+RollandPierre,29,0,mountain,3200,160.5,0,Climber,0.3834,0,0
+FormoloDavide,30,0,mountain,3200,160.5,0,Climber,0.3834,0,0
+BarguilWarren,31,0,mountain,3200,160.5,0,Climber,0.3969,0,0
+LatourPierre,32,0,mountain,3200,160.5,0,GC,0.4372,0,0
+HerradaJesús,33,0,mountain,3200,160.5,0,GC,0.4708,0,0
+ElissondeKenny,34,0,mountain,3200,160.5,0,Climber,0.5045,0,0
+PozzovivoDomenico,35,0,mountain,3200,160.5,0,GC,0.5045,0,0
+AruFabio,36,0,mountain,3200,160.5,0,Climber,0.5179,0,0
+SolerMarc,37,0,mountain,3200,160.5,0,Climber,0.5179,0,0
+CastroviejoJonathan,38,0,mountain,3200,160.5,0,TT,0.5785,0,0
+IzagirreIon,39,0,mountain,3200,160.5,0,GC,0.5785,0,0
+SicardRomain,40,0,mountain,3200,160.5,0,GC,0.6592,0,0
+De GendtThomas,41,0,mountain,3200,160.5,0,TT,0.7601,0,0
+AnaconaWinner,42,0,mountain,3200,160.5,0,GC,0.7601,0,0
+BilbaoPello,43,0,mountain,3200,160.5,0,Climber,0.8475,0,0
+van AertWout,44,0,mountain,3200,160.5,0,Classic,0.8879,0,0
+CherelMikaël,45,0,mountain,3200,160.5,0,GC,0.9215,0,0
+KwiatkowskiMichał,46,0,mountain,3200,160.5,0,Classic,1.1704,0,0
+GauduDavid,47,0,mountain,3200,160.5,0,Climber,1.2107,0,0
+NieveMikel,48,0,mountain,3200,160.5,0,Climber,1.2376,0,0
+LutsenkoAlexey,49,0,mountain,3200,160.5,0,GC,1.2376,0,0
+MolardRudy,50,0,mountain,3200,160.5,0,Climber,1.2376,0,0
+BennettGeorge,51,0,mountain,3200,160.5,0,GC,1.2376,0,0
+Van AvermaetGreg,52,0,mountain,3200,160.5,0,Classic,1.2376,0,0
+MartinDan,53,0,mountain,3200,160.5,0,Climber,1.2713,0,0
+ZakarinIlnur,54,0,mountain,3200,160.5,0,GC,1.3587,0,0
+TejadaHarold,55,0,mountain,3200,160.5,0,Climber,1.3587,0,0
+SchachmannMaximilian,56,0,mountain,3200,160.5,0,GC,1.3587,0,0
+SánchezLuis León,57,0,mountain,3200,160.5,0,GC,1.3587,0,0
+EgNiklas,58,0,mountain,3200,160.5,0,GC,1.3587,0,0
+KämnaLennard,59,0,mountain,3200,160.5,0,Climber,1.6076,0,0
+MühlbergerGregor,60,0,mountain,3200,160.5,0,Climber,1.6076,0,0
+PolancJan,61,0,mountain,3200,160.5,0,GC,1.6076,0,0
+PowlessNeilson,62,0,mountain,3200,160.5,0,Classic,1.6076,0,0
+Kragh AndersenSøren,63,0,mountain,3200,160.5,0,TT,1.6681,0,0
+GesinkRobert,64,0,mountain,3200,160.5,0,GC,1.7556,0,0
+EdetNicolas,65,0,mountain,3200,160.5,0,GC,1.9708,0,0
+JungelsBob,66,0,mountain,3200,160.5,0,TT,2.0986,0,0
+van BaarleDylan,67,0,mountain,3200,160.5,0,Classic,2.3878,0,0
+GroßschartnerFelix,68,0,mountain,3200,160.5,0,GC,2.3878,0,0
+AmadorAndrey,69,0,mountain,3200,160.5,0,GC,2.3878,0,0
+KüngStefan,70,0,mountain,3200,160.5,0,TT,2.4618,0,0
+SchärMichael,71,0,mountain,3200,160.5,0,GC,2.4618,0,0
+GeschkeSimon,72,0,mountain,3200,160.5,0,Climber,2.4618,0,0
+GautierCyril,73,0,mountain,3200,160.5,0,Classic,2.5224,0,0
+HermansBen,74,0,mountain,3200,160.5,0,GC,2.7376,0,0
+RosaDiego,75,0,mountain,3200,160.5,0,Climber,2.8654,0,0
+De MarchiAlessandro,76,0,mountain,3200,160.5,0,Climber,2.8654,0,0
+van GarderenTejay,77,0,mountain,3200,160.5,0,GC,2.8654,0,0
+IzagirreGorka,78,0,mountain,3200,160.5,0,GC,2.8654,0,0
+QuintanaDayer,79,0,mountain,3200,160.5,0,GC,3.5515,0,0
+OliveiraNelson,80,0,mountain,3200,160.5,0,TT,3.5515,0,0
+CataldoDario,81,0,mountain,3200,160.5,0,Climber,3.7196,0,0
+HouleHugo,82,0,mountain,3200,160.5,0,GC,3.7196,0,0
+DevenynsDries,83,0,mountain,3200,160.5,0,GC,3.7869,0,0
+FraileOmar,84,0,mountain,3200,160.5,0,Climber,3.9685,0,0
+SkujiņšToms,85,0,mountain,3200,160.5,0,Classic,4.7017,0,0
+NeilandsKrists,86,0,mountain,3200,160.5,0,Classic,4.7017,0,0
+MartinTony,87,0,mountain,3200,160.5,0,TT,4.7017,0,0
+RojasJosé Joaquín,88,0,mountain,3200,160.5,0,Hills,4.7017,0,0
+VeronaCarlos,89,0,mountain,3200,160.5,0,GC,4.7017,0,0
+CalmejaneLilian,90,0,mountain,3200,160.5,0,GC,4.8497,0,0
+VuillermozAlexis,91,0,mountain,3200,160.5,0,Climber,5.0246,0,0
+PacherQuentin,92,0,mountain,3200,160.5,0,Hills,5.0246,0,0
+VenturiniClément,93,0,mountain,3200,160.5,0,Classic,5.0313,0,0
+MohoričMatej,94,0,mountain,3200,160.5,0,Classic,5.0515,0,0
+BauerJack,95,0,mountain,3200,160.5,0,TT,5.0515,0,0
+Juul-JensenChristopher,96,0,mountain,3200,160.5,0,GC,5.0515,0,0
+LaengenVegard Stake,97,0,mountain,3200,160.5,0,GC,5.0515,0,0
+LadagnousMatthieu,98,0,mountain,3200,160.5,0,GC,5.0515,0,0
+BettiolAlberto,99,0,mountain,3200,160.5,0,Classic,5.2062,0,0
+KeukeleireJens,100,0,mountain,3200,160.5,0,Classic,5.2062,0,0
+JansenAmund Grøndahl,101,0,mountain,3200,160.5,0,Classic,5.3003,0,0
+GoglMichael,102,0,mountain,3200,160.5,0,Classic,5.3003,0,0
+PedersenCasper,103,0,mountain,3200,160.5,0,Classic,5.3003,0,0
+RoweLuke,104,0,mountain,3200,160.5,0,Classic,5.3003,0,0
+ValgrenMichael,105,0,mountain,3200,160.5,0,Classic,5.3003,0,0
+NaesenOliver,106,0,mountain,3200,160.5,0,Classic,5.6501,0,0
+Van AsbroeckTom,107,0,mountain,3200,160.5,0,Classic,5.6501,0,0
+ErvitiImanol,108,0,mountain,3200,160.5,0,GC,5.6501,0,0
+PetersNans,109,0,mountain,3200,160.5,0,Classic,5.6905,0,0
+MarcatoMarco,110,0,mountain,3200,160.5,0,Classic,5.899,0,0
+StuyvenJasper,111,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+GibbonsRyan,112,0,mountain,3200,160.5,0,Hills,6.5178,0,0
+TurgisAnthony,113,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+BartheCyril,114,0,mountain,3200,160.5,0,Hills,6.5178,0,0
+ChevalierMaxime,115,0,mountain,3200,160.5,0,GC,6.5178,0,0
+NieuwenhuisJoris,116,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+BenootTiesj,117,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+ImpeyDaryl,118,0,mountain,3200,160.5,0,Hills,6.5178,0,0
+ArndtNikias,119,0,mountain,3200,160.5,0,Hills,6.5178,0,0
+DeclercqTim,120,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+KochJonas,121,0,mountain,3200,160.5,0,Hills,6.5178,0,0
+Boasson HagenEdvald,122,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+NivGuy,123,0,mountain,3200,160.5,0,GC,6.5178,0,0
+ColbrelliSonny,124,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+SaganPeter,125,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+OssDaniel,126,0,mountain,3200,160.5,0,Classic,6.5178,0,0
+HirtJan,127,0,mountain,3200,160.5,0,GC,6.5178,0,0
+PolittNils,128,0,mountain,3200,160.5,0,Classic,7.5536,0,0
+AsgreenKasper,129,0,mountain,3200,160.5,0,TT,7.5873,0,0
+PöstlbergerLukas,130,0,mountain,3200,160.5,0,Classic,7.5873,0,0
+MezgecLuka,131,0,mountain,3200,160.5,0,Hills,7.5873,0,0
+PérichonPierre-Luc,132,0,mountain,3200,160.5,0,Classic,7.5873,0,0
+BurgaudeauMathieu,133,0,mountain,3200,160.5,0,Hills,7.8294,0,0
+DebusschereJens,134,0,mountain,3200,160.5,0,Classic,8.159,0,0
+De BuystJasper,135,0,mountain,3200,160.5,0,Classic,8.159,0,0
+LedanoisKévin,136,0,mountain,3200,160.5,0,Classic,8.159,0,0
+RezaKévin,137,0,mountain,3200,160.5,0,Hills,8.159,0,0
+MadouasValentin,138,0,mountain,3200,160.5,0,Classic,8.159,0,0
+SivakovPavel,139,0,mountain,3200,160.5,0,GC,8.159,0,0
+CrasSteff,140,0,mountain,3200,160.5,0,GC,8.159,0,0
+CoquardBryan,141,0,mountain,3200,160.5,0,Sprint,8.159,0,0
+BewleySam,142,0,mountain,3200,160.5,0,TT,8.159,0,0
+de la CruzDavid,143,0,mountain,3200,160.5,0,GC,8.159,0,0
+SoupeGeoffrey,144,0,mountain,3200,160.5,0,Sprint,8.159,0,0
+MørkøvMichael,145,0,mountain,3200,160.5,0,Classic,8.159,0,0
+PedersenMads,146,0,mountain,3200,160.5,0,Classic,8.159,0,0
+SwiftConnor,147,0,mountain,3200,160.5,0,Classic,8.159,0,0
+FrisonFrederik,148,0,mountain,3200,160.5,0,Classic,8.159,0,0
+CosnefroyBenoît,149,0,mountain,3200,160.5,0,Classic,8.159,0,0
+CousinJérôme,150,0,mountain,3200,160.5,0,GC,8.159,0,0
+HallerMarco,151,0,mountain,3200,160.5,0,Classic,8.159,0,0
+PoelsWout,152,0,mountain,3200,160.5,0,Climber,8.159,0,0
+GrellierFabien,153,0,mountain,3200,160.5,0,Classic,8.159,0,0
+TrentinMatteo,154,0,mountain,3200,160.5,0,Classic,8.159,0,0
+GreipelAndré,155,0,mountain,3200,160.5,0,Sprint,8.159,0,0
+RussoClément,156,0,mountain,3200,160.5,0,Classic,8.159,0,0
+HofstetterHugo,157,0,mountain,3200,160.5,0,Classic,8.159,0,0
+KristoffAlexander,158,0,mountain,3200,160.5,0,Classic,8.159,0,0
+CavagnaRémi,159,0,mountain,3200,160.5,0,TT,8.159,0,0
+BonnetWilliam,160,0,mountain,3200,160.5,0,Classic,8.159,0,0
+KreuzigerRoman,161,0,mountain,3200,160.5,0,GC,8.2734,0,0
+VivianiElia,162,0,mountain,3200,160.5,0,Sprint,8.2734,0,0
+NizzoloGiacomo,163,0,mountain,3200,160.5,0,Sprint,8.2734,0,0
+WalscheidMax,164,0,mountain,3200,160.5,0,Sprint,8.2734,0,0
+BolCees,165,0,mountain,3200,160.5,0,Sprint,8.3473,0,0
+EwanCaleb,166,0,mountain,3200,160.5,0,Sprint,8.3675,0,0
+BonifazioNiccolò,167,0,mountain,3200,160.5,0,Sprint,8.6231,0,0
+LaporteChristophe,168,0,mountain,3200,160.5,0,Classic,8.6769,0,0
+BennettSam,169,0,mountain,3200,160.5,0,Sprint,8.8518,0,0
+TheunsEdward,170,0,mountain,3200,160.5,0,Classic,8.8518,0,0
+ConsonniSimone,171,0,mountain,3200,160.5,0,Classic,8.8653,0,0
+KlugeRoger,172,0,mountain,3200,160.5,0,Sprint,9.0133,0,0
+van AertWout,1,1,flat,1388,183.0,0,Classic,0.0,0,0
+BolCees,2,0,flat,1388,183.0,0,Sprint,0.0,0,0
+BennettSam,3,0,flat,1388,183.0,0,Sprint,0.0,0,0
+SaganPeter,4,0,flat,1388,183.0,0,Classic,0.0,0,0
+StuyvenJasper,5,0,flat,1388,183.0,0,Classic,0.0,0,0
+MezgecLuka,6,0,flat,1388,183.0,0,Hills,0.0,0,0
+CoquardBryan,7,0,flat,1388,183.0,0,Sprint,0.0,0,0
+EwanCaleb,8,0,flat,1388,183.0,0,Sprint,0.0,0,0
+VenturiniClément,9,0,flat,1388,183.0,0,Classic,0.0,0,0
+HofstetterHugo,10,0,flat,1388,183.0,0,Classic,0.0,0,0
+NizzoloGiacomo,11,0,flat,1388,183.0,0,Sprint,0.0,0,0
+LaporteChristophe,12,0,flat,1388,183.0,0,Classic,0.0,0,0
+PedersenCasper,13,0,flat,1388,183.0,0,Classic,0.0,0,0
+KristoffAlexander,14,0,flat,1388,183.0,0,Classic,0.0,0,0
+HouleHugo,15,0,flat,1388,183.0,0,GC,0.0,0,0
+AlaphilippeJulian,16,0,flat,1388,183.0,0,Classic,0.0,0,0
+YatesAdam,17,0,flat,1388,183.0,0,Climber,0.0,0,0
+BernalEgan,18,0,flat,1388,183.0,0,GC,0.0,0,0
+LópezMiguel Ángel,19,0,flat,1388,183.0,0,Climber,0.0,0,0
+Van AvermaetGreg,20,0,flat,1388,183.0,0,Classic,0.0,0,0
+MartinGuillaume,21,0,flat,1388,183.0,0,Climber,0.0,0,0
+BardetRomain,22,0,flat,1388,183.0,0,Climber,0.0,0,0
+QuintanaNairo,23,0,flat,1388,183.0,0,GC,0.0,0,0
+CarapazRichard,24,0,flat,1388,183.0,0,Climber,0.0,0,0
+PogačarTadej,25,0,flat,1388,183.0,0,Climber,0.0,0,0
+DumoulinTom,26,0,flat,1388,183.0,0,TT,0.0,0,0
+ChavesEsteban,27,0,flat,1388,183.0,0,Climber,0.0,0,0
+OssDaniel,28,0,flat,1388,183.0,0,Classic,0.0,0,0
+CherelMikaël,29,0,flat,1388,183.0,0,GC,0.0,0,0
+RogličPrimož,30,0,flat,1388,183.0,0,Climber,0.0,0,0
+PinotThibaut,31,0,flat,1388,183.0,0,Climber,0.0,0,0
+BuchmannEmanuel,32,0,flat,1388,183.0,0,GC,0.0,0,0
+UránRigoberto,33,0,flat,1388,183.0,0,Climber,0.0,0,0
+TurgisAnthony,34,0,flat,1388,183.0,0,Classic,0.0,0,0
+RollandPierre,35,0,flat,1388,183.0,0,Climber,0.0,0,0
+ConsonniSimone,36,0,flat,1388,183.0,0,Classic,0.0,0,0
+SolerMarc,37,0,flat,1388,183.0,0,Climber,0.0,0,0
+TrentinMatteo,38,0,flat,1388,183.0,0,Classic,0.0,0,0
+FormoloDavide,39,0,flat,1388,183.0,0,Climber,0.0,0,0
+ValverdeAlejandro,40,0,flat,1388,183.0,0,Climber,0.0,0,0
+LandaMikel,41,0,flat,1388,183.0,0,Climber,0.0,0,0
+CarusoDamiano,42,0,flat,1388,183.0,0,GC,0.0,0,0
+MollemaBauke,43,0,flat,1388,183.0,0,Climber,0.0,0,0
+SánchezLuis León,44,0,flat,1388,183.0,0,GC,0.0,0,0
+AruFabio,45,0,flat,1388,183.0,0,Climber,0.0,0,0
+PorteRichie,46,0,flat,1388,183.0,0,GC,0.0,0,0
+MasEnric,47,0,flat,1388,183.0,0,Climber,0.0,0,0
+BonifazioNiccolò,48,0,flat,1388,183.0,0,Sprint,0.0,0,0
+IzagirreGorka,49,0,flat,1388,183.0,0,GC,0.0,0,0
+KochJonas,50,0,flat,1388,183.0,0,Hills,0.0,0,0
+HiguitaSergio,51,0,flat,1388,183.0,0,Climber,0.0,0,0
+CarthyHugh,52,0,flat,1388,183.0,0,GC,0.0,0,0
+PolancJan,53,0,flat,1388,183.0,0,GC,0.0,0,0
+MühlbergerGregor,54,0,flat,1388,183.0,0,Climber,0.0,0,0
+ArndtNikias,55,0,flat,1388,183.0,0,Hills,0.0,0,0
+VuillermozAlexis,56,0,flat,1388,183.0,0,Climber,0.0,0,0
+BarguilWarren,57,0,flat,1388,183.0,0,Climber,0.0,0,0
+PozzovivoDomenico,58,0,flat,1388,183.0,0,GC,0.0,0,0
+MolardRudy,59,0,flat,1388,183.0,0,Climber,0.0,0,0
+KeukeleireJens,60,0,flat,1388,183.0,0,Classic,0.0,0,0
+KüngStefan,61,0,flat,1388,183.0,0,TT,0.0,0,0
+MartínezDaniel Felipe,62,0,flat,1388,183.0,0,GC,0.0,0,0
+MohoričMatej,63,0,flat,1388,183.0,0,Classic,0.0,0,0
+SicardRomain,64,0,flat,1388,183.0,0,GC,0.0,0,0
+AsgreenKasper,65,0,flat,1388,183.0,0,TT,0.0,0,0
+OliveiraNelson,66,0,flat,1388,183.0,0,TT,0.0,0,0
+ImpeyDaryl,67,0,flat,1388,183.0,0,Hills,0.0,0,0
+BilbaoPello,68,0,flat,1388,183.0,0,Climber,0.0,0,0
+NieuwenhuisJoris,69,0,flat,1388,183.0,0,Classic,0.0,0,0
+MarcatoMarco,70,0,flat,1388,183.0,0,Classic,0.0,0,0
+De BuystJasper,71,0,flat,1388,183.0,0,Classic,0.0,0,0
+Van AsbroeckTom,72,0,flat,1388,183.0,0,Classic,0.1084,0,0
+GautierCyril,73,0,flat,1388,183.0,0,Classic,0.1913,0,0
+RezaKévin,74,0,flat,1388,183.0,0,Hills,0.1913,0,0
+Boasson HagenEdvald,75,0,flat,1388,183.0,0,Classic,0.2232,0,0
+BauerJack,76,0,flat,1388,183.0,0,TT,0.2232,0,0
+Kragh AndersenSøren,77,0,flat,1388,183.0,0,TT,0.2933,0,0
+LadagnousMatthieu,78,0,flat,1388,183.0,0,GC,0.4145,0,0
+SoupeGeoffrey,79,0,flat,1388,183.0,0,Sprint,0.4272,0,0
+ErvitiImanol,80,0,flat,1388,183.0,0,GC,0.44,0,0
+RojasJosé Joaquín,81,0,flat,1388,183.0,0,Hills,0.44,0,0
+TheunsEdward,82,0,flat,1388,183.0,0,Classic,0.44,0,0
+CataldoDario,83,0,flat,1388,183.0,0,Climber,0.44,0,0
+SchärMichael,84,0,flat,1388,183.0,0,GC,0.4655,0,0
+GeschkeSimon,85,0,flat,1388,183.0,0,Climber,0.4655,0,0
+WalscheidMax,86,0,flat,1388,183.0,0,Sprint,0.4655,0,0
+DebusschereJens,87,0,flat,1388,183.0,0,Classic,0.4846,0,0
+MørkøvMichael,88,0,flat,1388,183.0,0,Classic,0.542,0,0
+DevenynsDries,89,0,flat,1388,183.0,0,GC,0.542,0,0
+BettiolAlberto,90,0,flat,1388,183.0,0,Classic,0.542,0,0
+LaengenVegard Stake,91,0,flat,1388,183.0,0,GC,0.5739,0,0
+ValgrenMichael,92,0,flat,1388,183.0,0,Classic,0.6568,0,0
+BartheCyril,93,0,flat,1388,183.0,0,Hills,0.6951,0,0
+IzagirreIon,94,0,flat,1388,183.0,0,GC,0.7525,0,0
+PedersenMads,95,0,flat,1388,183.0,0,Classic,0.7716,0,0
+PöstlbergerLukas,96,0,flat,1388,183.0,0,Classic,0.7716,0,0
+VivianiElia,97,0,flat,1388,183.0,0,Sprint,0.7716,0,0
+GoglMichael,98,0,flat,1388,183.0,0,Classic,0.8162,0,0
+LedanoisKévin,99,0,flat,1388,183.0,0,Classic,0.9756,0,0
+LatourPierre,100,0,flat,1388,183.0,0,GC,0.9756,0,0
+LutsenkoAlexey,101,0,flat,1388,183.0,0,GC,0.9756,0,0
+SkujiņšToms,102,0,flat,1388,183.0,0,Classic,1.0522,0,0
+GreipelAndré,103,0,flat,1388,183.0,0,Sprint,1.1861,0,0
+BenootTiesj,104,0,flat,1388,183.0,0,Classic,1.1861,0,0
+KreuzigerRoman,105,0,flat,1388,183.0,0,GC,1.218,0,0
+De MarchiAlessandro,106,0,flat,1388,183.0,0,Climber,1.218,0,0
+NaesenOliver,107,0,flat,1388,183.0,0,Classic,1.3327,0,0
+CrasSteff,108,0,flat,1388,183.0,0,GC,1.3327,0,0
+JungelsBob,109,0,flat,1388,183.0,0,TT,1.3327,0,0
+CavagnaRémi,110,0,flat,1388,183.0,0,TT,1.3327,0,0
+HirschiMarc,111,0,flat,1388,183.0,0,Classic,1.3327,0,0
+GibbonsRyan,112,0,flat,1388,183.0,0,Hills,1.3327,0,0
+ChevalierMaxime,113,0,flat,1388,183.0,0,GC,1.3327,0,0
+KwiatkowskiMichał,114,0,flat,1388,183.0,0,Classic,1.3646,0,0
+van BaarleDylan,115,0,flat,1388,183.0,0,Classic,1.3646,0,0
+FrisonFrederik,116,0,flat,1388,183.0,0,Classic,1.4603,0,0
+KlugeRoger,117,0,flat,1388,183.0,0,Sprint,1.4603,0,0
+SchachmannMaximilian,118,0,flat,1388,183.0,0,GC,1.5751,0,0
+ColbrelliSonny,119,0,flat,1388,183.0,0,Classic,1.5751,0,0
+HallerMarco,120,0,flat,1388,183.0,0,Classic,1.5751,0,0
+GauduDavid,121,0,flat,1388,183.0,0,Climber,1.8493,0,0
+EdetNicolas,122,0,flat,1388,183.0,0,GC,1.8493,0,0
+AnaconaWinner,123,0,flat,1388,183.0,0,GC,1.8493,0,0
+RosaDiego,124,0,flat,1388,183.0,0,Climber,1.8493,0,0
+MadouasValentin,125,0,flat,1388,183.0,0,Classic,1.8493,0,0
+PolittNils,126,0,flat,1388,183.0,0,Classic,1.8493,0,0
+BonnetWilliam,127,0,flat,1388,183.0,0,Classic,1.8493,0,0
+PacherQuentin,128,0,flat,1388,183.0,0,Hills,1.8493,0,0
+ReichenbachSébastien,129,0,flat,1388,183.0,0,GC,1.8493,0,0
+De GendtThomas,130,0,flat,1388,183.0,0,TT,1.8493,0,0
+HermansBen,131,0,flat,1388,183.0,0,GC,1.8493,0,0
+BurgaudeauMathieu,132,0,flat,1388,183.0,0,Hills,1.8493,0,0
+RussoClément,133,0,flat,1388,183.0,0,Classic,1.8493,0,0
+QuintanaDayer,134,0,flat,1388,183.0,0,GC,1.8493,0,0
+SwiftConnor,135,0,flat,1388,183.0,0,Classic,1.8493,0,0
+RoweLuke,136,0,flat,1388,183.0,0,Classic,1.8493,0,0
+MartinDan,137,0,flat,1388,183.0,0,Climber,1.8493,0,0
+van GarderenTejay,138,0,flat,1388,183.0,0,GC,1.8493,0,0
+JansenAmund Grøndahl,139,0,flat,1388,183.0,0,Classic,1.8493,0,0
+DeclercqTim,140,0,flat,1388,183.0,0,Classic,1.8493,0,0
+HerradaJesús,141,0,flat,1388,183.0,0,GC,1.8493,0,0
+AmadorAndrey,142,0,flat,1388,183.0,0,GC,1.8493,0,0
+BennettGeorge,143,0,flat,1388,183.0,0,GC,1.8493,0,0
+BewleySam,144,0,flat,1388,183.0,0,TT,1.8493,0,0
+NivGuy,145,0,flat,1388,183.0,0,GC,1.8493,0,0
+GesinkRobert,146,0,flat,1388,183.0,0,GC,1.8493,0,0
+MartinTony,147,0,flat,1388,183.0,0,TT,1.8493,0,0
+ZakarinIlnur,148,0,flat,1388,183.0,0,GC,1.8493,0,0
+EgNiklas,149,0,flat,1388,183.0,0,GC,1.8493,0,0
+KussSepp,150,0,flat,1388,183.0,0,Climber,1.8493,0,0
+ElissondeKenny,151,0,flat,1388,183.0,0,Climber,1.8493,0,0
+NieveMikel,152,0,flat,1388,183.0,0,Climber,1.8493,0,0
+KämnaLennard,153,0,flat,1388,183.0,0,Climber,1.8493,0,0
+GroßschartnerFelix,154,0,flat,1388,183.0,0,GC,1.8493,0,0
+CalmejaneLilian,155,0,flat,1388,183.0,0,GC,1.8493,0,0
+SivakovPavel,156,0,flat,1388,183.0,0,GC,1.8493,0,0
+CousinJérôme,157,0,flat,1388,183.0,0,GC,1.8493,0,0
+NeilandsKrists,158,0,flat,1388,183.0,0,Classic,1.8493,0,0
+GrellierFabien,159,0,flat,1388,183.0,0,Classic,1.8493,0,0
+PowlessNeilson,160,0,flat,1388,183.0,0,Classic,1.8493,0,0
+PetersNans,161,0,flat,1388,183.0,0,Classic,1.8493,0,0
+HirtJan,162,0,flat,1388,183.0,0,GC,1.8493,0,0
+de la CruzDavid,163,0,flat,1388,183.0,0,GC,1.8493,0,0
+CosnefroyBenoît,164,0,flat,1388,183.0,0,Classic,1.8493,0,0
+VeronaCarlos,165,0,flat,1388,183.0,0,GC,1.8493,0,0
+PérichonPierre-Luc,166,0,flat,1388,183.0,0,Classic,1.8493,0,0
+Juul-JensenChristopher,167,0,flat,1388,183.0,0,GC,1.8493,0,0
+PoelsWout,168,0,flat,1388,183.0,0,Climber,2.7037,0,0
+RocheNicolas,169,0,flat,1388,183.0,0,Climber,2.7037,0,0
+TejadaHarold,170,0,flat,1388,183.0,0,Climber,2.7037,0,0
+FraileOmar,171,0,flat,1388,183.0,0,Climber,3.4753,0,0
+CastroviejoJonathan,172,0,flat,1388,183.0,0,TT,3.4753,0,0
+LutsenkoAlexey,1,1,mountain,3087,191.0,0,GC,0.0,0,0
+HerradaJesús,2,0,mountain,3087,191.0,0,GC,0.3363,0,0
+Van AvermaetGreg,3,0,mountain,3087,191.0,0,Classic,0.8255,0,0
+PowlessNeilson,4,0,mountain,3087,191.0,0,Classic,0.8377,0,0
+AlaphilippeJulian,5,0,mountain,3087,191.0,0,Classic,1.0517,0,0
+MollemaBauke,6,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+KwiatkowskiMichał,7,0,mountain,3087,191.0,0,Classic,1.0578,0,0
+BernalEgan,8,0,mountain,3087,191.0,0,GC,1.0578,0,0
+CarapazRichard,9,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+YatesAdam,10,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+PogačarTadej,11,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+ChavesEsteban,12,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+QuintanaNairo,13,0,mountain,3087,191.0,0,GC,1.0578,0,0
+PinotThibaut,14,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+DumoulinTom,15,0,mountain,3087,191.0,0,TT,1.0578,0,0
+ValverdeAlejandro,16,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+SchachmannMaximilian,17,0,mountain,3087,191.0,0,GC,1.0578,0,0
+BardetRomain,18,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+BuchmannEmanuel,19,0,mountain,3087,191.0,0,GC,1.0578,0,0
+HiguitaSergio,20,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+RogličPrimož,21,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+UránRigoberto,22,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+RollandPierre,23,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+MasEnric,24,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+LópezMiguel Ángel,25,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+LandaMikel,26,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+MartinGuillaume,27,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+CarusoDamiano,28,0,mountain,3087,191.0,0,GC,1.0578,0,0
+PozzovivoDomenico,29,0,mountain,3087,191.0,0,GC,1.0578,0,0
+PorteRichie,30,0,mountain,3087,191.0,0,GC,1.0578,0,0
+CarthyHugh,31,0,mountain,3087,191.0,0,GC,1.0578,0,0
+SolerMarc,32,0,mountain,3087,191.0,0,Climber,1.0578,0,0
+ReichenbachSébastien,33,0,mountain,3087,191.0,0,GC,1.0578,0,0
+VuillermozAlexis,34,0,mountain,3087,191.0,0,Climber,1.1068,0,0
+MartínezDaniel Felipe,35,0,mountain,3087,191.0,0,GC,1.1068,0,0
+ZakarinIlnur,36,0,mountain,3087,191.0,0,GC,1.1068,0,0
+AruFabio,37,0,mountain,3087,191.0,0,Climber,1.1068,0,0
+MadouasValentin,38,0,mountain,3087,191.0,0,Classic,1.1068,0,0
+ElissondeKenny,39,0,mountain,3087,191.0,0,Climber,1.1068,0,0
+BilbaoPello,40,0,mountain,3087,191.0,0,Climber,1.1373,0,0
+SicardRomain,41,0,mountain,3087,191.0,0,GC,1.1373,0,0
+BarguilWarren,42,0,mountain,3087,191.0,0,Climber,1.1373,0,0
+KussSepp,43,0,mountain,3087,191.0,0,Climber,1.1373,0,0
+CherelMikaël,44,0,mountain,3087,191.0,0,GC,1.1496,0,0
+HermansBen,45,0,mountain,3087,191.0,0,GC,1.174,0,0
+MolardRudy,46,0,mountain,3087,191.0,0,Climber,1.174,0,0
+PolancJan,47,0,mountain,3087,191.0,0,GC,1.174,0,0
+JungelsBob,48,0,mountain,3087,191.0,0,TT,1.174,0,0
+GesinkRobert,49,0,mountain,3087,191.0,0,GC,1.2291,0,0
+BennettGeorge,50,0,mountain,3087,191.0,0,GC,1.3391,0,0
+IzagirreIon,51,0,mountain,3087,191.0,0,GC,1.3391,0,0
+AnaconaWinner,52,0,mountain,3087,191.0,0,GC,1.3636,0,0
+TejadaHarold,53,0,mountain,3087,191.0,0,Climber,1.3819,0,0
+CastroviejoJonathan,54,0,mountain,3087,191.0,0,TT,1.5103,0,0
+NieveMikel,55,0,mountain,3087,191.0,0,Climber,1.6143,0,0
+RocheNicolas,56,0,mountain,3087,191.0,0,Climber,2.611,0,0
+IzagirreGorka,57,0,mountain,3087,191.0,0,GC,3.1858,0,0
+De GendtThomas,58,0,mountain,3087,191.0,0,TT,3.357,0,0
+HouleHugo,59,0,mountain,3087,191.0,0,GC,3.357,0,0
+SánchezLuis León,60,0,mountain,3087,191.0,0,GC,3.357,0,0
+CavagnaRémi,61,0,mountain,3087,191.0,0,TT,3.3814,0,0
+GauduDavid,62,0,mountain,3087,191.0,0,Climber,3.9012,0,0
+OliveiraNelson,63,0,mountain,3087,191.0,0,TT,3.9012,0,0
+FormoloDavide,64,0,mountain,3087,191.0,0,Climber,3.9623,0,0
+HirtJan,65,0,mountain,3087,191.0,0,GC,3.9623,0,0
+GeschkeSimon,66,0,mountain,3087,191.0,0,Climber,3.9929,0,0
+van AertWout,67,0,mountain,3087,191.0,0,Classic,5.7601,0,0
+EdetNicolas,68,0,mountain,3087,191.0,0,GC,5.7601,0,0
+RosaDiego,69,0,mountain,3087,191.0,0,Climber,5.7601,0,0
+EgNiklas,70,0,mountain,3087,191.0,0,GC,6.078,0,0
+MartinDan,71,0,mountain,3087,191.0,0,Climber,6.1575,0,0
+GroßschartnerFelix,72,0,mountain,3087,191.0,0,GC,6.2309,0,0
+van BaarleDylan,73,0,mountain,3087,191.0,0,Classic,6.2309,0,0
+BurgaudeauMathieu,74,0,mountain,3087,191.0,0,Hills,6.7017,0,0
+Van AsbroeckTom,75,0,mountain,3087,191.0,0,Classic,6.7017,0,0
+KeukeleireJens,76,0,mountain,3087,191.0,0,Classic,6.7017,0,0
+Boasson HagenEdvald,77,0,mountain,3087,191.0,0,Classic,6.7017,0,0
+MühlbergerGregor,78,0,mountain,3087,191.0,0,Climber,6.7017,0,0
+PacherQuentin,79,0,mountain,3087,191.0,0,Hills,6.8791,0,0
+KüngStefan,80,0,mountain,3087,191.0,0,TT,6.8791,0,0
+ValgrenMichael,81,0,mountain,3087,191.0,0,Classic,6.8791,0,0
+KämnaLennard,82,0,mountain,3087,191.0,0,Climber,6.8791,0,0
+RojasJosé Joaquín,83,0,mountain,3087,191.0,0,Hills,6.8791,0,0
+FraileOmar,84,0,mountain,3087,191.0,0,Climber,6.8791,0,0
+CataldoDario,85,0,mountain,3087,191.0,0,Climber,6.8791,0,0
+VeronaCarlos,86,0,mountain,3087,191.0,0,GC,6.8791,0,0
+LatourPierre,87,0,mountain,3087,191.0,0,GC,6.8791,0,0
+GautierCyril,88,0,mountain,3087,191.0,0,Classic,6.8791,0,0
+SkujiņšToms,89,0,mountain,3087,191.0,0,Classic,6.8791,0,0
+DevenynsDries,90,0,mountain,3087,191.0,0,GC,6.8791,0,0
+De MarchiAlessandro,91,0,mountain,3087,191.0,0,Climber,6.9096,0,0
+OssDaniel,92,0,mountain,3087,191.0,0,Classic,7.8696,0,0
+PetersNans,93,0,mountain,3087,191.0,0,Classic,8.4261,0,0
+BartheCyril,94,0,mountain,3087,191.0,0,Hills,8.4261,0,0
+SchärMichael,95,0,mountain,3087,191.0,0,GC,8.4261,0,0
+van GarderenTejay,96,0,mountain,3087,191.0,0,GC,8.4261,0,0
+DeclercqTim,97,0,mountain,3087,191.0,0,Classic,9.1782,0,0
+NaesenOliver,98,0,mountain,3087,191.0,0,Classic,9.1782,0,0
+StuyvenJasper,99,0,mountain,3087,191.0,0,Classic,9.1782,0,0
+GrellierFabien,100,0,mountain,3087,191.0,0,Classic,9.1782,0,0
+LedanoisKévin,101,0,mountain,3087,191.0,0,Classic,9.1782,0,0
+MohoričMatej,102,0,mountain,3087,191.0,0,Classic,9.1782,0,0
+LadagnousMatthieu,103,0,mountain,3087,191.0,0,GC,9.1782,0,0
+ErvitiImanol,104,0,mountain,3087,191.0,0,GC,9.1782,0,0
+LaengenVegard Stake,105,0,mountain,3087,191.0,0,GC,9.1782,0,0
+AmadorAndrey,106,0,mountain,3087,191.0,0,GC,9.1782,0,0
+AsgreenKasper,107,0,mountain,3087,191.0,0,TT,9.1782,0,0
+ColbrelliSonny,108,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+BettiolAlberto,109,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+VivianiElia,110,0,mountain,3087,191.0,0,Sprint,9.8263,0,0
+SaganPeter,111,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+TheunsEdward,112,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+BenootTiesj,113,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+PöstlbergerLukas,114,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+GoglMichael,115,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+PedersenCasper,116,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+PérichonPierre-Luc,117,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+HirschiMarc,118,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+RussoClément,119,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+KreuzigerRoman,120,0,mountain,3087,191.0,0,GC,9.8263,0,0
+NeilandsKrists,121,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+MarcatoMarco,122,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+HofstetterHugo,123,0,mountain,3087,191.0,0,Classic,9.8263,0,0
+Kragh AndersenSøren,124,0,mountain,3087,191.0,0,TT,9.8569,0,0
+BauerJack,125,0,mountain,3087,191.0,0,TT,11.4284,0,0
+JansenAmund Grøndahl,126,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+SwiftConnor,127,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+CrasSteff,128,0,mountain,3087,191.0,0,GC,11.4284,0,0
+ImpeyDaryl,129,0,mountain,3087,191.0,0,Hills,11.4284,0,0
+GibbonsRyan,130,0,mountain,3087,191.0,0,Hills,11.4284,0,0
+QuintanaDayer,131,0,mountain,3087,191.0,0,GC,11.4284,0,0
+CoquardBryan,132,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+de la CruzDavid,133,0,mountain,3087,191.0,0,GC,11.4284,0,0
+ChevalierMaxime,134,0,mountain,3087,191.0,0,GC,11.4284,0,0
+RezaKévin,135,0,mountain,3087,191.0,0,Hills,11.4284,0,0
+PolittNils,136,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+HallerMarco,137,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+SivakovPavel,138,0,mountain,3087,191.0,0,GC,11.4284,0,0
+MartinTony,139,0,mountain,3087,191.0,0,TT,11.4284,0,0
+TurgisAnthony,140,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+CalmejaneLilian,141,0,mountain,3087,191.0,0,GC,11.4284,0,0
+SoupeGeoffrey,142,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+NizzoloGiacomo,143,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+TrentinMatteo,144,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+MezgecLuka,145,0,mountain,3087,191.0,0,Hills,11.4284,0,0
+BewleySam,146,0,mountain,3087,191.0,0,TT,11.4284,0,0
+KristoffAlexander,147,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+GreipelAndré,148,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+RoweLuke,149,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+DebusschereJens,150,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+FrisonFrederik,151,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+KochJonas,152,0,mountain,3087,191.0,0,Hills,11.4284,0,0
+EwanCaleb,153,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+Juul-JensenChristopher,154,0,mountain,3087,191.0,0,GC,11.4284,0,0
+NieuwenhuisJoris,155,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+PoelsWout,156,0,mountain,3087,191.0,0,Climber,11.4284,0,0
+De BuystJasper,157,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+PedersenMads,158,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+MørkøvMichael,159,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+ArndtNikias,160,0,mountain,3087,191.0,0,Hills,11.4284,0,0
+WalscheidMax,161,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+LaporteChristophe,162,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+CousinJérôme,163,0,mountain,3087,191.0,0,GC,11.4284,0,0
+BonnetWilliam,164,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+VenturiniClément,165,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+CosnefroyBenoît,166,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+NivGuy,167,0,mountain,3087,191.0,0,GC,11.4284,0,0
+BonifazioNiccolò,168,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+BennettSam,169,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+ConsonniSimone,170,0,mountain,3087,191.0,0,Classic,11.4284,0,0
+KlugeRoger,171,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+BolCees,172,0,mountain,3087,191.0,0,Sprint,11.4284,0,0
+van AertWout,1,1,hilly,2011,168.0,0,Classic,0.0,0,0
+Boasson HagenEdvald,2,0,hilly,2011,168.0,0,Classic,0.0,0,0
+CoquardBryan,3,0,hilly,2011,168.0,0,Sprint,0.0,0,0
+LaporteChristophe,4,0,hilly,2011,168.0,0,Classic,0.0,0,0
+StuyvenJasper,5,0,hilly,2011,168.0,0,Classic,0.0,0,0
+VenturiniClément,6,0,hilly,2011,168.0,0,Classic,0.0,0,0
+HofstetterHugo,7,0,hilly,2011,168.0,0,Classic,0.0,0,0
+BernalEgan,8,0,hilly,2011,168.0,0,GC,0.0,0,0
+YatesAdam,9,0,hilly,2011,168.0,0,Climber,0.0,0,0
+ValverdeAlejandro,10,0,hilly,2011,168.0,0,Climber,0.0,0,0
+HouleHugo,11,0,hilly,2011,168.0,0,GC,0.0,0,0
+AlaphilippeJulian,12,0,hilly,2011,168.0,0,Classic,0.0,0,0
+SaganPeter,13,0,hilly,2011,168.0,0,Classic,0.0,0,0
+BarguilWarren,14,0,hilly,2011,168.0,0,Climber,0.0,0,0
+CherelMikaël,15,0,hilly,2011,168.0,0,GC,0.0,0,0
+BardetRomain,16,0,hilly,2011,168.0,0,Climber,0.0,0,0
+HiguitaSergio,17,0,hilly,2011,168.0,0,Climber,0.0,0,0
+PinotThibaut,18,0,hilly,2011,168.0,0,Climber,0.0,0,0
+BuchmannEmanuel,19,0,hilly,2011,168.0,0,GC,0.0,0,0
+MartinGuillaume,20,0,hilly,2011,168.0,0,Climber,0.0,0,0
+BettiolAlberto,21,0,hilly,2011,168.0,0,Classic,0.0,0,0
+LópezMiguel Ángel,22,0,hilly,2011,168.0,0,Climber,0.0,0,0
+LutsenkoAlexey,23,0,hilly,2011,168.0,0,GC,0.0,0,0
+SánchezLuis León,24,0,hilly,2011,168.0,0,GC,0.0,0,0
+DumoulinTom,25,0,hilly,2011,168.0,0,TT,0.0,0,0
+GoglMichael,26,0,hilly,2011,168.0,0,Classic,0.0,0,0
+RogličPrimož,27,0,hilly,2011,168.0,0,Climber,0.0,0,0
+QuintanaNairo,28,0,hilly,2011,168.0,0,GC,0.0,0,0
+MasEnric,29,0,hilly,2011,168.0,0,Climber,0.0,0,0
+SolerMarc,30,0,hilly,2011,168.0,0,Climber,0.0,0,0
+UránRigoberto,31,0,hilly,2011,168.0,0,Climber,0.0,0,0
+GautierCyril,32,0,hilly,2011,168.0,0,Classic,0.0,0,0
+MadouasValentin,33,0,hilly,2011,168.0,0,Classic,0.0,0,0
+MolardRudy,34,0,hilly,2011,168.0,0,Climber,0.0,0,0
+IzagirreIon,35,0,hilly,2011,168.0,0,GC,0.0,0,0
+BennettGeorge,36,0,hilly,2011,168.0,0,GC,0.0,0,0
+IzagirreGorka,37,0,hilly,2011,168.0,0,GC,0.0,0,0
+FraileOmar,38,0,hilly,2011,168.0,0,Climber,0.0,0,0
+LadagnousMatthieu,39,0,hilly,2011,168.0,0,GC,0.0,0,0
+KussSepp,40,0,hilly,2011,168.0,0,Climber,0.0,0,0
+KüngStefan,41,0,hilly,2011,168.0,0,TT,0.0,0,0
+KwiatkowskiMichał,42,0,hilly,2011,168.0,0,Classic,0.1179,0,0
+PogačarTadej,43,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+ColbrelliSonny,44,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+TrentinMatteo,45,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+LandaMikel,46,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+RojasJosé Joaquín,47,0,hilly,2011,168.0,0,Hills,0.6366,0,0
+VeronaCarlos,48,0,hilly,2011,168.0,0,GC,0.6366,0,0
+OliveiraNelson,49,0,hilly,2011,168.0,0,TT,0.6366,0,0
+CataldoDario,50,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+CarapazRichard,51,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+Van AvermaetGreg,52,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+AruFabio,53,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+CarusoDamiano,54,0,hilly,2011,168.0,0,GC,0.6366,0,0
+GroßschartnerFelix,55,0,hilly,2011,168.0,0,GC,0.6366,0,0
+KreuzigerRoman,56,0,hilly,2011,168.0,0,GC,0.6366,0,0
+MezgecLuka,57,0,hilly,2011,168.0,0,Hills,0.6366,0,0
+ChavesEsteban,58,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+MollemaBauke,59,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+RollandPierre,60,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+OssDaniel,61,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+PorteRichie,62,0,hilly,2011,168.0,0,GC,0.6366,0,0
+MühlbergerGregor,63,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+CarthyHugh,64,0,hilly,2011,168.0,0,GC,0.6366,0,0
+NeilandsKrists,65,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+PolittNils,66,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+SkujiņšToms,67,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+De GendtThomas,68,0,hilly,2011,168.0,0,TT,0.6366,0,0
+PolancJan,69,0,hilly,2011,168.0,0,GC,0.6366,0,0
+KämnaLennard,70,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+GesinkRobert,71,0,hilly,2011,168.0,0,GC,0.6366,0,0
+MartinDan,72,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+GauduDavid,73,0,hilly,2011,168.0,0,Climber,0.6366,0,0
+ReichenbachSébastien,74,0,hilly,2011,168.0,0,GC,0.6366,0,0
+ValgrenMichael,75,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+SwiftConnor,76,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+van BaarleDylan,77,0,hilly,2011,168.0,0,Classic,0.6366,0,0
+MarcatoMarco,78,0,hilly,2011,168.0,0,Classic,0.7152,0,0
+FormoloDavide,79,0,hilly,2011,168.0,0,Climber,0.7624,0,0
+SicardRomain,80,0,hilly,2011,168.0,0,GC,0.6366,0,0
+BilbaoPello,81,0,hilly,2011,168.0,0,Climber,0.9275,0,0
+LaengenVegard Stake,82,0,hilly,2011,168.0,0,GC,0.9432,0,0
+PérichonPierre-Luc,83,0,hilly,2011,168.0,0,Classic,1.0375,0,0
+DevenynsDries,84,0,hilly,2011,168.0,0,GC,1.1082,0,0
+MohoričMatej,85,0,hilly,2011,168.0,0,Classic,1.1475,0,0
+Juul-JensenChristopher,86,0,hilly,2011,168.0,0,GC,1.289,0,0
+SchachmannMaximilian,87,0,hilly,2011,168.0,0,GC,1.4462,0,0
+CastroviejoJonathan,88,0,hilly,2011,168.0,0,TT,1.4462,0,0
+ZakarinIlnur,89,0,hilly,2011,168.0,0,GC,1.7527,0,0
+LedanoisKévin,90,0,hilly,2011,168.0,0,Classic,2.0121,0,0
+AmadorAndrey,91,0,hilly,2011,168.0,0,GC,4.8652,0,0
+PacherQuentin,92,0,hilly,2011,168.0,0,Hills,5.942,0,0
+Van AsbroeckTom,93,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+TheunsEdward,94,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+NaesenOliver,95,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+ErvitiImanol,96,0,hilly,2011,168.0,0,GC,6.8537,0,0
+JungelsBob,97,0,hilly,2011,168.0,0,TT,6.8537,0,0
+DeclercqTim,98,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+NivGuy,99,0,hilly,2011,168.0,0,GC,6.8537,0,0
+HermansBen,100,0,hilly,2011,168.0,0,GC,6.8537,0,0
+MartinTony,101,0,hilly,2011,168.0,0,TT,6.8537,0,0
+PowlessNeilson,102,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+HerradaJesús,103,0,hilly,2011,168.0,0,GC,6.8537,0,0
+EdetNicolas,104,0,hilly,2011,168.0,0,GC,6.8537,0,0
+AnaconaWinner,105,0,hilly,2011,168.0,0,GC,6.8537,0,0
+PozzovivoDomenico,106,0,hilly,2011,168.0,0,GC,6.8537,0,0
+GrellierFabien,107,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+TurgisAnthony,108,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+ImpeyDaryl,109,0,hilly,2011,168.0,0,Hills,6.8537,0,0
+RoweLuke,110,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+AsgreenKasper,111,0,hilly,2011,168.0,0,TT,6.8537,0,0
+GeschkeSimon,112,0,hilly,2011,168.0,0,Climber,6.8537,0,0
+VuillermozAlexis,113,0,hilly,2011,168.0,0,Climber,6.8537,0,0
+BennettSam,114,0,hilly,2011,168.0,0,Sprint,6.8537,0,0
+PöstlbergerLukas,115,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+LatourPierre,116,0,hilly,2011,168.0,0,GC,6.8537,0,0
+ChevalierMaxime,117,0,hilly,2011,168.0,0,GC,6.8537,0,0
+BartheCyril,118,0,hilly,2011,168.0,0,Hills,6.8537,0,0
+BauerJack,119,0,hilly,2011,168.0,0,TT,6.8537,0,0
+PetersNans,120,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+EgNiklas,121,0,hilly,2011,168.0,0,GC,6.8537,0,0
+van GarderenTejay,122,0,hilly,2011,168.0,0,GC,6.8537,0,0
+MartínezDaniel Felipe,123,0,hilly,2011,168.0,0,GC,6.8537,0,0
+TejadaHarold,124,0,hilly,2011,168.0,0,Climber,6.8537,0,0
+De MarchiAlessandro,125,0,hilly,2011,168.0,0,Climber,6.8537,0,0
+CosnefroyBenoît,126,0,hilly,2011,168.0,0,Classic,6.8537,0,0
+NieveMikel,127,0,hilly,2011,168.0,0,Climber,6.8537,0,0
+BonifazioNiccolò,128,0,hilly,2011,168.0,0,Sprint,6.8537,0,0
+de la CruzDavid,129,0,hilly,2011,168.0,0,GC,6.8537,0,0
+QuintanaDayer,130,0,hilly,2011,168.0,0,GC,6.8537,0,0
+HirschiMarc,131,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+De BuystJasper,132,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+GreipelAndré,133,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+NieuwenhuisJoris,134,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+PedersenCasper,135,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+JansenAmund Grøndahl,136,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+BenootTiesj,137,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+GibbonsRyan,138,0,hilly,2011,168.0,0,Hills,7.4982,0,0
+BewleySam,139,0,hilly,2011,168.0,0,TT,7.4982,0,0
+RosaDiego,140,0,hilly,2011,168.0,0,Climber,7.4982,0,0
+SivakovPavel,141,0,hilly,2011,168.0,0,GC,7.4982,0,0
+HallerMarco,142,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+KochJonas,143,0,hilly,2011,168.0,0,Hills,7.4982,0,0
+ArndtNikias,144,0,hilly,2011,168.0,0,Hills,7.4982,0,0
+DebusschereJens,145,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+RezaKévin,146,0,hilly,2011,168.0,0,Hills,7.4982,0,0
+WalscheidMax,147,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+BonnetWilliam,148,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+SchärMichael,149,0,hilly,2011,168.0,0,GC,7.4982,0,0
+CrasSteff,150,0,hilly,2011,168.0,0,GC,7.4982,0,0
+FrisonFrederik,151,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+KristoffAlexander,152,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+SoupeGeoffrey,153,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+RocheNicolas,154,0,hilly,2011,168.0,0,Climber,7.4982,0,0
+ElissondeKenny,155,0,hilly,2011,168.0,0,Climber,7.4982,0,0
+BurgaudeauMathieu,156,0,hilly,2011,168.0,0,Hills,7.4982,0,0
+PoelsWout,157,0,hilly,2011,168.0,0,Climber,7.4982,0,0
+KlugeRoger,158,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+BolCees,159,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+CousinJérôme,160,0,hilly,2011,168.0,0,GC,7.4982,0,0
+CalmejaneLilian,161,0,hilly,2011,168.0,0,GC,7.4982,0,0
+RussoClément,162,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+EwanCaleb,163,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+NizzoloGiacomo,164,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+VivianiElia,165,0,hilly,2011,168.0,0,Sprint,7.4982,0,0
+CavagnaRémi,166,0,hilly,2011,168.0,0,TT,7.4982,0,0
+KeukeleireJens,167,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+ConsonniSimone,168,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+MørkøvMichael,169,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+PedersenMads,170,0,hilly,2011,168.0,0,Classic,7.4982,0,0
+HirtJan,171,0,hilly,2011,168.0,0,GC,7.4982,0,0
+Kragh AndersenSøren,172,0,hilly,2011,168.0,0,TT,7.4982,0,0
+PetersNans,1,1,mountain,3821,141.0,0,Classic,0.0,0,0
+SkujiņšToms,2,0,mountain,3821,141.0,0,Classic,0.3234,0,0
+VeronaCarlos,3,0,mountain,3821,141.0,0,GC,0.3234,0,0
+ZakarinIlnur,4,0,mountain,3821,141.0,0,GC,0.4748,0,0
+PowlessNeilson,5,0,mountain,3821,141.0,0,Classic,0.695,0,0
+HermansBen,6,0,mountain,3821,141.0,0,GC,1.5277,0,0
+PacherQuentin,7,0,mountain,3821,141.0,0,Hills,1.5277,0,0
+Kragh AndersenSøren,8,0,mountain,3821,141.0,0,TT,1.6791,0,0
+PogačarTadej,9,0,mountain,3821,141.0,0,Climber,2.4773,0,0
+BardetRomain,10,0,mountain,3821,141.0,0,Climber,2.7388,0,0
+LópezMiguel Ángel,11,0,mountain,3821,141.0,0,Climber,2.7525,0,0
+YatesAdam,12,0,mountain,3821,141.0,0,Climber,2.7525,0,0
+BernalEgan,13,0,mountain,3821,141.0,0,GC,2.7525,0,0
+LandaMikel,14,0,mountain,3821,141.0,0,Climber,2.7525,0,0
+MartinGuillaume,15,0,mountain,3821,141.0,0,Climber,2.7525,0,0
+RogličPrimož,16,0,mountain,3821,141.0,0,Climber,2.7525,0,0
+QuintanaNairo,17,0,mountain,3821,141.0,0,GC,2.7525,0,0
+UránRigoberto,18,0,mountain,3821,141.0,0,Climber,2.7525,0,0
+PorteRichie,19,0,mountain,3821,141.0,0,GC,2.7525,0,0
+MasEnric,20,0,mountain,3821,141.0,0,Climber,3.014,0,0
+CarusoDamiano,21,0,mountain,3821,141.0,0,GC,3.014,0,0
+MollemaBauke,22,0,mountain,3821,141.0,0,Climber,3.014,0,0
+CarapazRichard,23,0,mountain,3821,141.0,0,Climber,3.014,0,0
+RollandPierre,24,0,mountain,3821,141.0,0,Climber,3.014,0,0
+BuchmannEmanuel,25,0,mountain,3821,141.0,0,GC,3.1861,0,0
+ChavesEsteban,26,0,mountain,3821,141.0,0,Climber,3.1861,0,0
+GrellierFabien,27,0,mountain,3821,141.0,0,Classic,3.6265,0,0
+HiguitaSergio,28,0,mountain,3821,141.0,0,Climber,3.6265,0,0
+ValverdeAlejandro,29,0,mountain,3821,141.0,0,Climber,3.6265,0,0
+DumoulinTom,30,0,mountain,3821,141.0,0,TT,3.6265,0,0
+CarthyHugh,31,0,mountain,3821,141.0,0,GC,3.6265,0,0
+BarguilWarren,32,0,mountain,3821,141.0,0,Climber,3.6265,0,0
+ElissondeKenny,33,0,mountain,3821,141.0,0,Climber,3.6265,0,0
+TejadaHarold,34,0,mountain,3821,141.0,0,Climber,4.8927,0,0
+SolerMarc,35,0,mountain,3821,141.0,0,Climber,6.2139,0,0
+CosnefroyBenoît,36,0,mountain,3821,141.0,0,Classic,6.8607,0,0
+SicardRomain,37,0,mountain,3821,141.0,0,GC,6.9502,0,0
+AlaphilippeJulian,38,0,mountain,3821,141.0,0,Classic,7.48,0,0
+CastroviejoJonathan,39,0,mountain,3821,141.0,0,TT,7.48,0,0
+BilbaoPello,40,0,mountain,3821,141.0,0,Climber,7.48,0,0
+VuillermozAlexis,41,0,mountain,3821,141.0,0,Climber,7.7691,0,0
+CherelMikaël,42,0,mountain,3821,141.0,0,GC,7.7691,0,0
+IzagirreGorka,43,0,mountain,3821,141.0,0,GC,7.7691,0,0
+MørkøvMichael,44,0,mountain,3821,141.0,0,Classic,7.7691,0,0
+AruFabio,45,0,mountain,3821,141.0,0,Climber,8.1475,0,0
+van BaarleDylan,46,0,mountain,3821,141.0,0,Classic,8.1475,0,0
+KämnaLennard,47,0,mountain,3821,141.0,0,Climber,8.3265,0,0
+MartínezDaniel Felipe,48,0,mountain,3821,141.0,0,GC,8.7806,0,0
+BennettGeorge,49,0,mountain,3821,141.0,0,GC,8.9939,0,0
+van AertWout,50,0,mountain,3821,141.0,0,Classic,8.9939,0,0
+MühlbergerGregor,51,0,mountain,3821,141.0,0,Climber,8.9939,0,0
+EgNiklas,52,0,mountain,3821,141.0,0,GC,8.9939,0,0
+CousinJérôme,53,0,mountain,3821,141.0,0,GC,8.9939,0,0
+PolancJan,54,0,mountain,3821,141.0,0,GC,9.4688,0,0
+GesinkRobert,55,0,mountain,3821,141.0,0,GC,9.4688,0,0
+EdetNicolas,56,0,mountain,3821,141.0,0,GC,9.4688,0,0
+De GendtThomas,57,0,mountain,3821,141.0,0,TT,9.6752,0,0
+OliveiraNelson,58,0,mountain,3821,141.0,0,TT,10.1775,0,0
+HerradaJesús,59,0,mountain,3821,141.0,0,GC,10.1775,0,0
+AnaconaWinner,60,0,mountain,3821,141.0,0,GC,10.1775,0,0
+de la CruzDavid,61,0,mountain,3821,141.0,0,GC,10.2532,0,0
+MolardRudy,62,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+MadouasValentin,63,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+PinotThibaut,64,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+GauduDavid,65,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+ReichenbachSébastien,66,0,mountain,3821,141.0,0,GC,10.4803,0,0
+KüngStefan,67,0,mountain,3821,141.0,0,TT,10.4803,0,0
+KwiatkowskiMichał,68,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+RojasJosé Joaquín,69,0,mountain,3821,141.0,0,Hills,10.4803,0,0
+SivakovPavel,70,0,mountain,3821,141.0,0,GC,10.4803,0,0
+GroßschartnerFelix,71,0,mountain,3821,141.0,0,GC,10.4803,0,0
+SchachmannMaximilian,72,0,mountain,3821,141.0,0,GC,10.4803,0,0
+DevenynsDries,73,0,mountain,3821,141.0,0,GC,10.4803,0,0
+NaesenOliver,74,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+CataldoDario,75,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+JungelsBob,76,0,mountain,3821,141.0,0,TT,10.4803,0,0
+Van AvermaetGreg,77,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+PoelsWout,78,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+CrasSteff,79,0,mountain,3821,141.0,0,GC,10.4803,0,0
+PedersenMads,80,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+PedersenCasper,81,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+ValgrenMichael,82,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+NeilandsKrists,83,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+SoupeGeoffrey,84,0,mountain,3821,141.0,0,Sprint,10.4803,0,0
+NieveMikel,85,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+SchärMichael,86,0,mountain,3821,141.0,0,GC,10.4803,0,0
+ErvitiImanol,87,0,mountain,3821,141.0,0,GC,10.4803,0,0
+RocheNicolas,88,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+MartinDan,89,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+KussSepp,90,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+van GarderenTejay,91,0,mountain,3821,141.0,0,GC,10.4803,0,0
+IzagirreIon,92,0,mountain,3821,141.0,0,GC,10.4803,0,0
+SánchezLuis León,93,0,mountain,3821,141.0,0,GC,10.4803,0,0
+TheunsEdward,94,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+GeschkeSimon,95,0,mountain,3821,141.0,0,Climber,10.4803,0,0
+HirschiMarc,96,0,mountain,3821,141.0,0,Classic,10.4803,0,0
+MartinTony,97,0,mountain,3821,141.0,0,TT,10.4803,0,0
+HirtJan,98,0,mountain,3821,141.0,0,GC,10.4803,0,0
+PozzovivoDomenico,99,0,mountain,3821,141.0,0,GC,10.5698,0,0
+RezaKévin,100,0,mountain,3821,141.0,0,Hills,12.8682,0,0
+Van AsbroeckTom,101,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+PolittNils,102,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+ArndtNikias,103,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+ColbrelliSonny,104,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+TrentinMatteo,105,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+FormoloDavide,106,0,mountain,3821,141.0,0,Climber,13.4806,0,0
+LadagnousMatthieu,107,0,mountain,3821,141.0,0,GC,13.4806,0,0
+BartheCyril,108,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+LaengenVegard Stake,109,0,mountain,3821,141.0,0,GC,13.4806,0,0
+KristoffAlexander,110,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+NieuwenhuisJoris,111,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+RussoClément,112,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+LedanoisKévin,113,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+BenootTiesj,114,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+De BuystJasper,115,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+GibbonsRyan,116,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+TurgisAnthony,117,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+BettiolAlberto,118,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+OssDaniel,119,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+RoweLuke,120,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+KreuzigerRoman,121,0,mountain,3821,141.0,0,GC,13.4806,0,0
+QuintanaDayer,122,0,mountain,3821,141.0,0,GC,13.4806,0,0
+ImpeyDaryl,123,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+GreipelAndré,124,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+FraileOmar,125,0,mountain,3821,141.0,0,Climber,13.4806,0,0
+AmadorAndrey,126,0,mountain,3821,141.0,0,GC,13.4806,0,0
+HouleHugo,127,0,mountain,3821,141.0,0,GC,13.4806,0,0
+DeclercqTim,128,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+DebusschereJens,129,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+SwiftConnor,130,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+Boasson HagenEdvald,131,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+JansenAmund Grøndahl,132,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+PérichonPierre-Luc,133,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+LaporteChristophe,134,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+BauerJack,135,0,mountain,3821,141.0,0,TT,13.4806,0,0
+KeukeleireJens,136,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+WalscheidMax,137,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+GoglMichael,138,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+PöstlbergerLukas,139,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+SaganPeter,140,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+LutsenkoAlexey,141,0,mountain,3821,141.0,0,GC,13.4806,0,0
+VivianiElia,142,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+De MarchiAlessandro,143,0,mountain,3821,141.0,0,Climber,13.4806,0,0
+MezgecLuka,144,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+BewleySam,145,0,mountain,3821,141.0,0,TT,13.4806,0,0
+VenturiniClément,146,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+ChevalierMaxime,147,0,mountain,3821,141.0,0,GC,13.4806,0,0
+CoquardBryan,148,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+GautierCyril,149,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+LatourPierre,150,0,mountain,3821,141.0,0,GC,13.4806,0,0
+CavagnaRémi,151,0,mountain,3821,141.0,0,TT,13.4806,0,0
+MarcatoMarco,152,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+BonifazioNiccolò,153,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+HofstetterHugo,154,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+FrisonFrederik,155,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+AsgreenKasper,156,0,mountain,3821,141.0,0,TT,13.4806,0,0
+Juul-JensenChristopher,157,0,mountain,3821,141.0,0,GC,13.4806,0,0
+NivGuy,158,0,mountain,3821,141.0,0,GC,13.4806,0,0
+MohoričMatej,159,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+HallerMarco,160,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+KochJonas,161,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+BurgaudeauMathieu,162,0,mountain,3821,141.0,0,Hills,13.4806,0,0
+StuyvenJasper,163,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+BennettSam,164,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+EwanCaleb,165,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+BolCees,166,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+ConsonniSimone,167,0,mountain,3821,141.0,0,Classic,13.4806,0,0
+KlugeRoger,168,0,mountain,3821,141.0,0,Sprint,13.4806,0,0
+PogačarTadej,1,1,mountain,3500,153.0,0,Climber,0.0,0,0
+RogličPrimož,2,0,mountain,3500,153.0,0,Climber,0.0,0,0
+HirschiMarc,3,0,mountain,3500,153.0,0,Classic,0.0,0,0
+BernalEgan,4,0,mountain,3500,153.0,0,GC,0.0,0,0
+LandaMikel,5,0,mountain,3500,153.0,0,Climber,0.0,0,0
+MollemaBauke,6,0,mountain,3500,153.0,0,Climber,0.0779,0,0
+MartinGuillaume,7,0,mountain,3500,153.0,0,Climber,0.0779,0,0
+BardetRomain,8,0,mountain,3500,153.0,0,Climber,0.0779,0,0
+PorteRichie,9,0,mountain,3500,153.0,0,GC,0.0779,0,0
+UránRigoberto,10,0,mountain,3500,153.0,0,Climber,0.0779,0,0
+QuintanaNairo,11,0,mountain,3500,153.0,0,GC,0.0779,0,0
+CarusoDamiano,12,0,mountain,3500,153.0,0,GC,0.3825,0,0
+ValverdeAlejandro,13,0,mountain,3500,153.0,0,Climber,0.3825,0,0
+CarapazRichard,14,0,mountain,3500,153.0,0,Climber,0.3825,0,0
+YatesAdam,15,0,mountain,3500,153.0,0,Climber,0.3825,0,0
+LópezMiguel Ángel,16,0,mountain,3500,153.0,0,Climber,0.3825,0,0
+DumoulinTom,17,0,mountain,3500,153.0,0,TT,0.3825,0,0
+MasEnric,18,0,mountain,3500,153.0,0,Climber,0.3825,0,0
+IzagirreIon,19,0,mountain,3500,153.0,0,GC,0.5242,0,0
+HiguitaSergio,20,0,mountain,3500,153.0,0,Climber,1.3601,0,0
+KussSepp,21,0,mountain,3500,153.0,0,Climber,1.3601,0,0
+MühlbergerGregor,22,0,mountain,3500,153.0,0,Climber,1.7851,0,0
+BuchmannEmanuel,23,0,mountain,3500,153.0,0,GC,1.7851,0,0
+VuillermozAlexis,24,0,mountain,3500,153.0,0,Climber,1.7851,0,0
+TejadaHarold,25,0,mountain,3500,153.0,0,Climber,1.7851,0,0
+JungelsBob,26,0,mountain,3500,153.0,0,TT,2.0118,0,0
+VeronaCarlos,27,0,mountain,3500,153.0,0,GC,2.0472,0,0
+CherelMikaël,28,0,mountain,3500,153.0,0,GC,2.1393,0,0
+NieveMikel,29,0,mountain,3500,153.0,0,Climber,2.4155,0,0
+MartinDan,30,0,mountain,3500,153.0,0,Climber,2.458,0,0
+CastroviejoJonathan,31,0,mountain,3500,153.0,0,TT,4.0235,0,0
+ChavesEsteban,32,0,mountain,3500,153.0,0,Climber,4.0235,0,0
+PinotThibaut,33,0,mountain,3500,153.0,0,Climber,4.0235,0,0
+BennettGeorge,34,0,mountain,3500,153.0,0,GC,4.2006,0,0
+BettiolAlberto,35,0,mountain,3500,153.0,0,Classic,4.4131,0,0
+FraileOmar,36,0,mountain,3500,153.0,0,Climber,4.4131,0,0
+GroßschartnerFelix,37,0,mountain,3500,153.0,0,GC,4.4131,0,0
+KüngStefan,38,0,mountain,3500,153.0,0,TT,4.4131,0,0
+NaesenOliver,39,0,mountain,3500,153.0,0,Classic,4.4131,0,0
+RojasJosé Joaquín,40,0,mountain,3500,153.0,0,Hills,4.4131,0,0
+SánchezLuis León,41,0,mountain,3500,153.0,0,GC,4.4131,0,0
+IzagirreGorka,42,0,mountain,3500,153.0,0,GC,4.4131,0,0
+van BaarleDylan,43,0,mountain,3500,153.0,0,Classic,4.4131,0,0
+BarguilWarren,44,0,mountain,3500,153.0,0,Climber,4.4131,0,0
+van AertWout,45,0,mountain,3500,153.0,0,Classic,4.4131,0,0
+ReichenbachSébastien,46,0,mountain,3500,153.0,0,GC,4.4131,0,0
+Kragh AndersenSøren,47,0,mountain,3500,153.0,0,TT,4.6823,0,0
+ValgrenMichael,48,0,mountain,3500,153.0,0,Classic,5.1286,0,0
+SkujiņšToms,49,0,mountain,3500,153.0,0,Classic,5.1286,0,0
+MadouasValentin,50,0,mountain,3500,153.0,0,Classic,5.1286,0,0
+GauduDavid,51,0,mountain,3500,153.0,0,Climber,5.1286,0,0
+HouleHugo,52,0,mountain,3500,153.0,0,GC,5.1286,0,0
+BauerJack,53,0,mountain,3500,153.0,0,TT,5.1286,0,0
+PozzovivoDomenico,54,0,mountain,3500,153.0,0,GC,5.1286,0,0
+MartínezDaniel Felipe,55,0,mountain,3500,153.0,0,GC,5.1286,0,0
+RollandPierre,56,0,mountain,3500,153.0,0,Climber,5.1286,0,0
+CarthyHugh,57,0,mountain,3500,153.0,0,GC,5.1286,0,0
+LutsenkoAlexey,58,0,mountain,3500,153.0,0,GC,5.1286,0,0
+SchärMichael,59,0,mountain,3500,153.0,0,GC,6.262,0,0
+GesinkRobert,60,0,mountain,3500,153.0,0,GC,6.9562,0,0
+HirtJan,61,0,mountain,3500,153.0,0,GC,6.9562,0,0
+PacherQuentin,62,0,mountain,3500,153.0,0,Hills,8.1675,0,0
+ColbrelliSonny,63,0,mountain,3500,153.0,0,Classic,8.1675,0,0
+KwiatkowskiMichał,64,0,mountain,3500,153.0,0,Classic,8.1675,0,0
+TrentinMatteo,65,0,mountain,3500,153.0,0,Classic,8.1675,0,0
+SicardRomain,66,0,mountain,3500,153.0,0,GC,8.1675,0,0
+QuintanaDayer,67,0,mountain,3500,153.0,0,GC,8.1675,0,0
+SwiftConnor,68,0,mountain,3500,153.0,0,Classic,8.4225,0,0
+KämnaLennard,69,0,mountain,3500,153.0,0,Climber,8.4225,0,0
+de la CruzDavid,70,0,mountain,3500,153.0,0,GC,9.1663,0,0
+LaengenVegard Stake,71,0,mountain,3500,153.0,0,GC,9.1663,0,0
+BilbaoPello,72,0,mountain,3500,153.0,0,Climber,9.6479,0,0
+ZakarinIlnur,73,0,mountain,3500,153.0,0,GC,9.6479,0,0
+GeschkeSimon,74,0,mountain,3500,153.0,0,Climber,9.6479,0,0
+AnaconaWinner,75,0,mountain,3500,153.0,0,GC,9.6479,0,0
+LadagnousMatthieu,76,0,mountain,3500,153.0,0,GC,9.6479,0,0
+De GendtThomas,77,0,mountain,3500,153.0,0,TT,9.6479,0,0
+EgNiklas,78,0,mountain,3500,153.0,0,GC,9.6479,0,0
+CataldoDario,79,0,mountain,3500,153.0,0,Climber,9.6479,0,0
+FormoloDavide,80,0,mountain,3500,153.0,0,Climber,9.6479,0,0
+OliveiraNelson,81,0,mountain,3500,153.0,0,TT,9.6479,0,0
+PöstlbergerLukas,82,0,mountain,3500,153.0,0,Classic,9.6479,0,0
+MezgecLuka,83,0,mountain,3500,153.0,0,Hills,9.6479,0,0
+GautierCyril,84,0,mountain,3500,153.0,0,Classic,9.6479,0,0
+van GarderenTejay,85,0,mountain,3500,153.0,0,GC,9.6479,0,0
+MolardRudy,86,0,mountain,3500,153.0,0,Climber,9.6479,0,0
+HerradaJesús,87,0,mountain,3500,153.0,0,GC,9.6479,0,0
+Juul-JensenChristopher,88,0,mountain,3500,153.0,0,GC,9.6479,0,0
+LedanoisKévin,89,0,mountain,3500,153.0,0,Classic,10.4626,0,0
+NeilandsKrists,90,0,mountain,3500,153.0,0,Classic,11.0718,0,0
+CoquardBryan,91,0,mountain,3500,153.0,0,Sprint,11.4189,0,0
+AmadorAndrey,92,0,mountain,3500,153.0,0,GC,11.4189,0,0
+SivakovPavel,93,0,mountain,3500,153.0,0,GC,11.4189,0,0
+De BuystJasper,94,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+StuyvenJasper,95,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+BartheCyril,96,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+PolittNils,97,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+TheunsEdward,98,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+ChevalierMaxime,99,0,mountain,3500,153.0,0,GC,12.5168,0,0
+Van AsbroeckTom,100,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+RussoClément,101,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+FrisonFrederik,102,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+BenootTiesj,103,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+ArndtNikias,104,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+ErvitiImanol,105,0,mountain,3500,153.0,0,GC,12.5168,0,0
+SolerMarc,106,0,mountain,3500,153.0,0,Climber,12.5168,0,0
+NieuwenhuisJoris,107,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+MartinTony,108,0,mountain,3500,153.0,0,TT,12.5168,0,0
+SoupeGeoffrey,109,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+HallerMarco,110,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+Van AvermaetGreg,111,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+HermansBen,112,0,mountain,3500,153.0,0,GC,12.5168,0,0
+MohoričMatej,113,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+KochJonas,114,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+ImpeyDaryl,115,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+ElissondeKenny,116,0,mountain,3500,153.0,0,Climber,12.5168,0,0
+GibbonsRyan,117,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+PolancJan,118,0,mountain,3500,153.0,0,GC,12.5168,0,0
+OssDaniel,119,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+PowlessNeilson,120,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+Boasson HagenEdvald,121,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+KeukeleireJens,122,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+KristoffAlexander,123,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+PoelsWout,124,0,mountain,3500,153.0,0,Climber,12.5168,0,0
+RoweLuke,125,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+EwanCaleb,126,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+RezaKévin,127,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+BewleySam,128,0,mountain,3500,153.0,0,TT,12.5168,0,0
+PedersenCasper,129,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+DebusschereJens,130,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+DeclercqTim,131,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+VenturiniClément,132,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+LatourPierre,133,0,mountain,3500,153.0,0,GC,12.5168,0,0
+PérichonPierre-Luc,134,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+JansenAmund Grøndahl,135,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+KreuzigerRoman,136,0,mountain,3500,153.0,0,GC,12.5168,0,0
+SchachmannMaximilian,137,0,mountain,3500,153.0,0,GC,12.5168,0,0
+CavagnaRémi,138,0,mountain,3500,153.0,0,TT,12.5168,0,0
+PetersNans,139,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+TurgisAnthony,140,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+NivGuy,141,0,mountain,3500,153.0,0,GC,12.5168,0,0
+VivianiElia,142,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+MarcatoMarco,143,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+De MarchiAlessandro,144,0,mountain,3500,153.0,0,Climber,12.5168,0,0
+AsgreenKasper,145,0,mountain,3500,153.0,0,TT,12.5168,0,0
+MørkøvMichael,146,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+RocheNicolas,147,0,mountain,3500,153.0,0,Climber,12.5168,0,0
+PedersenMads,148,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+BolCees,149,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+BonifazioNiccolò,150,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+HofstetterHugo,151,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+LaporteChristophe,152,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+BennettSam,153,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+GrellierFabien,154,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+CosnefroyBenoît,155,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+GoglMichael,156,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+BurgaudeauMathieu,157,0,mountain,3500,153.0,0,Hills,12.5168,0,0
+WalscheidMax,158,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+DevenynsDries,159,0,mountain,3500,153.0,0,GC,12.5168,0,0
+AlaphilippeJulian,160,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+EdetNicolas,161,0,mountain,3500,153.0,0,GC,12.5168,0,0
+CousinJérôme,162,0,mountain,3500,153.0,0,GC,12.5168,0,0
+GreipelAndré,163,0,mountain,3500,153.0,0,Sprint,12.5168,0,0
+SaganPeter,164,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+ConsonniSimone,165,0,mountain,3500,153.0,0,Classic,12.5168,0,0
+KlugeRoger,166,0,mountain,3500,153.0,0,Sprint,13.6927,0,0
+BennettSam,1,1,flat,531,168.5,0,Sprint,0.0,0,0
+EwanCaleb,2,0,flat,531,168.5,0,Sprint,0.0,0,0
+SaganPeter,3,0,flat,531,168.5,0,Classic,0.0,0,0
+VivianiElia,4,0,flat,531,168.5,0,Sprint,0.0,0,0
+PedersenMads,5,0,flat,531,168.5,0,Classic,0.0,0,0
+GreipelAndré,6,0,flat,531,168.5,0,Sprint,0.0,0,0
+CoquardBryan,7,0,flat,531,168.5,0,Sprint,0.0,0,0
+BolCees,8,0,flat,531,168.5,0,Sprint,0.0,0,0
+StuyvenJasper,9,0,flat,531,168.5,0,Classic,0.0,0,0
+MezgecLuka,10,0,flat,531,168.5,0,Hills,0.0,0,0
+MørkøvMichael,11,0,flat,531,168.5,0,Classic,0.0,0,0
+TrentinMatteo,12,0,flat,531,168.5,0,Classic,0.0,0,0
+HofstetterHugo,13,0,flat,531,168.5,0,Classic,0.0,0,0
+VenturiniClément,14,0,flat,531,168.5,0,Classic,0.0,0,0
+KristoffAlexander,15,0,flat,531,168.5,0,Classic,0.0,0,0
+RojasJosé Joaquín,16,0,flat,531,168.5,0,Hills,0.0,0,0
+HouleHugo,17,0,flat,531,168.5,0,GC,0.0,0,0
+TheunsEdward,18,0,flat,531,168.5,0,Classic,0.0,0,0
+WalscheidMax,19,0,flat,531,168.5,0,Sprint,0.0,0,0
+NaesenOliver,20,0,flat,531,168.5,0,Classic,0.0,0,0
+BonifazioNiccolò,21,0,flat,531,168.5,0,Sprint,0.0,0,0
+ImpeyDaryl,22,0,flat,531,168.5,0,Hills,0.0,0,0
+GibbonsRyan,23,0,flat,531,168.5,0,Hills,0.0,0,0
+RezaKévin,24,0,flat,531,168.5,0,Hills,0.0,0,0
+PogačarTadej,25,0,flat,531,168.5,0,Climber,0.0,0,0
+Van AvermaetGreg,26,0,flat,531,168.5,0,Classic,0.0,0,0
+CherelMikaël,27,0,flat,531,168.5,0,GC,0.0,0,0
+DumoulinTom,28,0,flat,531,168.5,0,TT,0.0,0,0
+BartheCyril,29,0,flat,531,168.5,0,Hills,0.0,0,0
+KeukeleireJens,30,0,flat,531,168.5,0,Classic,0.0,0,0
+QuintanaNairo,31,0,flat,531,168.5,0,GC,0.0,0,0
+RogličPrimož,32,0,flat,531,168.5,0,Climber,0.0,0,0
+UránRigoberto,33,0,flat,531,168.5,0,Climber,0.0,0,0
+BardetRomain,34,0,flat,531,168.5,0,Climber,0.0,0,0
+DebusschereJens,35,0,flat,531,168.5,0,Classic,0.0,0,0
+LandaMikel,36,0,flat,531,168.5,0,Climber,0.0,0,0
+van AertWout,37,0,flat,531,168.5,0,Classic,0.0,0,0
+KwiatkowskiMichał,38,0,flat,531,168.5,0,Classic,0.0,0,0
+BernalEgan,39,0,flat,531,168.5,0,GC,0.0,0,0
+NieuwenhuisJoris,40,0,flat,531,168.5,0,Classic,0.0,0,0
+BilbaoPello,41,0,flat,531,168.5,0,Climber,0.0,0,0
+LópezMiguel Ángel,42,0,flat,531,168.5,0,Climber,0.0,0,0
+DeclercqTim,43,0,flat,531,168.5,0,Classic,0.0,0,0
+YatesAdam,44,0,flat,531,168.5,0,Climber,0.0,0,0
+IzagirreGorka,45,0,flat,531,168.5,0,GC,0.0,0,0
+HiguitaSergio,46,0,flat,531,168.5,0,Climber,0.0,0,0
+MartinGuillaume,47,0,flat,531,168.5,0,Climber,0.0,0,0
+CarusoDamiano,48,0,flat,531,168.5,0,GC,0.0,0,0
+ValverdeAlejandro,49,0,flat,531,168.5,0,Climber,0.0,0,0
+SánchezLuis León,50,0,flat,531,168.5,0,GC,0.0,0,0
+ErvitiImanol,51,0,flat,531,168.5,0,GC,0.0,0,0
+Van AsbroeckTom,52,0,flat,531,168.5,0,Classic,0.0,0,0
+PorteRichie,53,0,flat,531,168.5,0,GC,0.0,0,0
+ChavesEsteban,54,0,flat,531,168.5,0,Climber,0.0,0,0
+MasEnric,55,0,flat,531,168.5,0,Climber,0.0,0,0
+MollemaBauke,56,0,flat,531,168.5,0,Climber,0.0,0,0
+LaengenVegard Stake,57,0,flat,531,168.5,0,GC,0.0,0,0
+SolerMarc,58,0,flat,531,168.5,0,Climber,0.0,0,0
+KüngStefan,59,0,flat,531,168.5,0,TT,0.0,0,0
+CarapazRichard,60,0,flat,531,168.5,0,Climber,0.0,0,0
+OliveiraNelson,61,0,flat,531,168.5,0,TT,0.0,0,0
+ArndtNikias,62,0,flat,531,168.5,0,Hills,0.0,0,0
+ConsonniSimone,63,0,flat,531,168.5,0,Classic,0.0,0,0
+FrisonFrederik,64,0,flat,531,168.5,0,Classic,0.0,0,0
+OssDaniel,65,0,flat,531,168.5,0,Classic,0.0,0,0
+Kragh AndersenSøren,66,0,flat,531,168.5,0,TT,0.0,0,0
+LaporteChristophe,67,0,flat,531,168.5,0,Classic,0.1857,0,0
+RoweLuke,68,0,flat,531,168.5,0,Classic,0.2012,0,0
+GoglMichael,69,0,flat,531,168.5,0,Classic,0.2012,0,0
+KlugeRoger,70,0,flat,531,168.5,0,Sprint,0.2476,0,0
+JansenAmund Grøndahl,71,0,flat,531,168.5,0,Classic,0.356,0,0
+PöstlbergerLukas,72,0,flat,531,168.5,0,Classic,0.356,0,0
+GroßschartnerFelix,73,0,flat,531,168.5,0,GC,0.356,0,0
+KussSepp,74,0,flat,531,168.5,0,Climber,0.356,0,0
+BauerJack,75,0,flat,531,168.5,0,TT,0.356,0,0
+BennettGeorge,76,0,flat,531,168.5,0,GC,0.356,0,0
+AsgreenKasper,77,0,flat,531,168.5,0,TT,0.356,0,0
+MohoričMatej,78,0,flat,531,168.5,0,Classic,0.3792,0,0
+BenootTiesj,79,0,flat,531,168.5,0,Classic,0.5262,0,0
+PedersenCasper,80,0,flat,531,168.5,0,Classic,0.5262,0,0
+HirschiMarc,81,0,flat,531,168.5,0,Classic,0.5649,0,0
+ValgrenMichael,82,0,flat,531,168.5,0,Classic,0.5649,0,0
+TurgisAnthony,83,0,flat,531,168.5,0,Classic,0.6191,0,0
+EdetNicolas,84,0,flat,531,168.5,0,GC,2.5151,0,0
+PacherQuentin,85,0,flat,531,168.5,0,Hills,2.5151,0,0
+CavagnaRémi,86,0,flat,531,168.5,0,TT,2.5151,0,0
+ElissondeKenny,87,0,flat,531,168.5,0,Climber,2.5151,0,0
+SoupeGeoffrey,88,0,flat,531,168.5,0,Sprint,2.5151,0,0
+De GendtThomas,89,0,flat,531,168.5,0,TT,2.5151,0,0
+LadagnousMatthieu,90,0,flat,531,168.5,0,GC,2.5151,0,0
+EgNiklas,91,0,flat,531,168.5,0,GC,2.5151,0,0
+JungelsBob,92,0,flat,531,168.5,0,TT,2.5151,0,0
+GesinkRobert,93,0,flat,531,168.5,0,GC,2.5151,0,0
+MartinTony,94,0,flat,531,168.5,0,TT,2.5151,0,0
+ColbrelliSonny,95,0,flat,531,168.5,0,Classic,2.5151,0,0
+PolancJan,96,0,flat,531,168.5,0,GC,2.5151,0,0
+VuillermozAlexis,97,0,flat,531,168.5,0,Climber,2.5151,0,0
+SivakovPavel,98,0,flat,531,168.5,0,GC,2.5151,0,0
+Boasson HagenEdvald,99,0,flat,531,168.5,0,Classic,2.5151,0,0
+NeilandsKrists,100,0,flat,531,168.5,0,Classic,2.5151,0,0
+SkujiņšToms,101,0,flat,531,168.5,0,Classic,2.5151,0,0
+QuintanaDayer,102,0,flat,531,168.5,0,GC,2.5151,0,0
+AnaconaWinner,103,0,flat,531,168.5,0,GC,2.5151,0,0
+SwiftConnor,104,0,flat,531,168.5,0,Classic,2.5151,0,0
+HerradaJesús,105,0,flat,531,168.5,0,GC,2.5151,0,0
+MolardRudy,106,0,flat,531,168.5,0,Climber,2.5151,0,0
+ReichenbachSébastien,107,0,flat,531,168.5,0,GC,2.5151,0,0
+PérichonPierre-Luc,108,0,flat,531,168.5,0,Classic,2.5151,0,0
+PinotThibaut,109,0,flat,531,168.5,0,Climber,2.5151,0,0
+BarguilWarren,110,0,flat,531,168.5,0,Climber,2.5151,0,0
+MadouasValentin,111,0,flat,531,168.5,0,Classic,2.5151,0,0
+RussoClément,112,0,flat,531,168.5,0,Classic,2.5151,0,0
+GauduDavid,113,0,flat,531,168.5,0,Climber,2.5151,0,0
+HermansBen,114,0,flat,531,168.5,0,GC,2.5151,0,0
+SchärMichael,115,0,flat,531,168.5,0,GC,2.5151,0,0
+KreuzigerRoman,116,0,flat,531,168.5,0,GC,2.5151,0,0
+BurgaudeauMathieu,117,0,flat,531,168.5,0,Hills,2.5151,0,0
+ZakarinIlnur,118,0,flat,531,168.5,0,GC,2.5151,0,0
+FraileOmar,119,0,flat,531,168.5,0,Climber,2.5151,0,0
+CataldoDario,120,0,flat,531,168.5,0,Climber,2.5151,0,0
+HallerMarco,121,0,flat,531,168.5,0,Classic,2.5151,0,0
+LutsenkoAlexey,122,0,flat,531,168.5,0,GC,2.5151,0,0
+MühlbergerGregor,123,0,flat,531,168.5,0,Climber,2.5151,0,0
+GeschkeSimon,124,0,flat,531,168.5,0,Climber,2.5151,0,0
+BuchmannEmanuel,125,0,flat,531,168.5,0,GC,2.5151,0,0
+PetersNans,126,0,flat,531,168.5,0,Classic,2.5151,0,0
+KämnaLennard,127,0,flat,531,168.5,0,Climber,2.5151,0,0
+De BuystJasper,128,0,flat,531,168.5,0,Classic,2.5151,0,0
+LatourPierre,129,0,flat,531,168.5,0,GC,2.5151,0,0
+MartinDan,130,0,flat,531,168.5,0,Climber,2.5151,0,0
+SchachmannMaximilian,131,0,flat,531,168.5,0,GC,2.5151,0,0
+MartínezDaniel Felipe,132,0,flat,531,168.5,0,GC,2.5151,0,0
+PowlessNeilson,133,0,flat,531,168.5,0,Classic,2.5151,0,0
+CosnefroyBenoît,134,0,flat,531,168.5,0,Classic,2.5151,0,0
+GrellierFabien,135,0,flat,531,168.5,0,Classic,2.5151,0,0
+RollandPierre,136,0,flat,531,168.5,0,Climber,2.5151,0,0
+SicardRomain,137,0,flat,531,168.5,0,GC,2.5151,0,0
+BettiolAlberto,138,0,flat,531,168.5,0,Classic,2.5151,0,0
+GautierCyril,139,0,flat,531,168.5,0,Classic,2.5151,0,0
+van GarderenTejay,140,0,flat,531,168.5,0,GC,2.5151,0,0
+DevenynsDries,141,0,flat,531,168.5,0,GC,2.5151,0,0
+De MarchiAlessandro,142,0,flat,531,168.5,0,Climber,2.5151,0,0
+HirtJan,143,0,flat,531,168.5,0,GC,2.5151,0,0
+PoelsWout,144,0,flat,531,168.5,0,Climber,2.5151,0,0
+van BaarleDylan,145,0,flat,531,168.5,0,Classic,2.5151,0,0
+VeronaCarlos,146,0,flat,531,168.5,0,GC,2.5151,0,0
+TejadaHarold,147,0,flat,531,168.5,0,Climber,2.5151,0,0
+IzagirreIon,148,0,flat,531,168.5,0,GC,2.5151,0,0
+AmadorAndrey,149,0,flat,531,168.5,0,GC,2.5151,0,0
+Juul-JensenChristopher,150,0,flat,531,168.5,0,GC,2.5151,0,0
+NieveMikel,151,0,flat,531,168.5,0,Climber,2.5151,0,0
+MarcatoMarco,152,0,flat,531,168.5,0,Classic,2.6157,0,0
+PolittNils,153,0,flat,531,168.5,0,Classic,3.6527,0,0
+NivGuy,154,0,flat,531,168.5,0,GC,3.6527,0,0
+de la CruzDavid,155,0,flat,531,168.5,0,GC,4.7052,0,0
+RocheNicolas,156,0,flat,531,168.5,0,Climber,5.0457,0,0
+ChevalierMaxime,157,0,flat,531,168.5,0,GC,5.0457,0,0
+LedanoisKévin,158,0,flat,531,168.5,0,Classic,5.0457,0,0
+CastroviejoJonathan,159,0,flat,531,168.5,0,TT,5.0457,0,0
+AlaphilippeJulian,160,0,flat,531,168.5,0,Classic,5.0457,0,0
+KochJonas,161,0,flat,531,168.5,0,Hills,5.0457,0,0
+CarthyHugh,162,0,flat,531,168.5,0,GC,5.688,0,0
+CousinJérôme,163,0,flat,531,168.5,0,GC,6.7637,0,0
+FormoloDavide,164,0,flat,531,168.5,0,Climber,7.7697,0,0
+EwanCaleb,1,1,flat,1008,166.5,0,Sprint,0.0,0,0
+BennettSam,2,0,flat,1008,166.5,0,Sprint,0.0,0,0
+van AertWout,3,0,flat,1008,166.5,0,Classic,0.0,0,0
+CoquardBryan,4,0,flat,1008,166.5,0,Sprint,0.0,0,0
+VenturiniClément,5,0,flat,1008,166.5,0,Classic,0.0,0,0
+PedersenMads,6,0,flat,1008,166.5,0,Classic,0.0,0,0
+MezgecLuka,7,0,flat,1008,166.5,0,Hills,0.0,0,0
+HofstetterHugo,8,0,flat,1008,166.5,0,Classic,0.0,0,0
+NaesenOliver,9,0,flat,1008,166.5,0,Classic,0.0,0,0
+GibbonsRyan,10,0,flat,1008,166.5,0,Hills,0.0,0,0
+TrentinMatteo,11,0,flat,1008,166.5,0,Classic,0.0,0,0
+KristoffAlexander,12,0,flat,1008,166.5,0,Classic,0.0,0,0
+TurgisAnthony,13,0,flat,1008,166.5,0,Classic,0.0,0,0
+Boasson HagenEdvald,14,0,flat,1008,166.5,0,Classic,0.0,0,0
+BonifazioNiccolò,15,0,flat,1008,166.5,0,Sprint,0.0,0,0
+RussoClément,16,0,flat,1008,166.5,0,Classic,0.0,0,0
+VivianiElia,17,0,flat,1008,166.5,0,Sprint,0.0,0,0
+BolCees,18,0,flat,1008,166.5,0,Sprint,0.0,0,0
+ImpeyDaryl,19,0,flat,1008,166.5,0,Hills,0.0,0,0
+LedanoisKévin,20,0,flat,1008,166.5,0,Classic,0.0,0,0
+PolancJan,21,0,flat,1008,166.5,0,GC,0.0,0,0
+OssDaniel,22,0,flat,1008,166.5,0,Classic,0.0,0,0
+CarapazRichard,23,0,flat,1008,166.5,0,Climber,0.0,0,0
+YatesAdam,24,0,flat,1008,166.5,0,Climber,0.0,0,0
+KeukeleireJens,25,0,flat,1008,166.5,0,Classic,0.0,0,0
+Van AsbroeckTom,26,0,flat,1008,166.5,0,Classic,0.0,0,0
+PedersenCasper,27,0,flat,1008,166.5,0,Classic,0.0,0,0
+KochJonas,28,0,flat,1008,166.5,0,Hills,0.0,0,0
+QuintanaNairo,29,0,flat,1008,166.5,0,GC,0.0,0,0
+BauerJack,30,0,flat,1008,166.5,0,TT,0.0,0,0
+LópezMiguel Ángel,31,0,flat,1008,166.5,0,Climber,0.0,0,0
+RogličPrimož,32,0,flat,1008,166.5,0,Climber,0.0,0,0
+BernalEgan,33,0,flat,1008,166.5,0,GC,0.0,0,0
+PogačarTadej,34,0,flat,1008,166.5,0,Climber,0.0,0,0
+ValverdeAlejandro,35,0,flat,1008,166.5,0,Climber,0.0,0,0
+NieuwenhuisJoris,36,0,flat,1008,166.5,0,Classic,0.0,0,0
+PacherQuentin,37,0,flat,1008,166.5,0,Hills,0.0,0,0
+StuyvenJasper,38,0,flat,1008,166.5,0,Classic,0.0,0,0
+LandaMikel,39,0,flat,1008,166.5,0,Climber,0.0,0,0
+Kragh AndersenSøren,40,0,flat,1008,166.5,0,TT,0.0,0,0
+CarusoDamiano,41,0,flat,1008,166.5,0,GC,0.0,0,0
+UránRigoberto,42,0,flat,1008,166.5,0,Climber,0.0,0,0
+DumoulinTom,43,0,flat,1008,166.5,0,TT,0.0,0,0
+SolerMarc,44,0,flat,1008,166.5,0,Climber,0.0,0,0
+CherelMikaël,45,0,flat,1008,166.5,0,GC,0.0,0,0
+VuillermozAlexis,46,0,flat,1008,166.5,0,Climber,0.0,0,0
+SoupeGeoffrey,47,0,flat,1008,166.5,0,Sprint,0.0,0,0
+BardetRomain,48,0,flat,1008,166.5,0,Climber,0.0,0,0
+HouleHugo,49,0,flat,1008,166.5,0,GC,0.0,0,0
+EgNiklas,50,0,flat,1008,166.5,0,GC,0.0,0,0
+ChavesEsteban,51,0,flat,1008,166.5,0,Climber,0.0,0,0
+ValgrenMichael,52,0,flat,1008,166.5,0,Classic,0.0,0,0
+Van AvermaetGreg,53,0,flat,1008,166.5,0,Classic,0.0,0,0
+IzagirreGorka,54,0,flat,1008,166.5,0,GC,0.0,0,0
+SánchezLuis León,55,0,flat,1008,166.5,0,GC,0.0,0,0
+MollemaBauke,56,0,flat,1008,166.5,0,Climber,0.0,0,0
+SwiftConnor,57,0,flat,1008,166.5,0,Classic,0.0,0,0
+MasEnric,58,0,flat,1008,166.5,0,Climber,0.0,0,0
+CataldoDario,59,0,flat,1008,166.5,0,Climber,0.0,0,0
+MartinGuillaume,60,0,flat,1008,166.5,0,Climber,0.0,0,0
+GreipelAndré,61,0,flat,1008,166.5,0,Sprint,0.0,0,0
+MørkøvMichael,62,0,flat,1008,166.5,0,Classic,0.0,0,0
+PorteRichie,63,0,flat,1008,166.5,0,GC,0.0,0,0
+BilbaoPello,64,0,flat,1008,166.5,0,Climber,0.0,0,0
+PérichonPierre-Luc,65,0,flat,1008,166.5,0,Classic,0.0,0,0
+LaengenVegard Stake,66,0,flat,1008,166.5,0,GC,0.0,0,0
+BartheCyril,67,0,flat,1008,166.5,0,Hills,0.0,0,0
+QuintanaDayer,68,0,flat,1008,166.5,0,GC,0.0,0,0
+BarguilWarren,69,0,flat,1008,166.5,0,Climber,0.0,0,0
+PolittNils,70,0,flat,1008,166.5,0,Classic,0.0,0,0
+RollandPierre,71,0,flat,1008,166.5,0,Climber,0.0,0,0
+MadouasValentin,72,0,flat,1008,166.5,0,Classic,0.0,0,0
+BenootTiesj,73,0,flat,1008,166.5,0,Classic,0.0,0,0
+SchachmannMaximilian,74,0,flat,1008,166.5,0,GC,0.0,0,0
+PinotThibaut,75,0,flat,1008,166.5,0,Climber,0.0,0,0
+ArndtNikias,76,0,flat,1008,166.5,0,Hills,0.0,0,0
+MolardRudy,77,0,flat,1008,166.5,0,Climber,0.0,0,0
+ErvitiImanol,78,0,flat,1008,166.5,0,GC,0.0,0,0
+DevenynsDries,79,0,flat,1008,166.5,0,GC,0.0,0,0
+OliveiraNelson,80,0,flat,1008,166.5,0,TT,0.0,0,0
+LaporteChristophe,81,0,flat,1008,166.5,0,Classic,0.0,0,0
+GroßschartnerFelix,82,0,flat,1008,166.5,0,GC,0.0,0,0
+HiguitaSergio,83,0,flat,1008,166.5,0,Climber,0.0,0,0
+MarcatoMarco,84,0,flat,1008,166.5,0,Classic,0.0,0,0
+SaganPeter,85,0,flat,1008,166.5,0,Classic,0.0,0,0
+DebusschereJens,86,0,flat,1008,166.5,0,Classic,0.1111,0,0
+RezaKévin,87,0,flat,1008,166.5,0,Hills,0.2222,0,0
+Juul-JensenChristopher,88,0,flat,1008,166.5,0,GC,0.2222,0,0
+TheunsEdward,89,0,flat,1008,166.5,0,Classic,0.3541,0,0
+WalscheidMax,90,0,flat,1008,166.5,0,Sprint,0.3541,0,0
+De BuystJasper,91,0,flat,1008,166.5,0,Classic,0.4027,0,0
+JungelsBob,92,0,flat,1008,166.5,0,TT,0.5208,0,0
+GautierCyril,93,0,flat,1008,166.5,0,Classic,0.5555,0,0
+ReichenbachSébastien,94,0,flat,1008,166.5,0,GC,0.5555,0,0
+NivGuy,95,0,flat,1008,166.5,0,GC,0.5555,0,0
+KussSepp,96,0,flat,1008,166.5,0,Climber,0.5555,0,0
+SchärMichael,97,0,flat,1008,166.5,0,GC,0.5555,0,0
+PowlessNeilson,98,0,flat,1008,166.5,0,Classic,0.5555,0,0
+KüngStefan,99,0,flat,1008,166.5,0,TT,0.5555,0,0
+PöstlbergerLukas,100,0,flat,1008,166.5,0,Classic,0.5555,0,0
+AnaconaWinner,101,0,flat,1008,166.5,0,GC,0.5555,0,0
+van BaarleDylan,102,0,flat,1008,166.5,0,Classic,0.5763,0,0
+KämnaLennard,103,0,flat,1008,166.5,0,Climber,0.5763,0,0
+CavagnaRémi,104,0,flat,1008,166.5,0,TT,0.5763,0,0
+MartínezDaniel Felipe,105,0,flat,1008,166.5,0,GC,0.5763,0,0
+KreuzigerRoman,106,0,flat,1008,166.5,0,GC,0.5763,0,0
+NieveMikel,107,0,flat,1008,166.5,0,Climber,0.5763,0,0
+NeilandsKrists,108,0,flat,1008,166.5,0,Classic,0.5972,0,0
+SkujiņšToms,109,0,flat,1008,166.5,0,Classic,0.5972,0,0
+BettiolAlberto,110,0,flat,1008,166.5,0,Classic,0.5972,0,0
+VeronaCarlos,111,0,flat,1008,166.5,0,GC,0.5972,0,0
+GeschkeSimon,112,0,flat,1008,166.5,0,Climber,0.8958,0,0
+FraileOmar,113,0,flat,1008,166.5,0,Climber,0.9374,0,0
+ColbrelliSonny,114,0,flat,1008,166.5,0,Classic,1.0138,0,0
+MohoričMatej,115,0,flat,1008,166.5,0,Classic,1.0138,0,0
+HirschiMarc,116,0,flat,1008,166.5,0,Classic,1.2013,0,0
+RoweLuke,117,0,flat,1008,166.5,0,Classic,1.236,0,0
+ConsonniSimone,118,0,flat,1008,166.5,0,Classic,1.2777,0,0
+AsgreenKasper,119,0,flat,1008,166.5,0,TT,1.3541,0,0
+De GendtThomas,120,0,flat,1008,166.5,0,TT,1.8263,0,0
+HermansBen,121,0,flat,1008,166.5,0,GC,1.8263,0,0
+EdetNicolas,122,0,flat,1008,166.5,0,GC,1.8401,0,0
+GauduDavid,123,0,flat,1008,166.5,0,Climber,1.8401,0,0
+CastroviejoJonathan,124,0,flat,1008,166.5,0,TT,1.8401,0,0
+AmadorAndrey,125,0,flat,1008,166.5,0,GC,1.8401,0,0
+SivakovPavel,126,0,flat,1008,166.5,0,GC,1.8401,0,0
+LatourPierre,127,0,flat,1008,166.5,0,GC,1.8401,0,0
+KwiatkowskiMichał,128,0,flat,1008,166.5,0,Classic,1.8401,0,0
+ElissondeKenny,129,0,flat,1008,166.5,0,Climber,1.8401,0,0
+GrellierFabien,130,0,flat,1008,166.5,0,Classic,1.8401,0,0
+PetersNans,131,0,flat,1008,166.5,0,Classic,1.8401,0,0
+ChevalierMaxime,132,0,flat,1008,166.5,0,GC,1.8401,0,0
+MartinDan,133,0,flat,1008,166.5,0,Climber,1.8401,0,0
+FrisonFrederik,134,0,flat,1008,166.5,0,Classic,1.8401,0,0
+HirtJan,135,0,flat,1008,166.5,0,GC,1.8401,0,0
+BuchmannEmanuel,136,0,flat,1008,166.5,0,GC,1.8401,0,0
+ZakarinIlnur,137,0,flat,1008,166.5,0,GC,1.8401,0,0
+RocheNicolas,138,0,flat,1008,166.5,0,Climber,1.8401,0,0
+van GarderenTejay,139,0,flat,1008,166.5,0,GC,1.8401,0,0
+DeclercqTim,140,0,flat,1008,166.5,0,Classic,1.8401,0,0
+JansenAmund Grøndahl,141,0,flat,1008,166.5,0,Classic,1.8401,0,0
+PoelsWout,142,0,flat,1008,166.5,0,Climber,1.8401,0,0
+GesinkRobert,143,0,flat,1008,166.5,0,GC,1.8401,0,0
+HerradaJesús,144,0,flat,1008,166.5,0,GC,1.8401,0,0
+RojasJosé Joaquín,145,0,flat,1008,166.5,0,Hills,1.8401,0,0
+LadagnousMatthieu,146,0,flat,1008,166.5,0,GC,1.8401,0,0
+AlaphilippeJulian,147,0,flat,1008,166.5,0,Classic,1.8401,0,0
+KlugeRoger,148,0,flat,1008,166.5,0,Sprint,1.8401,0,0
+BennettGeorge,149,0,flat,1008,166.5,0,GC,1.8401,0,0
+CarthyHugh,150,0,flat,1008,166.5,0,GC,1.8401,0,0
+HallerMarco,151,0,flat,1008,166.5,0,Classic,1.8401,0,0
+de la CruzDavid,152,0,flat,1008,166.5,0,GC,1.8401,0,0
+SicardRomain,153,0,flat,1008,166.5,0,GC,1.8401,0,0
+CousinJérôme,154,0,flat,1008,166.5,0,GC,1.8401,0,0
+De MarchiAlessandro,155,0,flat,1008,166.5,0,Climber,1.8401,0,0
+GoglMichael,156,0,flat,1008,166.5,0,Classic,2.6109,0,0
+BurgaudeauMathieu,157,0,flat,1008,166.5,0,Hills,2.8192,0,0
+MartinTony,158,0,flat,1008,166.5,0,TT,3.2359,0,0
+TejadaHarold,159,0,flat,1008,166.5,0,Climber,3.2359,0,0
+CosnefroyBenoît,160,0,flat,1008,166.5,0,Classic,3.2359,0,0
+LutsenkoAlexey,161,0,flat,1008,166.5,0,GC,3.347,0,0
+HirschiMarc,1,1,hilly,3389,218.0,0,Classic,0.0,0,0
+RollandPierre,2,0,hilly,3389,218.0,0,Climber,0.2537,0,0
+Kragh AndersenSøren,3,0,hilly,3389,218.0,0,TT,0.2806,0,0
+PacherQuentin,4,0,hilly,3389,218.0,0,Hills,0.2806,0,0
+HerradaJesús,5,0,hilly,3389,218.0,0,GC,0.2806,0,0
+SchachmannMaximilian,6,0,hilly,3389,218.0,0,GC,0.2806,0,0
+HouleHugo,7,0,hilly,3389,218.0,0,GC,0.2806,0,0
+ReichenbachSébastien,8,0,hilly,3389,218.0,0,GC,0.2806,0,0
+ElissondeKenny,9,0,hilly,3389,218.0,0,Climber,0.3022,0,0
+RocheNicolas,10,0,hilly,3389,218.0,0,Climber,0.3022,0,0
+AlaphilippeJulian,11,0,hilly,3389,218.0,0,Classic,0.5829,0,0
+SolerMarc,12,0,hilly,3389,218.0,0,Climber,0.6746,0,0
+SaganPeter,13,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+Van AvermaetGreg,14,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+StuyvenJasper,15,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+GoglMichael,16,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+BartheCyril,17,0,hilly,3389,218.0,0,Hills,0.8095,0,0
+NaesenOliver,18,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+van AertWout,19,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+MollemaBauke,20,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+YatesAdam,21,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+DumoulinTom,22,0,hilly,3389,218.0,0,TT,0.8095,0,0
+KwiatkowskiMichał,23,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+RogličPrimož,24,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+BernalEgan,25,0,hilly,3389,218.0,0,GC,0.8095,0,0
+PogačarTadej,26,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+KussSepp,27,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+MadouasValentin,28,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+ConsonniSimone,29,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+UránRigoberto,30,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+GautierCyril,31,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+CarusoDamiano,32,0,hilly,3389,218.0,0,GC,0.8095,0,0
+ValverdeAlejandro,33,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+Van AsbroeckTom,34,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+MezgecLuka,35,0,hilly,3389,218.0,0,Hills,0.8095,0,0
+KüngStefan,36,0,hilly,3389,218.0,0,TT,0.8095,0,0
+ImpeyDaryl,37,0,hilly,3389,218.0,0,Hills,0.8095,0,0
+TrentinMatteo,38,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+LópezMiguel Ángel,39,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+MasEnric,40,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+PorteRichie,41,0,hilly,3389,218.0,0,GC,0.8095,0,0
+BilbaoPello,42,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+CarapazRichard,43,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+EdetNicolas,44,0,hilly,3389,218.0,0,GC,0.8095,0,0
+PolancJan,45,0,hilly,3389,218.0,0,GC,0.8095,0,0
+MartinGuillaume,46,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+QuintanaNairo,47,0,hilly,3389,218.0,0,GC,0.8095,0,0
+BardetRomain,48,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+EgNiklas,49,0,hilly,3389,218.0,0,GC,0.8095,0,0
+KreuzigerRoman,50,0,hilly,3389,218.0,0,GC,0.8095,0,0
+ChavesEsteban,51,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+SicardRomain,52,0,hilly,3389,218.0,0,GC,0.8095,0,0
+PowlessNeilson,53,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+LandaMikel,54,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+BenootTiesj,55,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+AmadorAndrey,56,0,hilly,3389,218.0,0,GC,0.8095,0,0
+IzagirreGorka,57,0,hilly,3389,218.0,0,GC,0.8095,0,0
+PinotThibaut,58,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+KeukeleireJens,59,0,hilly,3389,218.0,0,Classic,0.8095,0,0
+GauduDavid,60,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+NieveMikel,61,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+FraileOmar,62,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+VeronaCarlos,63,0,hilly,3389,218.0,0,GC,0.8095,0,0
+CherelMikaël,64,0,hilly,3389,218.0,0,GC,0.8095,0,0
+MolardRudy,65,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+De GendtThomas,66,0,hilly,3389,218.0,0,TT,0.8095,0,0
+BarguilWarren,67,0,hilly,3389,218.0,0,Climber,0.8095,0,0
+GesinkRobert,68,0,hilly,3389,218.0,0,GC,0.8095,0,0
+LutsenkoAlexey,69,0,hilly,3389,218.0,0,GC,0.8095,0,0
+AnaconaWinner,70,0,hilly,3389,218.0,0,GC,0.8095,0,0
+MartinDan,71,0,hilly,3389,218.0,0,Climber,0.9121,0,0
+BennettGeorge,72,0,hilly,3389,218.0,0,GC,0.9337,0,0
+de la CruzDavid,73,0,hilly,3389,218.0,0,GC,1.0794,0,0
+KämnaLennard,74,0,hilly,3389,218.0,0,Climber,1.0902,0,0
+CastroviejoJonathan,75,0,hilly,3389,218.0,0,TT,1.2035,0,0
+PérichonPierre-Luc,76,0,hilly,3389,218.0,0,Classic,1.2413,0,0
+SivakovPavel,77,0,hilly,3389,218.0,0,GC,1.9699,0,0
+BauerJack,78,0,hilly,3389,218.0,0,TT,2.8604,0,0
+DevenynsDries,79,0,hilly,3389,218.0,0,GC,2.8604,0,0
+De MarchiAlessandro,80,0,hilly,3389,218.0,0,Climber,2.8604,0,0
+Juul-JensenChristopher,81,0,hilly,3389,218.0,0,GC,2.8604,0,0
+HiguitaSergio,82,0,hilly,3389,218.0,0,Climber,3.114,0,0
+ArndtNikias,83,0,hilly,3389,218.0,0,Hills,3.114,0,0
+ValgrenMichael,84,0,hilly,3389,218.0,0,Classic,3.6106,0,0
+HermansBen,85,0,hilly,3389,218.0,0,GC,4.1988,0,0
+JungelsBob,86,0,hilly,3389,218.0,0,TT,4.1988,0,0
+PoelsWout,87,0,hilly,3389,218.0,0,Climber,4.4147,0,0
+MohoričMatej,88,0,hilly,3389,218.0,0,Classic,4.4147,0,0
+GrellierFabien,89,0,hilly,3389,218.0,0,Classic,4.4147,0,0
+LaengenVegard Stake,90,0,hilly,3389,218.0,0,GC,4.4147,0,0
+DeclercqTim,91,0,hilly,3389,218.0,0,Classic,4.4147,0,0
+SchärMichael,92,0,hilly,3389,218.0,0,GC,4.4147,0,0
+QuintanaDayer,93,0,hilly,3389,218.0,0,GC,4.4147,0,0
+Boasson HagenEdvald,94,0,hilly,3389,218.0,0,Classic,4.4147,0,0
+CataldoDario,95,0,hilly,3389,218.0,0,Climber,4.4147,0,0
+ErvitiImanol,96,0,hilly,3389,218.0,0,GC,4.4147,0,0
+GibbonsRyan,97,0,hilly,3389,218.0,0,Hills,4.4147,0,0
+NieuwenhuisJoris,98,0,hilly,3389,218.0,0,Classic,4.4147,0,0
+PetersNans,99,0,hilly,3389,218.0,0,Classic,4.4147,0,0
+KochJonas,100,0,hilly,3389,218.0,0,Hills,4.4147,0,0
+BuchmannEmanuel,101,0,hilly,3389,218.0,0,GC,4.4147,0,0
+RojasJosé Joaquín,102,0,hilly,3389,218.0,0,Hills,4.4147,0,0
+van GarderenTejay,103,0,hilly,3389,218.0,0,GC,4.4147,0,0
+OliveiraNelson,104,0,hilly,3389,218.0,0,TT,4.4147,0,0
+MartínezDaniel Felipe,105,0,hilly,3389,218.0,0,GC,4.4147,0,0
+HirtJan,106,0,hilly,3389,218.0,0,GC,4.4147,0,0
+LaporteChristophe,107,0,hilly,3389,218.0,0,Classic,4.4417,0,0
+ColbrelliSonny,108,0,hilly,3389,218.0,0,Classic,5.2566,0,0
+MarcatoMarco,109,0,hilly,3389,218.0,0,Classic,5.2566,0,0
+TurgisAnthony,110,0,hilly,3389,218.0,0,Classic,5.2566,0,0
+SoupeGeoffrey,111,0,hilly,3389,218.0,0,Sprint,5.2566,0,0
+AsgreenKasper,112,0,hilly,3389,218.0,0,TT,5.2566,0,0
+VenturiniClément,113,0,hilly,3389,218.0,0,Classic,5.2566,0,0
+van BaarleDylan,114,0,hilly,3389,218.0,0,Classic,5.2566,0,0
+LadagnousMatthieu,115,0,hilly,3389,218.0,0,GC,5.2566,0,0
+De BuystJasper,116,0,hilly,3389,218.0,0,Classic,5.2566,0,0
+NeilandsKrists,117,0,hilly,3389,218.0,0,Classic,5.4455,0,0
+RussoClément,118,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+LedanoisKévin,119,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+SwiftConnor,120,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+MartinTony,121,0,hilly,3389,218.0,0,TT,6.4601,0,0
+HallerMarco,122,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+KristoffAlexander,123,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+CoquardBryan,124,0,hilly,3389,218.0,0,Sprint,6.4601,0,0
+DebusschereJens,125,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+ChevalierMaxime,126,0,hilly,3389,218.0,0,GC,6.4601,0,0
+RezaKévin,127,0,hilly,3389,218.0,0,Hills,6.4601,0,0
+BonifazioNiccolò,128,0,hilly,3389,218.0,0,Sprint,6.4601,0,0
+WalscheidMax,129,0,hilly,3389,218.0,0,Sprint,6.4601,0,0
+PedersenCasper,130,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+BurgaudeauMathieu,131,0,hilly,3389,218.0,0,Hills,6.4601,0,0
+HofstetterHugo,132,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+CosnefroyBenoît,133,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+GroßschartnerFelix,134,0,hilly,3389,218.0,0,GC,6.4601,0,0
+BettiolAlberto,135,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+TejadaHarold,136,0,hilly,3389,218.0,0,Climber,6.4601,0,0
+JansenAmund Grøndahl,137,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+TheunsEdward,138,0,hilly,3389,218.0,0,Classic,6.4601,0,0
+SánchezLuis León,139,0,hilly,3389,218.0,0,GC,8.3437,0,0
+CarthyHugh,140,0,hilly,3389,218.0,0,GC,8.3437,0,0
+MørkøvMichael,141,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+PedersenMads,142,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+KlugeRoger,143,0,hilly,3389,218.0,0,Sprint,8.5542,0,0
+PolittNils,144,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+FrisonFrederik,145,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+BolCees,146,0,hilly,3389,218.0,0,Sprint,8.5542,0,0
+VuillermozAlexis,147,0,hilly,3389,218.0,0,Climber,8.5542,0,0
+LatourPierre,148,0,hilly,3389,218.0,0,GC,8.5542,0,0
+VivianiElia,149,0,hilly,3389,218.0,0,Sprint,8.5542,0,0
+OssDaniel,150,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+CavagnaRémi,151,0,hilly,3389,218.0,0,TT,8.5542,0,0
+EwanCaleb,152,0,hilly,3389,218.0,0,Sprint,8.5542,0,0
+RoweLuke,153,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+NivGuy,154,0,hilly,3389,218.0,0,GC,8.5542,0,0
+GeschkeSimon,155,0,hilly,3389,218.0,0,Climber,8.5542,0,0
+GreipelAndré,156,0,hilly,3389,218.0,0,Sprint,8.5542,0,0
+CousinJérôme,157,0,hilly,3389,218.0,0,GC,8.5542,0,0
+SkujiņšToms,158,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+PöstlbergerLukas,159,0,hilly,3389,218.0,0,Classic,8.5542,0,0
+BennettSam,160,0,hilly,3389,218.0,0,Sprint,8.5542,0,0
+MartínezDaniel Felipe,1,1,mountain,4459,191.5,0,GC,0.0,0,0
+KämnaLennard,2,0,mountain,4459,191.5,0,Climber,0.0221,0,0
+SchachmannMaximilian,3,0,mountain,4459,191.5,0,GC,0.2817,0,0
+MadouasValentin,4,0,mountain,4459,191.5,0,Classic,0.5136,0,0
+RollandPierre,5,0,mountain,4459,191.5,0,Climber,0.5633,0,0
+EdetNicolas,6,0,mountain,4459,191.5,0,GC,0.6241,0,0
+GeschkeSimon,7,0,mountain,4459,191.5,0,Climber,0.856,0,0
+SolerMarc,8,0,mountain,4459,191.5,0,Climber,0.9002,0,0
+CarthyHugh,9,0,mountain,4459,191.5,0,GC,1.0935,0,0
+de la CruzDavid,10,0,mountain,4459,191.5,0,GC,1.2813,0,0
+MartinDan,11,0,mountain,4459,191.5,0,Climber,1.4967,0,0
+RogličPrimož,12,0,mountain,4459,191.5,0,Climber,2.0158,0,0
+PogačarTadej,13,0,mountain,4459,191.5,0,Climber,2.0158,0,0
+PorteRichie,14,0,mountain,4459,191.5,0,GC,2.0876,0,0
+LandaMikel,15,0,mountain,4459,191.5,0,Climber,2.0876,0,0
+LópezMiguel Ángel,16,0,mountain,4459,191.5,0,Climber,2.1042,0,0
+PowlessNeilson,17,0,mountain,4459,191.5,0,Classic,2.1483,0,0
+BernalEgan,18,0,mountain,4459,191.5,0,GC,2.2257,0,0
+UránRigoberto,19,0,mountain,4459,191.5,0,Climber,2.2257,0,0
+YatesAdam,20,0,mountain,4459,191.5,0,Climber,2.2367,0,0
+QuintanaNairo,21,0,mountain,4459,191.5,0,GC,2.2367,0,0
+MasEnric,22,0,mountain,4459,191.5,0,Climber,2.303,0,0
+DumoulinTom,23,0,mountain,4459,191.5,0,TT,2.4024,0,0
+CarapazRichard,24,0,mountain,4459,191.5,0,Climber,2.5073,0,0
+KussSepp,25,0,mountain,4459,191.5,0,Climber,2.5073,0,0
+SicardRomain,26,0,mountain,4459,191.5,0,GC,2.5902,0,0
+BardetRomain,27,0,mountain,4459,191.5,0,Climber,2.8442,0,0
+ValverdeAlejandro,28,0,mountain,4459,191.5,0,Climber,2.8939,0,0
+MartinGuillaume,29,0,mountain,4459,191.5,0,Climber,2.9326,0,0
+BarguilWarren,30,0,mountain,4459,191.5,0,Climber,3.1203,0,0
+CarusoDamiano,31,0,mountain,4459,191.5,0,GC,3.1203,0,0
+BilbaoPello,32,0,mountain,4459,191.5,0,Climber,3.391,0,0
+IzagirreGorka,33,0,mountain,4459,191.5,0,GC,3.391,0,0
+AlaphilippeJulian,34,0,mountain,4459,191.5,0,Classic,3.4572,0,0
+SivakovPavel,35,0,mountain,4459,191.5,0,GC,3.4572,0,0
+CavagnaRémi,36,0,mountain,4459,191.5,0,TT,3.6395,0,0
+VuillermozAlexis,37,0,mountain,4459,191.5,0,Climber,4.2028,0,0
+PinotThibaut,38,0,mountain,4459,191.5,0,Climber,4.7716,0,0
+ElissondeKenny,39,0,mountain,4459,191.5,0,Climber,4.7716,0,0
+EgNiklas,40,0,mountain,4459,191.5,0,GC,4.7716,0,0
+PolancJan,41,0,mountain,4459,191.5,0,GC,5.3736,0,0
+NaesenOliver,42,0,mountain,4459,191.5,0,Classic,5.5835,0,0
+MolardRudy,43,0,mountain,4459,191.5,0,Climber,6.0971,0,0
+KreuzigerRoman,44,0,mountain,4459,191.5,0,GC,6.0971,0,0
+ReichenbachSébastien,45,0,mountain,4459,191.5,0,GC,6.0971,0,0
+CherelMikaël,46,0,mountain,4459,191.5,0,GC,6.0971,0,0
+JungelsBob,47,0,mountain,4459,191.5,0,TT,6.0971,0,0
+SánchezLuis León,48,0,mountain,4459,191.5,0,GC,6.0971,0,0
+VeronaCarlos,49,0,mountain,4459,191.5,0,GC,6.0971,0,0
+CastroviejoJonathan,50,0,mountain,4459,191.5,0,TT,6.2849,0,0
+HiguitaSergio,51,0,mountain,4459,191.5,0,Climber,6.307,0,0
+van BaarleDylan,52,0,mountain,4459,191.5,0,Classic,6.6549,0,0
+KwiatkowskiMichał,53,0,mountain,4459,191.5,0,Classic,6.6549,0,0
+De GendtThomas,54,0,mountain,4459,191.5,0,TT,6.6549,0,0
+AnaconaWinner,55,0,mountain,4459,191.5,0,GC,7.1795,0,0
+HerradaJesús,56,0,mountain,4459,191.5,0,GC,7.1795,0,0
+OliveiraNelson,57,0,mountain,4459,191.5,0,TT,7.1795,0,0
+PoelsWout,58,0,mountain,4459,191.5,0,Climber,7.6821,0,0
+van AertWout,59,0,mountain,4459,191.5,0,Classic,7.6821,0,0
+StuyvenJasper,60,0,mountain,4459,191.5,0,Classic,7.6821,0,0
+GesinkRobert,61,0,mountain,4459,191.5,0,GC,7.6821,0,0
+SchärMichael,62,0,mountain,4459,191.5,0,GC,7.6821,0,0
+HermansBen,63,0,mountain,4459,191.5,0,GC,7.6821,0,0
+PetersNans,64,0,mountain,4459,191.5,0,Classic,7.6821,0,0
+LutsenkoAlexey,65,0,mountain,4459,191.5,0,GC,7.6821,0,0
+QuintanaDayer,66,0,mountain,4459,191.5,0,GC,7.6821,0,0
+HouleHugo,67,0,mountain,4459,191.5,0,GC,7.6821,0,0
+NieveMikel,68,0,mountain,4459,191.5,0,Climber,7.6821,0,0
+MohoričMatej,69,0,mountain,4459,191.5,0,Classic,7.6821,0,0
+BettiolAlberto,70,0,mountain,4459,191.5,0,Classic,7.6821,0,0
+Van AvermaetGreg,71,0,mountain,4459,191.5,0,Classic,7.6821,0,0
+TejadaHarold,72,0,mountain,4459,191.5,0,Climber,7.6821,0,0
+BennettGeorge,73,0,mountain,4459,191.5,0,GC,7.9472,0,0
+BauerJack,74,0,mountain,4459,191.5,0,TT,7.9472,0,0
+LaengenVegard Stake,75,0,mountain,4459,191.5,0,GC,8.0632,0,0
+BuchmannEmanuel,76,0,mountain,4459,191.5,0,GC,8.1405,0,0
+KüngStefan,77,0,mountain,4459,191.5,0,TT,8.1405,0,0
+PolittNils,78,0,mountain,4459,191.5,0,Classic,8.2454,0,0
+BartheCyril,79,0,mountain,4459,191.5,0,Hills,8.7977,0,0
+PacherQuentin,80,0,mountain,4459,191.5,0,Hills,8.7977,0,0
+GautierCyril,81,0,mountain,4459,191.5,0,Classic,8.7977,0,0
+KeukeleireJens,82,0,mountain,4459,191.5,0,Classic,8.9744,0,0
+van GarderenTejay,83,0,mountain,4459,191.5,0,GC,8.9744,0,0
+NivGuy,84,0,mountain,4459,191.5,0,GC,8.9744,0,0
+BenootTiesj,85,0,mountain,4459,191.5,0,Classic,9.0738,0,0
+CosnefroyBenoît,86,0,mountain,4459,191.5,0,Classic,9.1015,0,0
+RoweLuke,87,0,mountain,4459,191.5,0,Classic,9.3334,0,0
+Juul-JensenChristopher,88,0,mountain,4459,191.5,0,GC,9.3334,0,0
+RojasJosé Joaquín,89,0,mountain,4459,191.5,0,Hills,9.3334,0,0
+ImpeyDaryl,90,0,mountain,4459,191.5,0,Hills,9.3334,0,0
+SwiftConnor,91,0,mountain,4459,191.5,0,Classic,9.3334,0,0
+ErvitiImanol,92,0,mountain,4459,191.5,0,GC,9.3334,0,0
+AmadorAndrey,93,0,mountain,4459,191.5,0,GC,9.3334,0,0
+GrellierFabien,94,0,mountain,4459,191.5,0,Classic,9.3334,0,0
+RocheNicolas,95,0,mountain,4459,191.5,0,Climber,9.3334,0,0
+SoupeGeoffrey,96,0,mountain,4459,191.5,0,Sprint,9.3334,0,0
+MartinTony,97,0,mountain,4459,191.5,0,TT,9.3334,0,0
+LedanoisKévin,98,0,mountain,4459,191.5,0,Classic,9.3334,0,0
+PérichonPierre-Luc,99,0,mountain,4459,191.5,0,Classic,9.4494,0,0
+SkujiņšToms,100,0,mountain,4459,191.5,0,Classic,9.4494,0,0
+AsgreenKasper,101,0,mountain,4459,191.5,0,TT,9.6758,0,0
+Kragh AndersenSøren,102,0,mountain,4459,191.5,0,TT,9.6758,0,0
+MarcatoMarco,103,0,mountain,4459,191.5,0,Classic,9.9022,0,0
+De MarchiAlessandro,104,0,mountain,4459,191.5,0,Climber,9.9022,0,0
+GreipelAndré,105,0,mountain,4459,191.5,0,Sprint,9.9464,0,0
+LadagnousMatthieu,106,0,mountain,4459,191.5,0,GC,9.9464,0,0
+GoglMichael,107,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+GibbonsRyan,108,0,mountain,4459,191.5,0,Hills,9.9464,0,0
+KochJonas,109,0,mountain,4459,191.5,0,Hills,9.9464,0,0
+ColbrelliSonny,110,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+VivianiElia,111,0,mountain,4459,191.5,0,Sprint,9.9464,0,0
+CousinJérôme,112,0,mountain,4459,191.5,0,GC,9.9464,0,0
+CataldoDario,113,0,mountain,4459,191.5,0,Climber,9.9464,0,0
+Van AsbroeckTom,114,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+FraileOmar,115,0,mountain,4459,191.5,0,Climber,9.9464,0,0
+DebusschereJens,116,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+RussoClément,117,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+LatourPierre,118,0,mountain,4459,191.5,0,GC,9.9464,0,0
+VenturiniClément,119,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+GauduDavid,120,0,mountain,4459,191.5,0,Climber,9.9464,0,0
+NeilandsKrists,121,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+NieuwenhuisJoris,122,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+ValgrenMichael,123,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+Boasson HagenEdvald,124,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+ChavesEsteban,125,0,mountain,4459,191.5,0,Climber,9.9464,0,0
+ArndtNikias,126,0,mountain,4459,191.5,0,Hills,9.9464,0,0
+HirtJan,127,0,mountain,4459,191.5,0,GC,9.9464,0,0
+JansenAmund Grøndahl,128,0,mountain,4459,191.5,0,Classic,9.9464,0,0
+MezgecLuka,129,0,mountain,4459,191.5,0,Hills,9.9464,0,0
+BurgaudeauMathieu,130,0,mountain,4459,191.5,0,Hills,10.0348,0,0
+ChevalierMaxime,131,0,mountain,4459,191.5,0,GC,10.0348,0,0
+PedersenMads,132,0,mountain,4459,191.5,0,Classic,10.0348,0,0
+TheunsEdward,133,0,mountain,4459,191.5,0,Classic,10.0348,0,0
+PedersenCasper,134,0,mountain,4459,191.5,0,Classic,10.0679,0,0
+WalscheidMax,135,0,mountain,4459,191.5,0,Sprint,10.0679,0,0
+TurgisAnthony,136,0,mountain,4459,191.5,0,Classic,10.0955,0,0
+GroßschartnerFelix,137,0,mountain,4459,191.5,0,GC,10.1287,0,0
+HofstetterHugo,138,0,mountain,4459,191.5,0,Classic,10.2723,0,0
+RezaKévin,139,0,mountain,4459,191.5,0,Hills,10.2888,0,0
+HirschiMarc,140,0,mountain,4459,191.5,0,Classic,10.2888,0,0
+TrentinMatteo,141,0,mountain,4459,191.5,0,Classic,10.3054,0,0
+SaganPeter,142,0,mountain,4459,191.5,0,Classic,10.3385,0,0
+OssDaniel,143,0,mountain,4459,191.5,0,Classic,10.3385,0,0
+PöstlbergerLukas,144,0,mountain,4459,191.5,0,Classic,10.3385,0,0
+CoquardBryan,145,0,mountain,4459,191.5,0,Sprint,10.3385,0,0
+KlugeRoger,146,0,mountain,4459,191.5,0,Sprint,10.3606,0,0
+LaporteChristophe,147,0,mountain,4459,191.5,0,Classic,10.3717,0,0
+ConsonniSimone,148,0,mountain,4459,191.5,0,Classic,10.3717,0,0
+FrisonFrederik,149,0,mountain,4459,191.5,0,Classic,10.3717,0,0
+De BuystJasper,150,0,mountain,4459,191.5,0,Classic,10.3717,0,0
+EwanCaleb,151,0,mountain,4459,191.5,0,Sprint,10.3717,0,0
+KristoffAlexander,152,0,mountain,4459,191.5,0,Classic,10.4048,0,0
+HallerMarco,153,0,mountain,4459,191.5,0,Classic,10.4932,0,0
+BolCees,154,0,mountain,4459,191.5,0,Sprint,10.5208,0,0
+BonifazioNiccolò,155,0,mountain,4459,191.5,0,Sprint,10.8908,0,0
+DevenynsDries,156,0,mountain,4459,191.5,0,GC,11.3326,0,0
+MørkøvMichael,157,0,mountain,4459,191.5,0,Classic,11.3823,0,0
+DeclercqTim,158,0,mountain,4459,191.5,0,Classic,11.3823,0,0
+BennettSam,159,0,mountain,4459,191.5,0,Sprint,11.3823,0,0
+Kragh AndersenSøren,1,1,mountain,2646,194.0,0,TT,0.0,0,0
+MezgecLuka,2,0,mountain,2646,194.0,0,Hills,0.0932,0,0
+ConsonniSimone,3,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+SaganPeter,4,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+PedersenCasper,5,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+StuyvenJasper,6,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+TrentinMatteo,7,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+NaesenOliver,8,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+ColbrelliSonny,9,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+HirschiMarc,10,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+TurgisAnthony,11,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+PogačarTadej,12,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+ValgrenMichael,13,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+HouleHugo,14,0,mountain,2646,194.0,0,GC,0.0932,0,0
+BarguilWarren,15,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+MadouasValentin,16,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+PacherQuentin,17,0,mountain,2646,194.0,0,Hills,0.0932,0,0
+CarusoDamiano,18,0,mountain,2646,194.0,0,GC,0.0932,0,0
+FraileOmar,19,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+KwiatkowskiMichał,20,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+Van AvermaetGreg,21,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+EdetNicolas,22,0,mountain,2646,194.0,0,GC,0.0932,0,0
+HiguitaSergio,23,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+BernalEgan,24,0,mountain,2646,194.0,0,GC,0.0932,0,0
+CarapazRichard,25,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+DumoulinTom,26,0,mountain,2646,194.0,0,TT,0.0932,0,0
+ImpeyDaryl,27,0,mountain,2646,194.0,0,Hills,0.0932,0,0
+ValverdeAlejandro,28,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+RogličPrimož,29,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+LópezMiguel Ángel,30,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+MartinGuillaume,31,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+LandaMikel,32,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+BilbaoPello,33,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+QuintanaNairo,34,0,mountain,2646,194.0,0,GC,0.0932,0,0
+ChavesEsteban,35,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+UránRigoberto,36,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+BettiolAlberto,37,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+BenootTiesj,38,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+PorteRichie,39,0,mountain,2646,194.0,0,GC,0.0932,0,0
+YatesAdam,40,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+MasEnric,41,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+GauduDavid,42,0,mountain,2646,194.0,0,Climber,0.0932,0,0
+VeronaCarlos,43,0,mountain,2646,194.0,0,GC,0.0932,0,0
+IzagirreGorka,44,0,mountain,2646,194.0,0,GC,0.0932,0,0
+De GendtThomas,45,0,mountain,2646,194.0,0,TT,0.0932,0,0
+NieuwenhuisJoris,46,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+SánchezLuis León,47,0,mountain,2646,194.0,0,GC,0.0932,0,0
+JungelsBob,48,0,mountain,2646,194.0,0,TT,0.0932,0,0
+van AertWout,49,0,mountain,2646,194.0,0,Classic,0.0932,0,0
+HerradaJesús,50,0,mountain,2646,194.0,0,GC,0.0932,0,0
+CastroviejoJonathan,51,0,mountain,2646,194.0,0,TT,0.0932,0,0
+AlaphilippeJulian,52,0,mountain,2646,194.0,0,Classic,0.1554,0,0
+BauerJack,53,0,mountain,2646,194.0,0,TT,0.1554,0,0
+KämnaLennard,54,0,mountain,2646,194.0,0,Climber,0.1554,0,0
+KussSepp,55,0,mountain,2646,194.0,0,Climber,0.3791,0,0
+CherelMikaël,56,0,mountain,2646,194.0,0,GC,0.4226,0,0
+PetersNans,57,0,mountain,2646,194.0,0,Classic,0.4723,0,0
+LaporteChristophe,58,0,mountain,2646,194.0,0,Classic,0.4972,0,0
+SolerMarc,59,0,mountain,2646,194.0,0,Climber,0.5096,0,0
+van GarderenTejay,60,0,mountain,2646,194.0,0,GC,0.8452,0,0
+TejadaHarold,61,0,mountain,2646,194.0,0,Climber,0.9944,0,0
+KüngStefan,62,0,mountain,2646,194.0,0,TT,1.33,0,0
+RojasJosé Joaquín,63,0,mountain,2646,194.0,0,Hills,1.9329,0,0
+SchärMichael,64,0,mountain,2646,194.0,0,GC,2.1255,0,0
+GesinkRobert,65,0,mountain,2646,194.0,0,GC,2.1255,0,0
+VuillermozAlexis,66,0,mountain,2646,194.0,0,Climber,2.1255,0,0
+MartinDan,67,0,mountain,2646,194.0,0,Climber,2.1255,0,0
+LadagnousMatthieu,68,0,mountain,2646,194.0,0,GC,2.1255,0,0
+ElissondeKenny,69,0,mountain,2646,194.0,0,Climber,2.1255,0,0
+PérichonPierre-Luc,70,0,mountain,2646,194.0,0,Classic,2.1255,0,0
+ErvitiImanol,71,0,mountain,2646,194.0,0,GC,2.1255,0,0
+NieveMikel,72,0,mountain,2646,194.0,0,Climber,2.1255,0,0
+LaengenVegard Stake,73,0,mountain,2646,194.0,0,GC,2.1255,0,0
+van BaarleDylan,74,0,mountain,2646,194.0,0,Classic,2.4984,0,0
+RoweLuke,75,0,mountain,2646,194.0,0,Classic,2.4984,0,0
+SivakovPavel,76,0,mountain,2646,194.0,0,GC,2.4984,0,0
+GroßschartnerFelix,77,0,mountain,2646,194.0,0,GC,2.4984,0,0
+AmadorAndrey,78,0,mountain,2646,194.0,0,GC,2.4984,0,0
+MohoričMatej,79,0,mountain,2646,194.0,0,Classic,2.4984,0,0
+MarcatoMarco,80,0,mountain,2646,194.0,0,Classic,2.4984,0,0
+LedanoisKévin,81,0,mountain,2646,194.0,0,Classic,2.4984,0,0
+OliveiraNelson,82,0,mountain,2646,194.0,0,TT,2.4984,0,0
+BuchmannEmanuel,83,0,mountain,2646,194.0,0,GC,2.9273,0,0
+LutsenkoAlexey,84,0,mountain,2646,194.0,0,GC,2.9894,0,0
+CataldoDario,85,0,mountain,2646,194.0,0,Climber,3.0392,0,0
+De MarchiAlessandro,86,0,mountain,2646,194.0,0,Climber,3.0392,0,0
+GeschkeSimon,87,0,mountain,2646,194.0,0,Climber,3.0392,0,0
+BennettGeorge,88,0,mountain,2646,194.0,0,GC,3.3126,0,0
+RocheNicolas,89,0,mountain,2646,194.0,0,Climber,3.3126,0,0
+EgNiklas,90,0,mountain,2646,194.0,0,GC,3.6109,0,0
+PedersenMads,91,0,mountain,2646,194.0,0,Classic,3.6109,0,0
+MartinTony,92,0,mountain,2646,194.0,0,TT,3.7166,0,0
+HirtJan,93,0,mountain,2646,194.0,0,GC,4.7732,0,0
+RussoClément,94,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+GreipelAndré,95,0,mountain,2646,194.0,0,Sprint,7.3835,0,0
+PolittNils,96,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+Van AsbroeckTom,97,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+SchachmannMaximilian,98,0,mountain,2646,194.0,0,GC,7.3835,0,0
+MolardRudy,99,0,mountain,2646,194.0,0,Climber,7.3835,0,0
+ArndtNikias,100,0,mountain,2646,194.0,0,Hills,7.3835,0,0
+PöstlbergerLukas,101,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+WalscheidMax,102,0,mountain,2646,194.0,0,Sprint,7.3835,0,0
+KristoffAlexander,103,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+BartheCyril,104,0,mountain,2646,194.0,0,Hills,7.3835,0,0
+MørkøvMichael,105,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+BennettSam,106,0,mountain,2646,194.0,0,Sprint,7.3835,0,0
+PowlessNeilson,107,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+HermansBen,108,0,mountain,2646,194.0,0,GC,7.3835,0,0
+OssDaniel,109,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+BonifazioNiccolò,110,0,mountain,2646,194.0,0,Sprint,7.3835,0,0
+SoupeGeoffrey,111,0,mountain,2646,194.0,0,Sprint,7.3835,0,0
+Boasson HagenEdvald,112,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+CavagnaRémi,113,0,mountain,2646,194.0,0,TT,7.3835,0,0
+VivianiElia,114,0,mountain,2646,194.0,0,Sprint,7.3835,0,0
+PinotThibaut,115,0,mountain,2646,194.0,0,Climber,7.3835,0,0
+GibbonsRyan,116,0,mountain,2646,194.0,0,Hills,7.3835,0,0
+SicardRomain,117,0,mountain,2646,194.0,0,GC,7.3835,0,0
+SwiftConnor,118,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+QuintanaDayer,119,0,mountain,2646,194.0,0,GC,7.3835,0,0
+KeukeleireJens,120,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+KochJonas,121,0,mountain,2646,194.0,0,Hills,7.3835,0,0
+AnaconaWinner,122,0,mountain,2646,194.0,0,GC,7.3835,0,0
+PolancJan,123,0,mountain,2646,194.0,0,GC,7.3835,0,0
+ReichenbachSébastien,124,0,mountain,2646,194.0,0,GC,7.3835,0,0
+GoglMichael,125,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+HallerMarco,126,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+RezaKévin,127,0,mountain,2646,194.0,0,Hills,7.3835,0,0
+ChevalierMaxime,128,0,mountain,2646,194.0,0,GC,7.3835,0,0
+Juul-JensenChristopher,129,0,mountain,2646,194.0,0,GC,7.3835,0,0
+TheunsEdward,130,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+DeclercqTim,131,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+NivGuy,132,0,mountain,2646,194.0,0,GC,7.3835,0,0
+BurgaudeauMathieu,133,0,mountain,2646,194.0,0,Hills,7.3835,0,0
+JansenAmund Grøndahl,134,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+PoelsWout,135,0,mountain,2646,194.0,0,Climber,7.3835,0,0
+AsgreenKasper,136,0,mountain,2646,194.0,0,TT,7.3835,0,0
+SkujiņšToms,137,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+NeilandsKrists,138,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+de la CruzDavid,139,0,mountain,2646,194.0,0,GC,7.3835,0,0
+RollandPierre,140,0,mountain,2646,194.0,0,Climber,7.3835,0,0
+GrellierFabien,141,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+MartínezDaniel Felipe,142,0,mountain,2646,194.0,0,GC,7.3835,0,0
+GautierCyril,143,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+CarthyHugh,144,0,mountain,2646,194.0,0,GC,7.3835,0,0
+DevenynsDries,145,0,mountain,2646,194.0,0,GC,7.3835,0,0
+KreuzigerRoman,146,0,mountain,2646,194.0,0,GC,7.3835,0,0
+VenturiniClément,147,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+HofstetterHugo,148,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+CosnefroyBenoît,149,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+DebusschereJens,150,0,mountain,2646,194.0,0,Classic,7.3835,0,0
+CoquardBryan,151,0,mountain,2646,194.0,0,Sprint,7.4332,0,0
+BolCees,152,0,mountain,2646,194.0,0,Sprint,7.4332,0,0
+CousinJérôme,153,0,mountain,2646,194.0,0,GC,7.4332,0,0
+FrisonFrederik,154,0,mountain,2646,194.0,0,Classic,10.7831,0,0
+KlugeRoger,155,0,mountain,2646,194.0,0,Sprint,10.7831,0,0
+De BuystJasper,156,0,mountain,2646,194.0,0,Classic,10.7831,0,0
+EwanCaleb,157,0,mountain,2646,194.0,0,Sprint,10.7831,0,0
+PogačarTadej,1,1,mountain,3724,174.5,0,Climber,0.0,0,0
+RogličPrimož,2,0,mountain,3724,174.5,0,Climber,0.0,0,0
+PorteRichie,3,0,mountain,3724,174.5,0,GC,0.0304,0,0
+LópezMiguel Ángel,4,0,mountain,3724,174.5,0,Climber,0.0486,0,0
+MasEnric,5,0,mountain,3724,174.5,0,Climber,0.0912,0,0
+KussSepp,6,0,mountain,3724,174.5,0,Climber,0.0912,0,0
+LandaMikel,7,0,mountain,3724,174.5,0,Climber,0.0912,0,0
+YatesAdam,8,0,mountain,3724,174.5,0,Climber,0.0912,0,0
+UránRigoberto,9,0,mountain,3724,174.5,0,Climber,0.1094,0,0
+ValverdeAlejandro,10,0,mountain,3724,174.5,0,Climber,0.1459,0,0
+BilbaoPello,11,0,mountain,3724,174.5,0,Climber,0.1459,0,0
+DumoulinTom,12,0,mountain,3724,174.5,0,TT,0.2066,0,0
+CarusoDamiano,13,0,mountain,3724,174.5,0,GC,0.6929,0,0
+MartinGuillaume,14,0,mountain,3724,174.5,0,Climber,1.246,0,0
+TejadaHarold,15,0,mountain,3724,174.5,0,Climber,1.3128,0,0
+ReichenbachSébastien,16,0,mountain,3724,174.5,0,GC,1.3554,0,0
+ElissondeKenny,17,0,mountain,3724,174.5,0,Climber,1.3736,0,0
+QuintanaNairo,18,0,mountain,3724,174.5,0,GC,1.3979,0,0
+HirtJan,19,0,mountain,3724,174.5,0,GC,1.4891,0,0
+BarguilWarren,20,0,mountain,3724,174.5,0,Climber,1.8842,0,0
+MartinDan,21,0,mountain,3724,174.5,0,Climber,1.9085,0,0
+VeronaCarlos,22,0,mountain,3724,174.5,0,GC,1.9571,0,0
+VuillermozAlexis,23,0,mountain,3724,174.5,0,Climber,2.3886,0,0
+KwiatkowskiMichał,24,0,mountain,3724,174.5,0,Classic,2.6743,0,0
+BernalEgan,25,0,mountain,3724,174.5,0,GC,2.6743,0,0
+GauduDavid,26,0,mountain,3724,174.5,0,Climber,2.6743,0,0
+MartínezDaniel Felipe,27,0,mountain,3724,174.5,0,GC,2.6743,0,0
+RollandPierre,28,0,mountain,3724,174.5,0,Climber,2.6743,0,0
+van AertWout,29,0,mountain,3724,174.5,0,Classic,2.6743,0,0
+BennettGeorge,30,0,mountain,3724,174.5,0,GC,3.039,0,0
+CastroviejoJonathan,31,0,mountain,3724,174.5,0,TT,4.4308,0,0
+CherelMikaël,32,0,mountain,3724,174.5,0,GC,6.6067,0,0
+GoglMichael,33,0,mountain,3724,174.5,0,Classic,6.7283,0,0
+PolancJan,34,0,mountain,3724,174.5,0,GC,6.8377,0,0
+GeschkeSimon,35,0,mountain,3724,174.5,0,Climber,7.0018,0,0
+De GendtThomas,36,0,mountain,3724,174.5,0,TT,7.1476,0,0
+SicardRomain,37,0,mountain,3724,174.5,0,GC,7.2023,0,0
+NeilandsKrists,38,0,mountain,3724,174.5,0,Classic,7.3117,0,0
+FraileOmar,39,0,mountain,3724,174.5,0,Climber,7.4394,0,0
+SolerMarc,40,0,mountain,3724,174.5,0,Climber,7.4394,0,0
+HerradaJesús,41,0,mountain,3724,174.5,0,GC,7.4394,0,0
+de la CruzDavid,42,0,mountain,3724,174.5,0,GC,7.4394,0,0
+JungelsBob,43,0,mountain,3724,174.5,0,TT,7.5731,0,0
+HouleHugo,44,0,mountain,3724,174.5,0,GC,7.5731,0,0
+van BaarleDylan,45,0,mountain,3724,174.5,0,Classic,7.6096,0,0
+GesinkRobert,46,0,mountain,3724,174.5,0,GC,7.6096,0,0
+MadouasValentin,47,0,mountain,3724,174.5,0,Classic,7.6096,0,0
+SivakovPavel,48,0,mountain,3724,174.5,0,GC,7.6096,0,0
+PinotThibaut,49,0,mountain,3724,174.5,0,Climber,7.6096,0,0
+SánchezLuis León,50,0,mountain,3724,174.5,0,GC,7.6096,0,0
+EgNiklas,51,0,mountain,3724,174.5,0,GC,7.6096,0,0
+IzagirreGorka,52,0,mountain,3724,174.5,0,GC,7.6096,0,0
+AmadorAndrey,53,0,mountain,3724,174.5,0,GC,7.6096,0,0
+ChavesEsteban,54,0,mountain,3724,174.5,0,Climber,7.6096,0,0
+LedanoisKévin,55,0,mountain,3724,174.5,0,Classic,8.1262,0,0
+QuintanaDayer,56,0,mountain,3724,174.5,0,GC,8.6124,0,0
+MohoričMatej,57,0,mountain,3724,174.5,0,Classic,10.0772,0,0
+NaesenOliver,58,0,mountain,3724,174.5,0,Classic,10.0772,0,0
+NieveMikel,59,0,mountain,3724,174.5,0,Climber,10.0772,0,0
+PacherQuentin,60,0,mountain,3724,174.5,0,Hills,10.0772,0,0
+CarapazRichard,61,0,mountain,3724,174.5,0,Climber,10.0772,0,0
+BartheCyril,62,0,mountain,3724,174.5,0,Hills,10.0772,0,0
+KüngStefan,63,0,mountain,3724,174.5,0,TT,10.0772,0,0
+SchärMichael,64,0,mountain,3724,174.5,0,GC,10.0772,0,0
+RojasJosé Joaquín,65,0,mountain,3724,174.5,0,Hills,10.0772,0,0
+ErvitiImanol,66,0,mountain,3724,174.5,0,GC,10.0772,0,0
+EdetNicolas,67,0,mountain,3724,174.5,0,GC,10.0772,0,0
+OliveiraNelson,68,0,mountain,3724,174.5,0,TT,10.0772,0,0
+MolardRudy,69,0,mountain,3724,174.5,0,Climber,10.0772,0,0
+KeukeleireJens,70,0,mountain,3724,174.5,0,Classic,10.0772,0,0
+ValgrenMichael,71,0,mountain,3724,174.5,0,Classic,10.0772,0,0
+HermansBen,72,0,mountain,3724,174.5,0,GC,11.1712,0,0
+Van AsbroeckTom,73,0,mountain,3724,174.5,0,Classic,11.1712,0,0
+LutsenkoAlexey,74,0,mountain,3724,174.5,0,GC,11.1712,0,0
+BurgaudeauMathieu,75,0,mountain,3724,174.5,0,Hills,11.1712,0,0
+Van AvermaetGreg,76,0,mountain,3724,174.5,0,Classic,11.1712,0,0
+PetersNans,77,0,mountain,3724,174.5,0,Classic,11.1712,0,0
+PérichonPierre-Luc,78,0,mountain,3724,174.5,0,Classic,11.2198,0,0
+GautierCyril,79,0,mountain,3724,174.5,0,Classic,11.5359,0,0
+SoupeGeoffrey,80,0,mountain,3724,174.5,0,Sprint,11.5359,0,0
+LadagnousMatthieu,81,0,mountain,3724,174.5,0,GC,11.5359,0,0
+PowlessNeilson,82,0,mountain,3724,174.5,0,Classic,11.5359,0,0
+LaengenVegard Stake,83,0,mountain,3724,174.5,0,GC,11.5359,0,0
+CarthyHugh,84,0,mountain,3724,174.5,0,GC,11.5359,0,0
+BuchmannEmanuel,85,0,mountain,3724,174.5,0,GC,11.5359,0,0
+RocheNicolas,86,0,mountain,3724,174.5,0,Climber,12.3443,0,0
+PoelsWout,87,0,mountain,3724,174.5,0,Climber,12.3443,0,0
+NivGuy,88,0,mountain,3724,174.5,0,GC,12.7515,0,0
+BettiolAlberto,89,0,mountain,3724,174.5,0,Classic,12.873,0,0
+MarcatoMarco,90,0,mountain,3724,174.5,0,Classic,12.873,0,0
+NieuwenhuisJoris,91,0,mountain,3724,174.5,0,Classic,13.262,0,0
+Kragh AndersenSøren,92,0,mountain,3724,174.5,0,TT,13.262,0,0
+ArndtNikias,93,0,mountain,3724,174.5,0,Hills,13.262,0,0
+KämnaLennard,94,0,mountain,3724,174.5,0,Climber,13.651,0,0
+PolittNils,95,0,mountain,3724,174.5,0,Classic,13.651,0,0
+MartinTony,96,0,mountain,3724,174.5,0,TT,13.651,0,0
+AnaconaWinner,97,0,mountain,3724,174.5,0,GC,13.651,0,0
+CataldoDario,98,0,mountain,3724,174.5,0,Climber,13.651,0,0
+SaganPeter,99,0,mountain,3724,174.5,0,Classic,13.651,0,0
+VenturiniClément,100,0,mountain,3724,174.5,0,Classic,13.651,0,0
+RussoClément,101,0,mountain,3724,174.5,0,Classic,13.651,0,0
+ImpeyDaryl,102,0,mountain,3724,174.5,0,Hills,13.651,0,0
+GibbonsRyan,103,0,mountain,3724,174.5,0,Hills,13.651,0,0
+Juul-JensenChristopher,104,0,mountain,3724,174.5,0,GC,13.651,0,0
+PedersenMads,105,0,mountain,3724,174.5,0,Classic,13.651,0,0
+VivianiElia,106,0,mountain,3724,174.5,0,Sprint,13.651,0,0
+De MarchiAlessandro,107,0,mountain,3724,174.5,0,Climber,13.651,0,0
+van GarderenTejay,108,0,mountain,3724,174.5,0,GC,13.651,0,0
+ColbrelliSonny,109,0,mountain,3724,174.5,0,Classic,13.651,0,0
+GroßschartnerFelix,110,0,mountain,3724,174.5,0,GC,13.651,0,0
+SchachmannMaximilian,111,0,mountain,3724,174.5,0,GC,13.651,0,0
+De BuystJasper,112,0,mountain,3724,174.5,0,Classic,13.651,0,0
+StuyvenJasper,113,0,mountain,3724,174.5,0,Classic,13.651,0,0
+DeclercqTim,114,0,mountain,3724,174.5,0,Classic,13.651,0,0
+CavagnaRémi,115,0,mountain,3724,174.5,0,TT,13.651,0,0
+OssDaniel,116,0,mountain,3724,174.5,0,Classic,13.651,0,0
+TheunsEdward,117,0,mountain,3724,174.5,0,Classic,13.651,0,0
+GrellierFabien,118,0,mountain,3724,174.5,0,Classic,13.651,0,0
+TurgisAnthony,119,0,mountain,3724,174.5,0,Classic,13.651,0,0
+SwiftConnor,120,0,mountain,3724,174.5,0,Classic,13.651,0,0
+DevenynsDries,121,0,mountain,3724,174.5,0,GC,13.651,0,0
+BenootTiesj,122,0,mountain,3724,174.5,0,Classic,13.651,0,0
+GreipelAndré,123,0,mountain,3724,174.5,0,Sprint,13.651,0,0
+HofstetterHugo,124,0,mountain,3724,174.5,0,Classic,13.651,0,0
+AsgreenKasper,125,0,mountain,3724,174.5,0,TT,13.651,0,0
+LaporteChristophe,126,0,mountain,3724,174.5,0,Classic,13.651,0,0
+AlaphilippeJulian,127,0,mountain,3724,174.5,0,Classic,13.651,0,0
+ChevalierMaxime,128,0,mountain,3724,174.5,0,GC,13.651,0,0
+CoquardBryan,129,0,mountain,3724,174.5,0,Sprint,13.651,0,0
+Boasson HagenEdvald,130,0,mountain,3724,174.5,0,Classic,13.651,0,0
+JansenAmund Grøndahl,131,0,mountain,3724,174.5,0,Classic,13.651,0,0
+KochJonas,132,0,mountain,3724,174.5,0,Hills,13.651,0,0
+FrisonFrederik,133,0,mountain,3724,174.5,0,Classic,13.651,0,0
+DebusschereJens,134,0,mountain,3724,174.5,0,Classic,13.651,0,0
+HirschiMarc,135,0,mountain,3724,174.5,0,Classic,13.651,0,0
+CousinJérôme,136,0,mountain,3724,174.5,0,GC,13.651,0,0
+MezgecLuka,137,0,mountain,3724,174.5,0,Hills,13.651,0,0
+PedersenCasper,138,0,mountain,3724,174.5,0,Classic,13.651,0,0
+RezaKévin,139,0,mountain,3724,174.5,0,Hills,13.651,0,0
+CosnefroyBenoît,140,0,mountain,3724,174.5,0,Classic,13.651,0,0
+PöstlbergerLukas,141,0,mountain,3724,174.5,0,Classic,13.651,0,0
+KreuzigerRoman,142,0,mountain,3724,174.5,0,GC,13.651,0,0
+BauerJack,143,0,mountain,3724,174.5,0,TT,13.651,0,0
+SkujiņšToms,144,0,mountain,3724,174.5,0,Classic,13.651,0,0
+BonifazioNiccolò,145,0,mountain,3724,174.5,0,Sprint,13.651,0,0
+ConsonniSimone,146,0,mountain,3724,174.5,0,Classic,13.8516,0,0
+BolCees,147,0,mountain,3724,174.5,0,Sprint,13.9063,0,0
+TrentinMatteo,148,0,mountain,3724,174.5,0,Classic,14.0096,0,0
+KristoffAlexander,149,0,mountain,3724,174.5,0,Classic,14.0096,0,0
+RoweLuke,150,0,mountain,3724,174.5,0,Classic,14.2041,0,0
+EwanCaleb,151,0,mountain,3724,174.5,0,Sprint,14.2041,0,0
+MørkøvMichael,152,0,mountain,3724,174.5,0,Classic,14.2041,0,0
+BennettSam,153,0,mountain,3724,174.5,0,Sprint,14.2041,0,0
+WalscheidMax,154,0,mountain,3724,174.5,0,Sprint,14.2041,0,0
+HallerMarco,155,0,mountain,3724,174.5,0,Classic,14.2041,0,0
+KlugeRoger,156,0,mountain,3724,174.5,0,Sprint,14.3196,0,0
+KämnaLennard,1,1,mountain,3903,164.0,0,Climber,0.0,0,0
+CarapazRichard,2,0,mountain,3903,164.0,0,Climber,0.5734,0,0
+ReichenbachSébastien,3,0,mountain,3903,164.0,0,GC,0.7646,0,0
+SivakovPavel,4,0,mountain,3903,164.0,0,GC,1.015,0,0
+GeschkeSimon,5,0,mountain,3903,164.0,0,Climber,1.0216,0,0
+BarguilWarren,6,0,mountain,3903,164.0,0,Climber,1.0348,0,0
+BenootTiesj,7,0,mountain,3903,164.0,0,Classic,1.0612,0,0
+RocheNicolas,8,0,mountain,3903,164.0,0,Climber,1.1007,0,0
+PacherQuentin,9,0,mountain,3903,164.0,0,Hills,1.1271,0,0
+AlaphilippeJulian,10,0,mountain,3903,164.0,0,Classic,1.1468,0,0
+BettiolAlberto,11,0,mountain,3903,164.0,0,Classic,2.0564,0,0
+VeronaCarlos,12,0,mountain,3903,164.0,0,GC,2.0762,0,0
+RollandPierre,13,0,mountain,3903,164.0,0,Climber,2.096,0,0
+TrentinMatteo,14,0,mountain,3903,164.0,0,Classic,2.4453,0,0
+ErvitiImanol,15,0,mountain,3903,164.0,0,GC,2.4453,0,0
+AmadorAndrey,16,0,mountain,3903,164.0,0,GC,2.4453,0,0
+SicardRomain,17,0,mountain,3903,164.0,0,GC,4.2578,0,0
+AnaconaWinner,18,0,mountain,3903,164.0,0,GC,4.2578,0,0
+PedersenCasper,19,0,mountain,3903,164.0,0,Classic,6.3868,0,0
+LópezMiguel Ángel,20,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+PogačarTadej,21,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+RogličPrimož,22,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+PorteRichie,23,0,mountain,3903,164.0,0,GC,6.6438,0,0
+LandaMikel,24,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+MasEnric,25,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+YatesAdam,26,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+UránRigoberto,27,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+ValverdeAlejandro,28,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+MartinGuillaume,29,0,mountain,3903,164.0,0,Climber,6.6438,0,0
+DumoulinTom,30,0,mountain,3903,164.0,0,TT,6.69,0,0
+CarusoDamiano,31,0,mountain,3903,164.0,0,GC,6.69,0,0
+MartínezDaniel Felipe,32,0,mountain,3903,164.0,0,GC,6.7163,0,0
+van AertWout,33,0,mountain,3903,164.0,0,Classic,6.835,0,0
+KussSepp,34,0,mountain,3903,164.0,0,Climber,6.835,0,0
+ElissondeKenny,35,0,mountain,3903,164.0,0,Climber,6.8481,0,0
+QuintanaNairo,36,0,mountain,3903,164.0,0,GC,6.8745,0,0
+SánchezLuis León,37,0,mountain,3903,164.0,0,GC,6.8745,0,0
+SolerMarc,38,0,mountain,3903,164.0,0,Climber,6.8745,0,0
+De GendtThomas,39,0,mountain,3903,164.0,0,TT,6.9602,0,0
+HermansBen,40,0,mountain,3903,164.0,0,GC,6.9602,0,0
+MadouasValentin,41,0,mountain,3903,164.0,0,Classic,7.0195,0,0
+KüngStefan,42,0,mountain,3903,164.0,0,TT,7.0195,0,0
+EdetNicolas,43,0,mountain,3903,164.0,0,GC,7.0195,0,0
+CherelMikaël,44,0,mountain,3903,164.0,0,GC,7.0195,0,0
+PinotThibaut,45,0,mountain,3903,164.0,0,Climber,7.0195,0,0
+PolancJan,46,0,mountain,3903,164.0,0,GC,7.0195,0,0
+IzagirreGorka,47,0,mountain,3903,164.0,0,GC,7.0195,0,0
+VuillermozAlexis,48,0,mountain,3903,164.0,0,Climber,7.0195,0,0
+MolardRudy,49,0,mountain,3903,164.0,0,Climber,7.0195,0,0
+GroßschartnerFelix,50,0,mountain,3903,164.0,0,GC,7.0195,0,0
+BilbaoPello,51,0,mountain,3903,164.0,0,Climber,7.0195,0,0
+EgNiklas,52,0,mountain,3903,164.0,0,GC,7.1513,0,0
+QuintanaDayer,53,0,mountain,3903,164.0,0,GC,7.1513,0,0
+CarthyHugh,54,0,mountain,3903,164.0,0,GC,7.237,0,0
+de la CruzDavid,55,0,mountain,3903,164.0,0,GC,7.3886,0,0
+PoelsWout,56,0,mountain,3903,164.0,0,Climber,7.5402,0,0
+HouleHugo,57,0,mountain,3903,164.0,0,GC,7.7248,0,0
+MohoričMatej,58,0,mountain,3903,164.0,0,Classic,7.7248,0,0
+PowlessNeilson,59,0,mountain,3903,164.0,0,Classic,7.7248,0,0
+LedanoisKévin,60,0,mountain,3903,164.0,0,Classic,7.8961,0,0
+LaengenVegard Stake,61,0,mountain,3903,164.0,0,GC,7.9686,0,0
+OssDaniel,62,0,mountain,3903,164.0,0,Classic,8.0016,0,0
+CataldoDario,63,0,mountain,3903,164.0,0,Climber,8.0016,0,0
+BennettGeorge,64,0,mountain,3903,164.0,0,GC,8.2455,0,0
+GesinkRobert,65,0,mountain,3903,164.0,0,GC,8.5948,0,0
+NieveMikel,66,0,mountain,3903,164.0,0,Climber,8.5948,0,0
+Juul-JensenChristopher,67,0,mountain,3903,164.0,0,GC,8.5948,0,0
+GautierCyril,68,0,mountain,3903,164.0,0,Classic,9.768,0,0
+BartheCyril,69,0,mountain,3903,164.0,0,Hills,9.768,0,0
+BurgaudeauMathieu,70,0,mountain,3903,164.0,0,Hills,9.768,0,0
+GibbonsRyan,71,0,mountain,3903,164.0,0,Hills,9.768,0,0
+JungelsBob,72,0,mountain,3903,164.0,0,TT,9.768,0,0
+van BaarleDylan,73,0,mountain,3903,164.0,0,Classic,9.768,0,0
+SchärMichael,74,0,mountain,3903,164.0,0,GC,9.768,0,0
+KeukeleireJens,75,0,mountain,3903,164.0,0,Classic,9.768,0,0
+ChavesEsteban,76,0,mountain,3903,164.0,0,Climber,9.768,0,0
+OliveiraNelson,77,0,mountain,3903,164.0,0,TT,9.768,0,0
+De MarchiAlessandro,78,0,mountain,3903,164.0,0,Climber,9.768,0,0
+BuchmannEmanuel,79,0,mountain,3903,164.0,0,GC,9.768,0,0
+HerradaJesús,80,0,mountain,3903,164.0,0,GC,9.768,0,0
+PetersNans,81,0,mountain,3903,164.0,0,Classic,9.768,0,0
+GrellierFabien,82,0,mountain,3903,164.0,0,Classic,9.768,0,0
+NieuwenhuisJoris,83,0,mountain,3903,164.0,0,Classic,9.9987,0,0
+HirschiMarc,84,0,mountain,3903,164.0,0,Classic,9.9987,0,0
+PérichonPierre-Luc,85,0,mountain,3903,164.0,0,Classic,10.0382,0,0
+StuyvenJasper,86,0,mountain,3903,164.0,0,Classic,10.4403,0,0
+SkujiņšToms,87,0,mountain,3903,164.0,0,Classic,10.4403,0,0
+PedersenMads,88,0,mountain,3903,164.0,0,Classic,10.4403,0,0
+Van AsbroeckTom,89,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+NeilandsKrists,90,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+ArndtNikias,91,0,mountain,3903,164.0,0,Hills,10.8555,0,0
+PolittNils,92,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+RussoClément,93,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+PöstlbergerLukas,94,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+RojasJosé Joaquín,95,0,mountain,3903,164.0,0,Hills,10.8555,0,0
+ImpeyDaryl,96,0,mountain,3903,164.0,0,Hills,10.8555,0,0
+TurgisAnthony,97,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+LadagnousMatthieu,98,0,mountain,3903,164.0,0,GC,10.8555,0,0
+MarcatoMarco,99,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+BauerJack,100,0,mountain,3903,164.0,0,TT,10.8555,0,0
+SoupeGeoffrey,101,0,mountain,3903,164.0,0,Sprint,10.8555,0,0
+ColbrelliSonny,102,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+SwiftConnor,103,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+NivGuy,104,0,mountain,3903,164.0,0,GC,10.8555,0,0
+MartinDan,105,0,mountain,3903,164.0,0,Climber,10.8555,0,0
+ValgrenMichael,106,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+RezaKévin,107,0,mountain,3903,164.0,0,Hills,10.8555,0,0
+CosnefroyBenoît,108,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+ChevalierMaxime,109,0,mountain,3903,164.0,0,GC,10.8555,0,0
+NaesenOliver,110,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+DeclercqTim,111,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+CavagnaRémi,112,0,mountain,3903,164.0,0,TT,10.8555,0,0
+Boasson HagenEdvald,113,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+Van AvermaetGreg,114,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+DebusschereJens,115,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+HallerMarco,116,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+van GarderenTejay,117,0,mountain,3903,164.0,0,GC,10.8555,0,0
+WalscheidMax,118,0,mountain,3903,164.0,0,Sprint,10.8555,0,0
+GreipelAndré,119,0,mountain,3903,164.0,0,Sprint,10.8555,0,0
+SchachmannMaximilian,120,0,mountain,3903,164.0,0,GC,10.8555,0,0
+MartinTony,121,0,mountain,3903,164.0,0,TT,10.8555,0,0
+ConsonniSimone,122,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+FraileOmar,123,0,mountain,3903,164.0,0,Climber,10.8555,0,0
+CastroviejoJonathan,124,0,mountain,3903,164.0,0,TT,10.8555,0,0
+SaganPeter,125,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+VivianiElia,126,0,mountain,3903,164.0,0,Sprint,10.8555,0,0
+BernalEgan,127,0,mountain,3903,164.0,0,GC,10.8555,0,0
+CoquardBryan,128,0,mountain,3903,164.0,0,Sprint,10.8555,0,0
+TejadaHarold,129,0,mountain,3903,164.0,0,Climber,10.8555,0,0
+LutsenkoAlexey,130,0,mountain,3903,164.0,0,GC,10.8555,0,0
+VenturiniClément,131,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+KwiatkowskiMichał,132,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+HofstetterHugo,133,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+Kragh AndersenSøren,134,0,mountain,3903,164.0,0,TT,10.8555,0,0
+AsgreenKasper,135,0,mountain,3903,164.0,0,TT,10.8555,0,0
+KochJonas,136,0,mountain,3903,164.0,0,Hills,10.8555,0,0
+HirtJan,137,0,mountain,3903,164.0,0,GC,10.8555,0,0
+RoweLuke,138,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+BennettSam,139,0,mountain,3903,164.0,0,Sprint,10.8555,0,0
+LaporteChristophe,140,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+KristoffAlexander,141,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+MørkøvMichael,142,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+MezgecLuka,143,0,mountain,3903,164.0,0,Hills,10.8555,0,0
+TheunsEdward,144,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+DevenynsDries,145,0,mountain,3903,164.0,0,GC,10.8555,0,0
+JansenAmund Grøndahl,146,0,mountain,3903,164.0,0,Classic,10.8555,0,0
+KreuzigerRoman,147,0,mountain,3903,164.0,0,GC,11.0005,0,0
+GoglMichael,148,0,mountain,3903,164.0,0,Classic,11.0005,0,0
+BonifazioNiccolò,149,0,mountain,3903,164.0,0,Sprint,11.1258,0,0
+BolCees,150,0,mountain,3903,164.0,0,Sprint,11.1258,0,0
+EwanCaleb,151,0,mountain,3903,164.0,0,Sprint,12.2067,0,0
+KlugeRoger,152,0,mountain,3903,164.0,0,Sprint,12.2067,0,0
+De BuystJasper,153,0,mountain,3903,164.0,0,Classic,12.2067,0,0
+FrisonFrederik,154,0,mountain,3903,164.0,0,Classic,12.2067,0,0
+LópezMiguel Ángel,1,1,mountain,4430,170.0,0,Climber,0.0,0,0
+RogličPrimož,2,0,mountain,4430,170.0,0,Climber,0.0865,0,0
+PogačarTadej,3,0,mountain,4430,170.0,0,Climber,0.1729,0,0
+KussSepp,4,0,mountain,4430,170.0,0,Climber,0.3228,0,0
+PorteRichie,5,0,mountain,4430,170.0,0,GC,0.3516,0,0
+MasEnric,6,0,mountain,4430,170.0,0,Climber,0.415,0,0
+LandaMikel,7,0,mountain,4430,170.0,0,Climber,0.4611,0,0
+YatesAdam,8,0,mountain,4430,170.0,0,Climber,0.4611,0,0
+UránRigoberto,9,0,mountain,4430,170.0,0,Climber,0.686,0,0
+DumoulinTom,10,0,mountain,4430,170.0,0,TT,0.7667,0,0
+CarapazRichard,11,0,mountain,4430,170.0,0,Climber,0.9281,0,0
+ValverdeAlejandro,12,0,mountain,4430,170.0,0,Climber,0.9684,0,0
+CarusoDamiano,13,0,mountain,4430,170.0,0,GC,1.2105,0,0
+MartinGuillaume,14,0,mountain,4430,170.0,0,Climber,1.3777,0,0
+MadouasValentin,15,0,mountain,4430,170.0,0,Classic,1.4353,0,0
+ElissondeKenny,16,0,mountain,4430,170.0,0,Climber,2.1443,0,0
+VeronaCarlos,17,0,mountain,4430,170.0,0,GC,2.3807,0,0
+de la CruzDavid,18,0,mountain,4430,170.0,0,GC,2.5075,0,0
+van AertWout,19,0,mountain,4430,170.0,0,Classic,2.5075,0,0
+BarguilWarren,20,0,mountain,4430,170.0,0,Climber,2.5075,0,0
+IzagirreGorka,21,0,mountain,4430,170.0,0,GC,2.8764,0,0
+BilbaoPello,22,0,mountain,4430,170.0,0,Climber,3.1704,0,0
+CarthyHugh,23,0,mountain,4430,170.0,0,GC,3.3952,0,0
+CosnefroyBenoît,24,0,mountain,4430,170.0,0,Classic,4.231,0,0
+GesinkRobert,25,0,mountain,4430,170.0,0,GC,5.3781,0,0
+AlaphilippeJulian,26,0,mountain,4430,170.0,0,Classic,6.2543,0,0
+BennettGeorge,27,0,mountain,4430,170.0,0,GC,6.3754,0,0
+PolancJan,28,0,mountain,4430,170.0,0,GC,6.4561,0,0
+GoglMichael,29,0,mountain,4430,170.0,0,Classic,6.5714,0,0
+FraileOmar,30,0,mountain,4430,170.0,0,Climber,6.6175,0,0
+MartinDan,31,0,mountain,4430,170.0,0,Climber,6.946,0,0
+PoelsWout,32,0,mountain,4430,170.0,0,Climber,7.1247,0,0
+VuillermozAlexis,33,0,mountain,4430,170.0,0,Climber,7.4245,0,0
+PinotThibaut,34,0,mountain,4430,170.0,0,Climber,7.4245,0,0
+ReichenbachSébastien,35,0,mountain,4430,170.0,0,GC,7.4245,0,0
+CherelMikaël,36,0,mountain,4430,170.0,0,GC,7.4245,0,0
+KämnaLennard,37,0,mountain,4430,170.0,0,Climber,7.534,0,0
+MolardRudy,38,0,mountain,4430,170.0,0,Climber,7.5571,0,0
+MohoričMatej,39,0,mountain,4430,170.0,0,Classic,7.632,0,0
+De GendtThomas,40,0,mountain,4430,170.0,0,TT,7.7588,0,0
+SicardRomain,41,0,mountain,4430,170.0,0,GC,7.7761,0,0
+EgNiklas,42,0,mountain,4430,170.0,0,GC,8.0125,0,0
+BuchmannEmanuel,43,0,mountain,4430,170.0,0,GC,8.145,0,0
+OliveiraNelson,44,0,mountain,4430,170.0,0,TT,8.3468,0,0
+QuintanaDayer,45,0,mountain,4430,170.0,0,GC,8.7445,0,0
+QuintanaNairo,46,0,mountain,4430,170.0,0,GC,8.7445,0,0
+PacherQuentin,47,0,mountain,4430,170.0,0,Hills,8.7445,0,0
+SivakovPavel,48,0,mountain,4430,170.0,0,GC,8.7445,0,0
+BartheCyril,49,0,mountain,4430,170.0,0,Hills,8.7445,0,0
+NaesenOliver,50,0,mountain,4430,170.0,0,Classic,8.7445,0,0
+BenootTiesj,51,0,mountain,4430,170.0,0,Classic,8.7445,0,0
+HermansBen,52,0,mountain,4430,170.0,0,GC,8.7445,0,0
+GibbonsRyan,53,0,mountain,4430,170.0,0,Hills,8.7445,0,0
+NieuwenhuisJoris,54,0,mountain,4430,170.0,0,Classic,8.7445,0,0
+HouleHugo,55,0,mountain,4430,170.0,0,GC,8.7445,0,0
+SchärMichael,56,0,mountain,4430,170.0,0,GC,8.7445,0,0
+LutsenkoAlexey,57,0,mountain,4430,170.0,0,GC,8.7445,0,0
+van BaarleDylan,58,0,mountain,4430,170.0,0,Classic,8.7445,0,0
+LadagnousMatthieu,59,0,mountain,4430,170.0,0,GC,8.7445,0,0
+SolerMarc,60,0,mountain,4430,170.0,0,Climber,8.7445,0,0
+RollandPierre,61,0,mountain,4430,170.0,0,Climber,8.7445,0,0
+ErvitiImanol,62,0,mountain,4430,170.0,0,GC,8.7445,0,0
+GautierCyril,63,0,mountain,4430,170.0,0,Classic,8.7445,0,0
+ChevalierMaxime,64,0,mountain,4430,170.0,0,GC,8.7445,0,0
+MartínezDaniel Felipe,65,0,mountain,4430,170.0,0,GC,8.7964,0,0
+ChavesEsteban,66,0,mountain,4430,170.0,0,Climber,8.7964,0,0
+PetersNans,67,0,mountain,4430,170.0,0,Classic,8.7964,0,0
+LaengenVegard Stake,68,0,mountain,4430,170.0,0,GC,8.7964,0,0
+AnaconaWinner,69,0,mountain,4430,170.0,0,GC,8.8771,0,0
+LedanoisKévin,70,0,mountain,4430,170.0,0,Classic,8.9232,0,0
+SwiftConnor,71,0,mountain,4430,170.0,0,Classic,8.9232,0,0
+NeilandsKrists,72,0,mountain,4430,170.0,0,Classic,8.9463,0,0
+SchachmannMaximilian,73,0,mountain,4430,170.0,0,GC,8.9463,0,0
+ImpeyDaryl,74,0,mountain,4430,170.0,0,Hills,8.9463,0,0
+PowlessNeilson,75,0,mountain,4430,170.0,0,Classic,8.9463,0,0
+RojasJosé Joaquín,76,0,mountain,4430,170.0,0,Hills,8.9866,0,0
+EdetNicolas,77,0,mountain,4430,170.0,0,GC,8.9866,0,0
+Van AvermaetGreg,78,0,mountain,4430,170.0,0,Classic,8.9982,0,0
+ColbrelliSonny,79,0,mountain,4430,170.0,0,Classic,9.027,0,0
+MartinTony,80,0,mountain,4430,170.0,0,TT,9.027,0,0
+KeukeleireJens,81,0,mountain,4430,170.0,0,Classic,9.0385,0,0
+van GarderenTejay,82,0,mountain,4430,170.0,0,GC,9.0385,0,0
+Juul-JensenChristopher,83,0,mountain,4430,170.0,0,GC,9.0385,0,0
+HerradaJesús,84,0,mountain,4430,170.0,0,GC,9.0385,0,0
+GeschkeSimon,85,0,mountain,4430,170.0,0,Climber,9.1769,0,0
+SoupeGeoffrey,86,0,mountain,4430,170.0,0,Sprint,9.2057,0,0
+OssDaniel,87,0,mountain,4430,170.0,0,Classic,9.2345,0,0
+VenturiniClément,88,0,mountain,4430,170.0,0,Classic,9.2576,0,0
+Boasson HagenEdvald,89,0,mountain,4430,170.0,0,Classic,9.4824,0,0
+Kragh AndersenSøren,90,0,mountain,4430,170.0,0,TT,9.4824,0,0
+PöstlbergerLukas,91,0,mountain,4430,170.0,0,Classic,9.5112,0,0
+TurgisAnthony,92,0,mountain,4430,170.0,0,Classic,9.5227,0,0
+RussoClément,93,0,mountain,4430,170.0,0,Classic,9.5688,0,0
+TejadaHarold,94,0,mountain,4430,170.0,0,Climber,9.7821,0,0
+SánchezLuis León,95,0,mountain,4430,170.0,0,GC,9.7821,0,0
+Van AsbroeckTom,96,0,mountain,4430,170.0,0,Classic,9.7821,0,0
+HofstetterHugo,97,0,mountain,4430,170.0,0,Classic,9.8167,0,0
+CavagnaRémi,98,0,mountain,4430,170.0,0,TT,9.8167,0,0
+ValgrenMichael,99,0,mountain,4430,170.0,0,Classic,9.8282,0,0
+PedersenMads,100,0,mountain,4430,170.0,0,Classic,9.8282,0,0
+RocheNicolas,101,0,mountain,4430,170.0,0,Climber,9.8398,0,0
+BurgaudeauMathieu,102,0,mountain,4430,170.0,0,Hills,9.8513,0,0
+StuyvenJasper,103,0,mountain,4430,170.0,0,Classic,9.857,0,0
+BauerJack,104,0,mountain,4430,170.0,0,TT,9.857,0,0
+JungelsBob,105,0,mountain,4430,170.0,0,TT,9.8686,0,0
+GroßschartnerFelix,106,0,mountain,4430,170.0,0,GC,9.9032,0,0
+HirtJan,107,0,mountain,4430,170.0,0,GC,9.9032,0,0
+HirschiMarc,108,0,mountain,4430,170.0,0,Classic,9.9205,0,0
+BettiolAlberto,109,0,mountain,4430,170.0,0,Classic,9.9377,0,0
+CataldoDario,110,0,mountain,4430,170.0,0,Climber,9.9435,0,0
+SkujiņšToms,111,0,mountain,4430,170.0,0,Classic,10.0588,0,0
+TheunsEdward,112,0,mountain,4430,170.0,0,Classic,10.0588,0,0
+AsgreenKasper,113,0,mountain,4430,170.0,0,TT,10.0819,0,0
+KochJonas,114,0,mountain,4430,170.0,0,Hills,10.0991,0,0
+SaganPeter,115,0,mountain,4430,170.0,0,Classic,10.1222,0,0
+CastroviejoJonathan,116,0,mountain,4430,170.0,0,TT,10.1222,0,0
+AmadorAndrey,117,0,mountain,4430,170.0,0,GC,10.1222,0,0
+PérichonPierre-Luc,118,0,mountain,4430,170.0,0,Classic,10.1453,0,0
+GrellierFabien,119,0,mountain,4430,170.0,0,Classic,10.1568,0,0
+PolittNils,120,0,mountain,4430,170.0,0,Classic,10.1683,0,0
+MezgecLuka,121,0,mountain,4430,170.0,0,Hills,10.1798,0,0
+ArndtNikias,122,0,mountain,4430,170.0,0,Hills,10.1798,0,0
+PedersenCasper,123,0,mountain,4430,170.0,0,Classic,10.1798,0,0
+De MarchiAlessandro,124,0,mountain,4430,170.0,0,Climber,10.1971,0,0
+DevenynsDries,125,0,mountain,4430,170.0,0,GC,10.2433,0,0
+De BuystJasper,126,0,mountain,4430,170.0,0,Classic,10.2605,0,0
+JansenAmund Grøndahl,127,0,mountain,4430,170.0,0,Classic,10.2836,0,0
+NivGuy,128,0,mountain,4430,170.0,0,GC,10.3009,0,0
+LaporteChristophe,129,0,mountain,4430,170.0,0,Classic,10.3124,0,0
+KwiatkowskiMichał,130,0,mountain,4430,170.0,0,Classic,10.4277,0,0
+RoweLuke,131,0,mountain,4430,170.0,0,Classic,10.4277,0,0
+MørkøvMichael,132,0,mountain,4430,170.0,0,Classic,10.5027,0,0
+DeclercqTim,133,0,mountain,4430,170.0,0,Classic,10.5027,0,0
+BennettSam,134,0,mountain,4430,170.0,0,Sprint,10.5027,0,0
+BonifazioNiccolò,135,0,mountain,4430,170.0,0,Sprint,10.5027,0,0
+VivianiElia,136,0,mountain,4430,170.0,0,Sprint,10.5603,0,0
+ConsonniSimone,137,0,mountain,4430,170.0,0,Classic,10.5603,0,0
+MarcatoMarco,138,0,mountain,4430,170.0,0,Classic,10.5603,0,0
+WalscheidMax,139,0,mountain,4430,170.0,0,Sprint,10.6986,0,0
+KristoffAlexander,140,0,mountain,4430,170.0,0,Classic,10.7448,0,0
+EwanCaleb,141,0,mountain,4430,170.0,0,Sprint,10.7966,0,0
+KlugeRoger,142,0,mountain,4430,170.0,0,Sprint,10.7966,0,0
+TrentinMatteo,143,0,mountain,4430,170.0,0,Classic,11.0042,0,0
+FrisonFrederik,144,0,mountain,4430,170.0,0,Classic,11.1194,0,0
+BolCees,145,0,mountain,4430,170.0,0,Sprint,11.1194,0,0
+KreuzigerRoman,146,0,mountain,4430,170.0,0,GC,11.2001,0,0
+HallerMarco,147,0,mountain,4430,170.0,0,Classic,11.252,0,0
+GreipelAndré,148,0,mountain,4430,170.0,0,Sprint,11.327,0,0
+RezaKévin,149,0,mountain,4430,170.0,0,Hills,11.3673,0,0
+CoquardBryan,150,0,mountain,4430,170.0,0,Sprint,12.3645,0,0
+KwiatkowskiMichał,1,1,mountain,5166,175.0,0,Classic,0.0,0,0
+CarapazRichard,2,0,mountain,5166,175.0,0,Climber,0.0,0,0
+van AertWout,3,0,mountain,5166,175.0,0,Classic,0.6434,0,0
+RogličPrimož,4,0,mountain,5166,175.0,0,Climber,0.655,0,0
+PogačarTadej,5,0,mountain,5166,175.0,0,Climber,0.655,0,0
+PorteRichie,6,0,mountain,5166,175.0,0,GC,0.6608,0,0
+MasEnric,7,0,mountain,5166,175.0,0,Climber,0.6608,0,0
+LandaMikel,8,0,mountain,5166,175.0,0,Climber,0.6608,0,0
+CarusoDamiano,9,0,mountain,5166,175.0,0,GC,0.6608,0,0
+DumoulinTom,10,0,mountain,5166,175.0,0,TT,0.6608,0,0
+KussSepp,11,0,mountain,5166,175.0,0,Climber,0.6608,0,0
+LópezMiguel Ángel,12,0,mountain,5166,175.0,0,Climber,0.6608,0,0
+HirschiMarc,13,0,mountain,5166,175.0,0,Classic,0.7187,0,0
+BilbaoPello,14,0,mountain,5166,175.0,0,Climber,0.7187,0,0
+GeschkeSimon,15,0,mountain,5166,175.0,0,Climber,1.5765,0,0
+PetersNans,16,0,mountain,5166,175.0,0,Classic,1.5765,0,0
+YatesAdam,17,0,mountain,5166,175.0,0,Climber,1.5881,0,0
+MartinGuillaume,18,0,mountain,5166,175.0,0,Climber,1.5881,0,0
+UránRigoberto,19,0,mountain,5166,175.0,0,Climber,1.5881,0,0
+ValverdeAlejandro,20,0,mountain,5166,175.0,0,Climber,1.5881,0,0
+SánchezLuis León,21,0,mountain,5166,175.0,0,GC,1.5881,0,0
+ReichenbachSébastien,22,0,mountain,5166,175.0,0,GC,1.5881,0,0
+MartínezDaniel Felipe,23,0,mountain,5166,175.0,0,GC,1.5881,0,0
+HirtJan,24,0,mountain,5166,175.0,0,GC,1.5881,0,0
+BarguilWarren,25,0,mountain,5166,175.0,0,Climber,1.5881,0,0
+SolerMarc,26,0,mountain,5166,175.0,0,Climber,1.6287,0,0
+VeronaCarlos,27,0,mountain,5166,175.0,0,GC,1.6287,0,0
+ChavesEsteban,28,0,mountain,5166,175.0,0,Climber,1.7968,0,0
+ElissondeKenny,29,0,mountain,5166,175.0,0,Climber,2.4054,0,0
+MolardRudy,30,0,mountain,5166,175.0,0,Climber,2.4054,0,0
+RollandPierre,31,0,mountain,5166,175.0,0,Climber,2.4054,0,0
+De GendtThomas,32,0,mountain,5166,175.0,0,TT,3.0198,0,0
+CherelMikaël,33,0,mountain,5166,175.0,0,GC,3.1936,0,0
+JungelsBob,34,0,mountain,5166,175.0,0,TT,3.24,0,0
+LutsenkoAlexey,35,0,mountain,5166,175.0,0,GC,3.7095,0,0
+MadouasValentin,36,0,mountain,5166,175.0,0,Classic,4.5847,0,0
+VuillermozAlexis,37,0,mountain,5166,175.0,0,Climber,4.5847,0,0
+PinotThibaut,38,0,mountain,5166,175.0,0,Climber,4.5847,0,0
+EdetNicolas,39,0,mountain,5166,175.0,0,GC,4.5847,0,0
+EgNiklas,40,0,mountain,5166,175.0,0,GC,4.5847,0,0
+HouleHugo,41,0,mountain,5166,175.0,0,GC,4.5847,0,0
+HerradaJesús,42,0,mountain,5166,175.0,0,GC,4.6543,0,0
+PolancJan,43,0,mountain,5166,175.0,0,GC,4.6832,0,0
+CarthyHugh,44,0,mountain,5166,175.0,0,GC,4.9093,0,0
+de la CruzDavid,45,0,mountain,5166,175.0,0,GC,5.9642,0,0
+PérichonPierre-Luc,46,0,mountain,5166,175.0,0,Classic,6.764,0,0
+SchärMichael,47,0,mountain,5166,175.0,0,GC,6.764,0,0
+BuchmannEmanuel,48,0,mountain,5166,175.0,0,GC,6.764,0,0
+GroßschartnerFelix,49,0,mountain,5166,175.0,0,GC,6.764,0,0
+IzagirreGorka,50,0,mountain,5166,175.0,0,GC,6.764,0,0
+FraileOmar,51,0,mountain,5166,175.0,0,Climber,6.764,0,0
+ErvitiImanol,52,0,mountain,5166,175.0,0,GC,6.764,0,0
+GesinkRobert,53,0,mountain,5166,175.0,0,GC,6.764,0,0
+SwiftConnor,54,0,mountain,5166,175.0,0,Classic,6.764,0,0
+BenootTiesj,55,0,mountain,5166,175.0,0,Classic,6.764,0,0
+OliveiraNelson,56,0,mountain,5166,175.0,0,TT,6.764,0,0
+LaengenVegard Stake,57,0,mountain,5166,175.0,0,GC,6.764,0,0
+CastroviejoJonathan,58,0,mountain,5166,175.0,0,TT,6.764,0,0
+TejadaHarold,59,0,mountain,5166,175.0,0,Climber,6.764,0,0
+PedersenCasper,60,0,mountain,5166,175.0,0,Classic,6.764,0,0
+AmadorAndrey,61,0,mountain,5166,175.0,0,GC,6.764,0,0
+KämnaLennard,62,0,mountain,5166,175.0,0,Climber,6.764,0,0
+MohoričMatej,63,0,mountain,5166,175.0,0,Classic,6.764,0,0
+PoelsWout,64,0,mountain,5166,175.0,0,Climber,6.764,0,0
+van BaarleDylan,65,0,mountain,5166,175.0,0,Classic,7.4016,0,0
+BauerJack,66,0,mountain,5166,175.0,0,TT,7.4016,0,0
+TurgisAnthony,67,0,mountain,5166,175.0,0,Classic,7.732,0,0
+SicardRomain,68,0,mountain,5166,175.0,0,GC,7.732,0,0
+PacherQuentin,69,0,mountain,5166,175.0,0,Hills,8.9202,0,0
+BennettGeorge,70,0,mountain,5166,175.0,0,GC,8.9202,0,0
+StuyvenJasper,71,0,mountain,5166,175.0,0,Classic,9.8418,0,0
+NaesenOliver,72,0,mountain,5166,175.0,0,Classic,9.8418,0,0
+ArndtNikias,73,0,mountain,5166,175.0,0,Hills,9.8418,0,0
+Juul-JensenChristopher,74,0,mountain,5166,175.0,0,GC,9.8997,0,0
+RojasJosé Joaquín,75,0,mountain,5166,175.0,0,Hills,10.033,0,0
+CataldoDario,76,0,mountain,5166,175.0,0,Climber,10.033,0,0
+SchachmannMaximilian,77,0,mountain,5166,175.0,0,GC,10.033,0,0
+QuintanaDayer,78,0,mountain,5166,175.0,0,GC,10.033,0,0
+OssDaniel,79,0,mountain,5166,175.0,0,Classic,10.033,0,0
+De MarchiAlessandro,80,0,mountain,5166,175.0,0,Climber,10.033,0,0
+PöstlbergerLukas,81,0,mountain,5166,175.0,0,Classic,10.033,0,0
+KeukeleireJens,82,0,mountain,5166,175.0,0,Classic,10.033,0,0
+ImpeyDaryl,83,0,mountain,5166,175.0,0,Hills,10.033,0,0
+SaganPeter,84,0,mountain,5166,175.0,0,Classic,10.033,0,0
+LedanoisKévin,85,0,mountain,5166,175.0,0,Classic,10.033,0,0
+RocheNicolas,86,0,mountain,5166,175.0,0,Climber,10.033,0,0
+van GarderenTejay,87,0,mountain,5166,175.0,0,GC,10.033,0,0
+QuintanaNairo,88,0,mountain,5166,175.0,0,GC,10.033,0,0
+ValgrenMichael,89,0,mountain,5166,175.0,0,Classic,10.033,0,0
+PedersenMads,90,0,mountain,5166,175.0,0,Classic,10.033,0,0
+SkujiņšToms,91,0,mountain,5166,175.0,0,Classic,10.033,0,0
+MezgecLuka,92,0,mountain,5166,175.0,0,Hills,10.033,0,0
+KochJonas,93,0,mountain,5166,175.0,0,Hills,10.033,0,0
+Kragh AndersenSøren,94,0,mountain,5166,175.0,0,TT,10.033,0,0
+BettiolAlberto,95,0,mountain,5166,175.0,0,Classic,10.914,0,0
+TrentinMatteo,96,0,mountain,5166,175.0,0,Classic,10.914,0,0
+GautierCyril,97,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+Van AvermaetGreg,98,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+LadagnousMatthieu,99,0,mountain,5166,175.0,0,GC,10.9256,0,0
+HermansBen,100,0,mountain,5166,175.0,0,GC,10.9256,0,0
+De BuystJasper,101,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+CavagnaRémi,102,0,mountain,5166,175.0,0,TT,10.9256,0,0
+NeilandsKrists,103,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+AnaconaWinner,104,0,mountain,5166,175.0,0,GC,10.9256,0,0
+ColbrelliSonny,105,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+RussoClément,106,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+SoupeGeoffrey,107,0,mountain,5166,175.0,0,Sprint,10.9256,0,0
+Van AsbroeckTom,108,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+MartinDan,109,0,mountain,5166,175.0,0,Climber,10.9256,0,0
+PowlessNeilson,110,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+WalscheidMax,111,0,mountain,5166,175.0,0,Sprint,10.9256,0,0
+PolittNils,112,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+GibbonsRyan,113,0,mountain,5166,175.0,0,Hills,10.9256,0,0
+DeclercqTim,114,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+MarcatoMarco,115,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+HofstetterHugo,116,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+CoquardBryan,117,0,mountain,5166,175.0,0,Sprint,10.9256,0,0
+BartheCyril,118,0,mountain,5166,175.0,0,Hills,10.9256,0,0
+ChevalierMaxime,119,0,mountain,5166,175.0,0,GC,10.9256,0,0
+CosnefroyBenoît,120,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+BurgaudeauMathieu,121,0,mountain,5166,175.0,0,Hills,10.9256,0,0
+VenturiniClément,122,0,mountain,5166,175.0,0,Classic,10.9256,0,0
+MartinTony,123,0,mountain,5166,175.0,0,TT,10.9256,0,0
+SivakovPavel,124,0,mountain,5166,175.0,0,GC,10.9256,0,0
+HallerMarco,125,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+RezaKévin,126,0,mountain,5166,175.0,0,Hills,10.9662,0,0
+EwanCaleb,127,0,mountain,5166,175.0,0,Sprint,10.9662,0,0
+AsgreenKasper,128,0,mountain,5166,175.0,0,TT,10.9662,0,0
+AlaphilippeJulian,129,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+RoweLuke,130,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+MørkøvMichael,131,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+NivGuy,132,0,mountain,5166,175.0,0,GC,10.9662,0,0
+KristoffAlexander,133,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+Boasson HagenEdvald,134,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+GrellierFabien,135,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+DevenynsDries,136,0,mountain,5166,175.0,0,GC,10.9662,0,0
+BennettSam,137,0,mountain,5166,175.0,0,Sprint,10.9662,0,0
+BonifazioNiccolò,138,0,mountain,5166,175.0,0,Sprint,10.9662,0,0
+JansenAmund Grøndahl,139,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+VivianiElia,140,0,mountain,5166,175.0,0,Sprint,10.9662,0,0
+ConsonniSimone,141,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+TheunsEdward,142,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+LaporteChristophe,143,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+GoglMichael,144,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+KlugeRoger,145,0,mountain,5166,175.0,0,Sprint,10.9662,0,0
+FrisonFrederik,146,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+NieuwenhuisJoris,147,0,mountain,5166,175.0,0,Classic,10.9662,0,0
+KreuzigerRoman,148,0,mountain,5166,175.0,0,GC,10.9662,0,0
+BolCees,149,0,mountain,5166,175.0,0,Sprint,10.9662,0,0
+Kragh AndersenSøren,1,1,hilly,2208,166.5,0,TT,0.0,0,0
+MezgecLuka,2,0,hilly,2208,166.5,0,Hills,0.4079,0,0
+StuyvenJasper,3,0,hilly,2208,166.5,0,Classic,0.4079,0,0
+Van AvermaetGreg,4,0,hilly,2208,166.5,0,Classic,0.4079,0,0
+NaesenOliver,5,0,hilly,2208,166.5,0,Classic,0.4079,0,0
+ArndtNikias,6,0,hilly,2208,166.5,0,Hills,0.4079,0,0
+RoweLuke,7,0,hilly,2208,166.5,0,Classic,0.4541,0,0
+BennettSam,8,0,hilly,2208,166.5,0,Sprint,0.4772,0,0
+SaganPeter,9,0,hilly,2208,166.5,0,Classic,0.4772,0,0
+TrentinMatteo,10,0,hilly,2208,166.5,0,Classic,0.4772,0,0
+BauerJack,11,0,hilly,2208,166.5,0,TT,0.5157,0,0
+DevenynsDries,12,0,hilly,2208,166.5,0,GC,0.5772,0,0
+Boasson HagenEdvald,13,0,hilly,2208,166.5,0,Classic,1.7933,0,0
+HofstetterHugo,14,0,hilly,2208,166.5,0,Classic,1.7933,0,0
+CoquardBryan,15,0,hilly,2208,166.5,0,Sprint,1.7933,0,0
+GesinkRobert,16,0,hilly,2208,166.5,0,GC,3.525,0,0
+PolittNils,17,0,hilly,2208,166.5,0,Classic,3.525,0,0
+RojasJosé Joaquín,18,0,hilly,2208,166.5,0,Hills,3.525,0,0
+ColbrelliSonny,19,0,hilly,2208,166.5,0,Classic,3.525,0,0
+HallerMarco,20,0,hilly,2208,166.5,0,Classic,3.525,0,0
+WalscheidMax,21,0,hilly,2208,166.5,0,Sprint,3.525,0,0
+SoupeGeoffrey,22,0,hilly,2208,166.5,0,Sprint,3.525,0,0
+SánchezLuis León,23,0,hilly,2208,166.5,0,GC,3.525,0,0
+DeclercqTim,24,0,hilly,2208,166.5,0,Classic,3.525,0,0
+PacherQuentin,25,0,hilly,2208,166.5,0,Hills,3.525,0,0
+TheunsEdward,26,0,hilly,2208,166.5,0,Classic,3.525,0,0
+Van AsbroeckTom,27,0,hilly,2208,166.5,0,Classic,3.525,0,0
+MartinTony,28,0,hilly,2208,166.5,0,TT,3.525,0,0
+LópezMiguel Ángel,29,0,hilly,2208,166.5,0,Climber,3.525,0,0
+TurgisAnthony,30,0,hilly,2208,166.5,0,Classic,3.525,0,0
+PogačarTadej,31,0,hilly,2208,166.5,0,Climber,3.525,0,0
+van AertWout,32,0,hilly,2208,166.5,0,Classic,3.525,0,0
+PorteRichie,33,0,hilly,2208,166.5,0,GC,3.525,0,0
+Juul-JensenChristopher,34,0,hilly,2208,166.5,0,GC,3.525,0,0
+OliveiraNelson,35,0,hilly,2208,166.5,0,TT,3.525,0,0
+AsgreenKasper,36,0,hilly,2208,166.5,0,TT,3.525,0,0
+ImpeyDaryl,37,0,hilly,2208,166.5,0,Hills,3.525,0,0
+GibbonsRyan,38,0,hilly,2208,166.5,0,Hills,3.525,0,0
+PedersenMads,39,0,hilly,2208,166.5,0,Classic,3.525,0,0
+JansenAmund Grøndahl,40,0,hilly,2208,166.5,0,Classic,3.525,0,0
+DumoulinTom,41,0,hilly,2208,166.5,0,TT,3.525,0,0
+BennettGeorge,42,0,hilly,2208,166.5,0,GC,3.525,0,0
+NeilandsKrists,43,0,hilly,2208,166.5,0,Classic,3.525,0,0
+SkujiņšToms,44,0,hilly,2208,166.5,0,Classic,3.525,0,0
+RogličPrimož,45,0,hilly,2208,166.5,0,Climber,3.525,0,0
+LaengenVegard Stake,46,0,hilly,2208,166.5,0,GC,3.525,0,0
+EgNiklas,47,0,hilly,2208,166.5,0,GC,3.525,0,0
+VivianiElia,48,0,hilly,2208,166.5,0,Sprint,3.525,0,0
+CarusoDamiano,49,0,hilly,2208,166.5,0,GC,3.525,0,0
+BartheCyril,50,0,hilly,2208,166.5,0,Hills,3.525,0,0
+VuillermozAlexis,51,0,hilly,2208,166.5,0,Climber,3.525,0,0
+RollandPierre,52,0,hilly,2208,166.5,0,Climber,3.525,0,0
+ElissondeKenny,53,0,hilly,2208,166.5,0,Climber,3.525,0,0
+ChevalierMaxime,54,0,hilly,2208,166.5,0,GC,3.525,0,0
+KussSepp,55,0,hilly,2208,166.5,0,Climber,3.525,0,0
+YatesAdam,56,0,hilly,2208,166.5,0,Climber,3.525,0,0
+HouleHugo,57,0,hilly,2208,166.5,0,GC,3.525,0,0
+KreuzigerRoman,58,0,hilly,2208,166.5,0,GC,3.525,0,0
+MolardRudy,59,0,hilly,2208,166.5,0,Climber,3.525,0,0
+PinotThibaut,60,0,hilly,2208,166.5,0,Climber,3.525,0,0
+ErvitiImanol,61,0,hilly,2208,166.5,0,GC,3.525,0,0
+RussoClément,62,0,hilly,2208,166.5,0,Classic,3.525,0,0
+MohoričMatej,63,0,hilly,2208,166.5,0,Classic,3.525,0,0
+ReichenbachSébastien,64,0,hilly,2208,166.5,0,GC,3.525,0,0
+NivGuy,65,0,hilly,2208,166.5,0,GC,3.525,0,0
+PolancJan,66,0,hilly,2208,166.5,0,GC,3.525,0,0
+SchärMichael,67,0,hilly,2208,166.5,0,GC,3.525,0,0
+SivakovPavel,68,0,hilly,2208,166.5,0,GC,3.525,0,0
+MadouasValentin,69,0,hilly,2208,166.5,0,Classic,3.525,0,0
+GroßschartnerFelix,70,0,hilly,2208,166.5,0,GC,3.525,0,0
+MartinGuillaume,71,0,hilly,2208,166.5,0,Climber,3.525,0,0
+ValverdeAlejandro,72,0,hilly,2208,166.5,0,Climber,3.525,0,0
+QuintanaNairo,73,0,hilly,2208,166.5,0,GC,3.525,0,0
+LutsenkoAlexey,74,0,hilly,2208,166.5,0,GC,3.525,0,0
+SwiftConnor,75,0,hilly,2208,166.5,0,Classic,3.525,0,0
+TejadaHarold,76,0,hilly,2208,166.5,0,Climber,3.525,0,0
+VenturiniClément,77,0,hilly,2208,166.5,0,Classic,3.525,0,0
+PowlessNeilson,78,0,hilly,2208,166.5,0,Classic,3.525,0,0
+FraileOmar,79,0,hilly,2208,166.5,0,Climber,3.525,0,0
+MasEnric,80,0,hilly,2208,166.5,0,Climber,3.525,0,0
+ChavesEsteban,81,0,hilly,2208,166.5,0,Climber,3.525,0,0
+LadagnousMatthieu,82,0,hilly,2208,166.5,0,GC,3.525,0,0
+BarguilWarren,83,0,hilly,2208,166.5,0,Climber,3.525,0,0
+EdetNicolas,84,0,hilly,2208,166.5,0,GC,3.525,0,0
+CherelMikaël,85,0,hilly,2208,166.5,0,GC,3.525,0,0
+LaporteChristophe,86,0,hilly,2208,166.5,0,Classic,3.525,0,0
+VeronaCarlos,87,0,hilly,2208,166.5,0,GC,3.525,0,0
+LandaMikel,88,0,hilly,2208,166.5,0,Climber,3.525,0,0
+BettiolAlberto,89,0,hilly,2208,166.5,0,Classic,3.525,0,0
+UránRigoberto,90,0,hilly,2208,166.5,0,Climber,3.525,0,0
+PérichonPierre-Luc,91,0,hilly,2208,166.5,0,Classic,3.525,0,0
+KeukeleireJens,92,0,hilly,2208,166.5,0,Classic,3.525,0,0
+de la CruzDavid,93,0,hilly,2208,166.5,0,GC,3.525,0,0
+KristoffAlexander,94,0,hilly,2208,166.5,0,Classic,3.525,0,0
+PoelsWout,95,0,hilly,2208,166.5,0,Climber,3.525,0,0
+BilbaoPello,96,0,hilly,2208,166.5,0,Climber,3.525,0,0
+ValgrenMichael,97,0,hilly,2208,166.5,0,Classic,3.525,0,0
+BurgaudeauMathieu,98,0,hilly,2208,166.5,0,Hills,3.525,0,0
+CataldoDario,99,0,hilly,2208,166.5,0,Climber,3.525,0,0
+IzagirreGorka,100,0,hilly,2208,166.5,0,GC,3.525,0,0
+SolerMarc,101,0,hilly,2208,166.5,0,Climber,3.525,0,0
+LedanoisKévin,102,0,hilly,2208,166.5,0,Classic,3.525,0,0
+PetersNans,103,0,hilly,2208,166.5,0,Classic,3.525,0,0
+De MarchiAlessandro,104,0,hilly,2208,166.5,0,Climber,3.525,0,0
+HerradaJesús,105,0,hilly,2208,166.5,0,GC,3.525,0,0
+QuintanaDayer,106,0,hilly,2208,166.5,0,GC,3.525,0,0
+SicardRomain,107,0,hilly,2208,166.5,0,GC,3.525,0,0
+AnaconaWinner,108,0,hilly,2208,166.5,0,GC,3.525,0,0
+CarapazRichard,109,0,hilly,2208,166.5,0,Climber,3.525,0,0
+AmadorAndrey,110,0,hilly,2208,166.5,0,GC,3.525,0,0
+De BuystJasper,111,0,hilly,2208,166.5,0,Classic,3.525,0,0
+JungelsBob,112,0,hilly,2208,166.5,0,TT,3.525,0,0
+De GendtThomas,113,0,hilly,2208,166.5,0,TT,3.525,0,0
+HermansBen,114,0,hilly,2208,166.5,0,GC,3.525,0,0
+GautierCyril,115,0,hilly,2208,166.5,0,Classic,3.525,0,0
+KwiatkowskiMichał,116,0,hilly,2208,166.5,0,Classic,3.525,0,0
+MartinDan,117,0,hilly,2208,166.5,0,Climber,3.525,0,0
+BuchmannEmanuel,118,0,hilly,2208,166.5,0,GC,3.525,0,0
+HirtJan,119,0,hilly,2208,166.5,0,GC,3.525,0,0
+CarthyHugh,120,0,hilly,2208,166.5,0,GC,3.525,0,0
+MartínezDaniel Felipe,121,0,hilly,2208,166.5,0,GC,3.525,0,0
+HirschiMarc,122,0,hilly,2208,166.5,0,Classic,3.525,0,0
+RocheNicolas,123,0,hilly,2208,166.5,0,Climber,3.525,0,0
+van GarderenTejay,124,0,hilly,2208,166.5,0,GC,3.525,0,0
+BenootTiesj,125,0,hilly,2208,166.5,0,Classic,3.525,0,0
+NieuwenhuisJoris,126,0,hilly,2208,166.5,0,Classic,3.525,0,0
+BonifazioNiccolò,127,0,hilly,2208,166.5,0,Sprint,3.525,0,0
+PedersenCasper,128,0,hilly,2208,166.5,0,Classic,3.525,0,0
+OssDaniel,129,0,hilly,2208,166.5,0,Classic,3.525,0,0
+SchachmannMaximilian,130,0,hilly,2208,166.5,0,GC,3.525,0,0
+BolCees,131,0,hilly,2208,166.5,0,Sprint,3.525,0,0
+MørkøvMichael,132,0,hilly,2208,166.5,0,Classic,3.525,0,0
+van BaarleDylan,133,0,hilly,2208,166.5,0,Classic,3.525,0,0
+KämnaLennard,134,0,hilly,2208,166.5,0,Climber,3.525,0,0
+KochJonas,135,0,hilly,2208,166.5,0,Hills,3.525,0,0
+GeschkeSimon,136,0,hilly,2208,166.5,0,Climber,3.525,0,0
+GrellierFabien,137,0,hilly,2208,166.5,0,Classic,3.525,0,0
+ConsonniSimone,138,0,hilly,2208,166.5,0,Classic,3.525,0,0
+MarcatoMarco,139,0,hilly,2208,166.5,0,Classic,3.525,0,0
+RezaKévin,140,0,hilly,2208,166.5,0,Hills,3.525,0,0
+CosnefroyBenoît,141,0,hilly,2208,166.5,0,Classic,3.525,0,0
+AlaphilippeJulian,142,0,hilly,2208,166.5,0,Classic,3.525,0,0
+CavagnaRémi,143,0,hilly,2208,166.5,0,TT,3.525,0,0
+EwanCaleb,144,0,hilly,2208,166.5,0,Sprint,3.8251,0,0
+FrisonFrederik,145,0,hilly,2208,166.5,0,Classic,4.0099,0,0
+KlugeRoger,146,0,hilly,2208,166.5,0,Sprint,4.6102,0,0
+PogačarTadej,1,1,ITT,962,36.2,0,Climber,0.0,0,0
+DumoulinTom,2,0,ITT,962,36.2,0,TT,2.4143,0,0
+PorteRichie,3,0,ITT,962,36.2,0,GC,2.4143,0,0
+van AertWout,4,0,ITT,962,36.2,0,Classic,2.7124,0,0
+RogličPrimož,5,0,ITT,962,36.2,0,Climber,3.4575,0,0
+CavagnaRémi,6,0,ITT,962,36.2,0,TT,3.5469,0,0
+CarusoDamiano,7,0,ITT,962,36.2,0,GC,4.4411,0,0
+de la CruzDavid,8,0,ITT,962,36.2,0,GC,4.769,0,0
+MasEnric,9,0,ITT,962,36.2,0,Climber,4.918,0,0
+UránRigoberto,10,0,ITT,962,36.2,0,Climber,5.1863,0,0
+MartínezDaniel Felipe,11,0,ITT,962,36.2,0,GC,5.9314,0,0
+BilbaoPello,12,0,ITT,962,36.2,0,Climber,5.9613,0,0
+SolerMarc,13,0,ITT,962,36.2,0,Climber,6.1401,0,0
+LandaMikel,14,0,ITT,962,36.2,0,Climber,6.1699,0,0
+BarguilWarren,15,0,ITT,962,36.2,0,Climber,7.0939,0,0
+Kragh AndersenSøren,16,0,ITT,962,36.2,0,TT,7.1237,0,0
+SchachmannMaximilian,17,0,ITT,962,36.2,0,GC,7.1237,0,0
+De MarchiAlessandro,18,0,ITT,962,36.2,0,Climber,7.3323,0,0
+PinotThibaut,19,0,ITT,962,36.2,0,Climber,7.4218,0,0
+De GendtThomas,20,0,ITT,962,36.2,0,TT,7.4814,0,0
+KämnaLennard,21,0,ITT,962,36.2,0,Climber,7.5112,0,0
+PolancJan,22,0,ITT,962,36.2,0,GC,7.541,0,0
+YatesAdam,23,0,ITT,962,36.2,0,Climber,7.9583,0,0
+AsgreenKasper,24,0,ITT,962,36.2,0,TT,8.0477,0,0
+GeschkeSimon,25,0,ITT,962,36.2,0,Climber,8.2861,0,0
+MartinGuillaume,26,0,ITT,962,36.2,0,Climber,8.3159,0,0
+OliveiraNelson,27,0,ITT,962,36.2,0,TT,8.4054,0,0
+PolittNils,28,0,ITT,962,36.2,0,Classic,9.0611,0,0
+PoelsWout,29,0,ITT,962,36.2,0,Climber,9.3592,0,0
+HerradaJesús,30,0,ITT,962,36.2,0,GC,9.687,0,0
+MartinDan,31,0,ITT,962,36.2,0,Climber,9.8659,0,0
+GroßschartnerFelix,32,0,ITT,962,36.2,0,GC,9.8659,0,0
+JungelsBob,33,0,ITT,962,36.2,0,TT,10.0149,0,0
+FraileOmar,34,0,ITT,962,36.2,0,Climber,10.313,0,0
+SwiftConnor,35,0,ITT,962,36.2,0,Classic,10.4918,0,0
+QuintanaNairo,36,0,ITT,962,36.2,0,GC,10.5514,0,0
+PowlessNeilson,37,0,ITT,962,36.2,0,Classic,10.611,0,0
+ChevalierMaxime,38,0,ITT,962,36.2,0,GC,10.7899,0,0
+LutsenkoAlexey,39,0,ITT,962,36.2,0,GC,10.9389,0,0
+ChavesEsteban,40,0,ITT,962,36.2,0,Climber,10.9389,0,0
+HermansBen,41,0,ITT,962,36.2,0,GC,11.1475,0,0
+Juul-JensenChristopher,42,0,ITT,962,36.2,0,GC,11.2072,0,0
+LaporteChristophe,43,0,ITT,962,36.2,0,Classic,11.2072,0,0
+SchärMichael,44,0,ITT,962,36.2,0,GC,11.237,0,0
+LópezMiguel Ángel,45,0,ITT,962,36.2,0,Climber,11.237,0,0
+NeilandsKrists,46,0,ITT,962,36.2,0,Classic,11.2668,0,0
+ValverdeAlejandro,47,0,ITT,962,36.2,0,Climber,11.5052,0,0
+BenootTiesj,48,0,ITT,962,36.2,0,Classic,11.8033,0,0
+LedanoisKévin,49,0,ITT,962,36.2,0,Classic,11.8629,0,0
+MadouasValentin,50,0,ITT,962,36.2,0,Classic,12.1311,0,0
+BuchmannEmanuel,51,0,ITT,962,36.2,0,GC,12.2802,0,0
+SivakovPavel,52,0,ITT,962,36.2,0,GC,12.2802,0,0
+SicardRomain,53,0,ITT,962,36.2,0,GC,12.31,0,0
+CarthyHugh,54,0,ITT,962,36.2,0,GC,12.3994,0,0
+CosnefroyBenoît,55,0,ITT,962,36.2,0,Classic,12.4292,0,0
+GibbonsRyan,56,0,ITT,962,36.2,0,Hills,12.4292,0,0
+MartinTony,57,0,ITT,962,36.2,0,TT,12.4888,0,0
+ConsonniSimone,58,0,ITT,962,36.2,0,Classic,12.5186,0,0
+PérichonPierre-Luc,59,0,ITT,962,36.2,0,Classic,12.5484,0,0
+AlaphilippeJulian,60,0,ITT,962,36.2,0,Classic,12.5782,0,0
+PacherQuentin,61,0,ITT,962,36.2,0,Hills,12.7571,0,0
+LaengenVegard Stake,62,0,ITT,962,36.2,0,GC,12.8763,0,0
+NieuwenhuisJoris,63,0,ITT,962,36.2,0,Classic,13.0253,0,0
+PedersenCasper,64,0,ITT,962,36.2,0,Classic,13.0551,0,0
+GesinkRobert,65,0,ITT,962,36.2,0,GC,13.0551,0,0
+SoupeGeoffrey,66,0,ITT,962,36.2,0,Sprint,13.2042,0,0
+KussSepp,67,0,ITT,962,36.2,0,Climber,13.2042,0,0
+TejadaHarold,68,0,ITT,962,36.2,0,Climber,13.3532,0,0
+van BaarleDylan,69,0,ITT,962,36.2,0,Classic,13.3532,0,0
+ValgrenMichael,70,0,ITT,962,36.2,0,Classic,13.4724,0,0
+TurgisAnthony,71,0,ITT,962,36.2,0,Classic,13.5618,0,0
+BettiolAlberto,72,0,ITT,962,36.2,0,Classic,13.6811,0,0
+PetersNans,73,0,ITT,962,36.2,0,Classic,13.7407,0,0
+ColbrelliSonny,74,0,ITT,962,36.2,0,Classic,13.7407,0,0
+SánchezLuis León,75,0,ITT,962,36.2,0,GC,13.7705,0,0
+EgNiklas,76,0,ITT,962,36.2,0,GC,13.7705,0,0
+NaesenOliver,77,0,ITT,962,36.2,0,Classic,13.8599,0,0
+BartheCyril,78,0,ITT,962,36.2,0,Hills,13.9195,0,0
+WalscheidMax,79,0,ITT,962,36.2,0,Sprint,14.0686,0,0
+MolardRudy,80,0,ITT,962,36.2,0,Climber,14.0686,0,0
+CarapazRichard,81,0,ITT,962,36.2,0,Climber,14.0984,0,0
+VuillermozAlexis,82,0,ITT,962,36.2,0,Climber,14.1282,0,0
+GrellierFabien,83,0,ITT,962,36.2,0,Classic,14.4262,0,0
+KreuzigerRoman,84,0,ITT,962,36.2,0,GC,14.7243,0,0
+EdetNicolas,85,0,ITT,962,36.2,0,GC,14.7839,0,0
+DevenynsDries,86,0,ITT,962,36.2,0,GC,14.8137,0,0
+LadagnousMatthieu,87,0,ITT,962,36.2,0,GC,14.9329,0,0
+FrisonFrederik,88,0,ITT,962,36.2,0,Classic,14.9627,0,0
+Boasson HagenEdvald,89,0,ITT,962,36.2,0,Classic,14.9627,0,0
+ReichenbachSébastien,90,0,ITT,962,36.2,0,GC,15.0224,0,0
+HirschiMarc,91,0,ITT,962,36.2,0,Classic,15.1714,0,0
+KlugeRoger,92,0,ITT,962,36.2,0,Sprint,15.2012,0,0
+KwiatkowskiMichał,93,0,ITT,962,36.2,0,Classic,15.231,0,0
+OssDaniel,94,0,ITT,962,36.2,0,Classic,15.231,0,0
+ErvitiImanol,95,0,ITT,962,36.2,0,GC,15.2608,0,0
+MohoričMatej,96,0,ITT,962,36.2,0,Classic,15.3204,0,0
+RocheNicolas,97,0,ITT,962,36.2,0,Climber,15.3204,0,0
+RussoClément,98,0,ITT,962,36.2,0,Classic,15.38,0,0
+AnaconaWinner,99,0,ITT,962,36.2,0,GC,15.6185,0,0
+TheunsEdward,100,0,ITT,962,36.2,0,Classic,15.6781,0,0
+RollandPierre,101,0,ITT,962,36.2,0,Climber,15.7675,0,0
+HirtJan,102,0,ITT,962,36.2,0,GC,16.006,0,0
+HofstetterHugo,103,0,ITT,962,36.2,0,Classic,16.006,0,0
+MarcatoMarco,104,0,ITT,962,36.2,0,Classic,16.0358,0,0
+SaganPeter,105,0,ITT,962,36.2,0,Classic,16.0954,0,0
+VivianiElia,106,0,ITT,962,36.2,0,Sprint,16.155,0,0
+DeclercqTim,107,0,ITT,962,36.2,0,Classic,16.155,0,0
+CherelMikaël,108,0,ITT,962,36.2,0,GC,16.1848,0,0
+KristoffAlexander,109,0,ITT,962,36.2,0,Classic,16.3636,0,0
+PedersenMads,110,0,ITT,962,36.2,0,Classic,16.3636,0,0
+ElissondeKenny,111,0,ITT,962,36.2,0,Climber,16.3934,0,0
+CoquardBryan,112,0,ITT,962,36.2,0,Sprint,16.3934,0,0
+CataldoDario,113,0,ITT,962,36.2,0,Climber,16.5425,0,0
+JansenAmund Grøndahl,114,0,ITT,962,36.2,0,Classic,16.5425,0,0
+GautierCyril,115,0,ITT,962,36.2,0,Classic,16.5425,0,0
+IzagirreGorka,116,0,ITT,962,36.2,0,GC,16.6021,0,0
+VenturiniClément,117,0,ITT,962,36.2,0,Classic,16.6915,0,0
+VeronaCarlos,118,0,ITT,962,36.2,0,GC,16.7213,0,0
+BolCees,119,0,ITT,962,36.2,0,Sprint,16.7809,0,0
+van GarderenTejay,120,0,ITT,962,36.2,0,GC,16.9896,0,0
+KochJonas,121,0,ITT,962,36.2,0,Hills,17.0194,0,0
+HouleHugo,122,0,ITT,962,36.2,0,GC,17.0194,0,0
+TrentinMatteo,123,0,ITT,962,36.2,0,Classic,17.1386,0,0
+RoweLuke,124,0,ITT,962,36.2,0,Classic,17.1982,0,0
+De BuystJasper,125,0,ITT,962,36.2,0,Classic,17.228,0,0
+AmadorAndrey,126,0,ITT,962,36.2,0,GC,17.2578,0,0
+SkujiņšToms,127,0,ITT,962,36.2,0,Classic,17.2876,0,0
+EwanCaleb,128,0,ITT,962,36.2,0,Sprint,17.4069,0,0
+ImpeyDaryl,129,0,ITT,962,36.2,0,Hills,17.5559,0,0
+KeukeleireJens,130,0,ITT,962,36.2,0,Classic,17.8241,0,0
+BennettSam,131,0,ITT,962,36.2,0,Sprint,17.8838,0,0
+StuyvenJasper,132,0,ITT,962,36.2,0,Classic,17.9136,0,0
+Van AvermaetGreg,133,0,ITT,962,36.2,0,Classic,17.9434,0,0
+MørkøvMichael,134,0,ITT,962,36.2,0,Classic,17.9434,0,0
+Van AsbroeckTom,135,0,ITT,962,36.2,0,Classic,18.0924,0,0
+BurgaudeauMathieu,136,0,ITT,962,36.2,0,Hills,18.3308,0,0
+NivGuy,137,0,ITT,962,36.2,0,GC,18.5693,0,0
+BonifazioNiccolò,138,0,ITT,962,36.2,0,Sprint,19.225,0,0
+HallerMarco,139,0,ITT,962,36.2,0,Classic,19.225,0,0
+QuintanaDayer,140,0,ITT,962,36.2,0,GC,19.3443,0,0
+RojasJosé Joaquín,141,0,ITT,962,36.2,0,Hills,19.3741,0,0
+MezgecLuka,142,0,ITT,962,36.2,0,Hills,19.6423,0,0
+ArndtNikias,143,0,ITT,962,36.2,0,Hills,19.7914,0,0
+BennettGeorge,144,0,ITT,962,36.2,0,GC,19.851,0,0
+RezaKévin,145,0,ITT,962,36.2,0,Hills,20.4769,0,0
+BauerJack,146,0,ITT,962,36.2,0,TT,21.4009,0,0
+BennettSam,1,1,flat,816,122.0,0,Sprint,0.0,0,0
+PedersenMads,2,0,flat,816,122.0,0,Classic,0.0,0,0
+SaganPeter,3,0,flat,816,122.0,0,Classic,0.0,0,0
+KristoffAlexander,4,0,flat,816,122.0,0,Classic,0.0,0,0
+VivianiElia,5,0,flat,816,122.0,0,Sprint,0.0,0,0
+van AertWout,6,0,flat,816,122.0,0,Classic,0.0,0,0
+EwanCaleb,7,0,flat,816,122.0,0,Sprint,0.0,0,0
+HofstetterHugo,8,0,flat,816,122.0,0,Classic,0.0,0,0
+CoquardBryan,9,0,flat,816,122.0,0,Sprint,0.0,0,0
+WalscheidMax,10,0,flat,816,122.0,0,Sprint,0.0,0,0
+ColbrelliSonny,11,0,flat,816,122.0,0,Classic,0.0,0,0
+Boasson HagenEdvald,12,0,flat,816,122.0,0,Classic,0.0,0,0
+MezgecLuka,13,0,flat,816,122.0,0,Hills,0.0,0,0
+BonifazioNiccolò,14,0,flat,816,122.0,0,Sprint,0.0,0,0
+RussoClément,15,0,flat,816,122.0,0,Classic,0.0,0,0
+VenturiniClément,16,0,flat,816,122.0,0,Classic,0.0,0,0
+TrentinMatteo,17,0,flat,816,122.0,0,Classic,0.0,0,0
+BolCees,18,0,flat,816,122.0,0,Sprint,0.0,0,0
+StuyvenJasper,19,0,flat,816,122.0,0,Classic,0.0,0,0
+Van AsbroeckTom,20,0,flat,816,122.0,0,Classic,0.0,0,0
+RezaKévin,21,0,flat,816,122.0,0,Hills,0.0,0,0
+HallerMarco,22,0,flat,816,122.0,0,Classic,0.0,0,0
+BauerJack,23,0,flat,816,122.0,0,TT,0.0,0,0
+NaesenOliver,24,0,flat,816,122.0,0,Classic,0.0,0,0
+TurgisAnthony,25,0,flat,816,122.0,0,Classic,0.0,0,0
+MørkøvMichael,26,0,flat,816,122.0,0,Classic,0.0,0,0
+MohoričMatej,27,0,flat,816,122.0,0,Classic,0.0,0,0
+KochJonas,28,0,flat,816,122.0,0,Hills,0.0,0,0
+ConsonniSimone,29,0,flat,816,122.0,0,Classic,0.0,0,0
+KeukeleireJens,30,0,flat,816,122.0,0,Classic,0.0,0,0
+SoupeGeoffrey,31,0,flat,816,122.0,0,Sprint,0.0,0,0
+RojasJosé Joaquín,32,0,flat,816,122.0,0,Hills,0.0,0,0
+BartheCyril,33,0,flat,816,122.0,0,Hills,0.0,0,0
+MolardRudy,34,0,flat,816,122.0,0,Climber,0.0,0,0
+BilbaoPello,35,0,flat,816,122.0,0,Climber,0.0,0,0
+LandaMikel,36,0,flat,816,122.0,0,Climber,0.0,0,0
+DumoulinTom,37,0,flat,816,122.0,0,TT,0.0,0,0
+PolancJan,38,0,flat,816,122.0,0,GC,0.0,0,0
+RogličPrimož,39,0,flat,816,122.0,0,Climber,0.0,0,0
+ValverdeAlejandro,40,0,flat,816,122.0,0,Climber,0.0,0,0
+PogačarTadej,41,0,flat,816,122.0,0,Climber,0.0,0,0
+MasEnric,42,0,flat,816,122.0,0,Climber,0.0,0,0
+BettiolAlberto,43,0,flat,816,122.0,0,Classic,0.0,0,0
+De BuystJasper,44,0,flat,816,122.0,0,Classic,0.0,0,0
+JansenAmund Grøndahl,45,0,flat,816,122.0,0,Classic,0.0,0,0
+CataldoDario,46,0,flat,816,122.0,0,Climber,0.0,0,0
+YatesAdam,47,0,flat,816,122.0,0,Climber,0.0,0,0
+IzagirreGorka,48,0,flat,816,122.0,0,GC,0.0,0,0
+ErvitiImanol,49,0,flat,816,122.0,0,GC,0.0,0,0
+LaporteChristophe,50,0,flat,816,122.0,0,Classic,0.0,0,0
+NieuwenhuisJoris,51,0,flat,816,122.0,0,Classic,0.0,0,0
+ChavesEsteban,52,0,flat,816,122.0,0,Climber,0.0,0,0
+LutsenkoAlexey,53,0,flat,816,122.0,0,GC,0.0,0,0
+OliveiraNelson,54,0,flat,816,122.0,0,TT,0.0,0,0
+LaengenVegard Stake,55,0,flat,816,122.0,0,GC,0.0,0,0
+UránRigoberto,56,0,flat,816,122.0,0,Climber,0.0,0,0
+SánchezLuis León,57,0,flat,816,122.0,0,GC,0.0,0,0
+SchärMichael,58,0,flat,816,122.0,0,GC,0.0,0,0
+LópezMiguel Ángel,59,0,flat,816,122.0,0,Climber,0.0,0,0
+VeronaCarlos,60,0,flat,816,122.0,0,GC,0.0,0,0
+BarguilWarren,61,0,flat,816,122.0,0,Climber,0.0,0,0
+PorteRichie,62,0,flat,816,122.0,0,GC,0.0,0,0
+KussSepp,63,0,flat,816,122.0,0,Climber,0.0,0,0
+CarusoDamiano,64,0,flat,816,122.0,0,GC,0.0,0,0
+AsgreenKasper,65,0,flat,816,122.0,0,TT,0.1729,0,0
+VuillermozAlexis,66,0,flat,816,122.0,0,Climber,0.2017,0,0
+ElissondeKenny,67,0,flat,816,122.0,0,Climber,0.2017,0,0
+CherelMikaël,68,0,flat,816,122.0,0,GC,0.2017,0,0
+van BaarleDylan,69,0,flat,816,122.0,0,Classic,0.2017,0,0
+SkujiņšToms,70,0,flat,816,122.0,0,Classic,0.2017,0,0
+FraileOmar,71,0,flat,816,122.0,0,Climber,0.2017,0,0
+MartínezDaniel Felipe,72,0,flat,816,122.0,0,GC,0.2017,0,0
+RollandPierre,73,0,flat,816,122.0,0,Climber,0.2017,0,0
+HouleHugo,74,0,flat,816,122.0,0,GC,0.2017,0,0
+PoelsWout,75,0,flat,816,122.0,0,Climber,0.2017,0,0
+Juul-JensenChristopher,76,0,flat,816,122.0,0,GC,0.2017,0,0
+PinotThibaut,77,0,flat,816,122.0,0,Climber,0.2017,0,0
+PowlessNeilson,78,0,flat,816,122.0,0,Classic,0.2017,0,0
+GesinkRobert,79,0,flat,816,122.0,0,GC,0.2017,0,0
+QuintanaNairo,80,0,flat,816,122.0,0,GC,0.2017,0,0
+MadouasValentin,81,0,flat,816,122.0,0,Classic,0.2017,0,0
+GibbonsRyan,82,0,flat,816,122.0,0,Hills,0.2017,0,0
+EgNiklas,83,0,flat,816,122.0,0,GC,0.2017,0,0
+TejadaHarold,84,0,flat,816,122.0,0,Climber,0.2017,0,0
+AmadorAndrey,85,0,flat,816,122.0,0,GC,0.2017,0,0
+RoweLuke,86,0,flat,816,122.0,0,Classic,0.2017,0,0
+ArndtNikias,87,0,flat,816,122.0,0,Hills,0.2017,0,0
+DevenynsDries,88,0,flat,816,122.0,0,GC,0.3073,0,0
+MartinDan,89,0,flat,816,122.0,0,Climber,0.3265,0,0
+OssDaniel,90,0,flat,816,122.0,0,Classic,0.3265,0,0
+ChevalierMaxime,91,0,flat,816,122.0,0,GC,0.3746,0,0
+GautierCyril,92,0,flat,816,122.0,0,Classic,0.3746,0,0
+QuintanaDayer,93,0,flat,816,122.0,0,GC,0.4514,0,0
+JungelsBob,94,0,flat,816,122.0,0,TT,0.5859,0,0
+PacherQuentin,95,0,flat,816,122.0,0,Hills,0.6339,0,0
+GroßschartnerFelix,96,0,flat,816,122.0,0,GC,0.6339,0,0
+KämnaLennard,97,0,flat,816,122.0,0,Climber,0.6339,0,0
+LadagnousMatthieu,98,0,flat,816,122.0,0,GC,0.6339,0,0
+GeschkeSimon,99,0,flat,816,122.0,0,Climber,0.6339,0,0
+NivGuy,100,0,flat,816,122.0,0,GC,0.6627,0,0
+HermansBen,101,0,flat,816,122.0,0,GC,0.6627,0,0
+CarapazRichard,102,0,flat,816,122.0,0,Climber,0.6627,0,0
+AnaconaWinner,103,0,flat,816,122.0,0,GC,0.6627,0,0
+NeilandsKrists,104,0,flat,816,122.0,0,Classic,0.6627,0,0
+MartinGuillaume,105,0,flat,816,122.0,0,Climber,0.6627,0,0
+ReichenbachSébastien,106,0,flat,816,122.0,0,GC,0.6627,0,0
+MarcatoMarco,107,0,flat,816,122.0,0,Classic,0.6627,0,0
+PolittNils,108,0,flat,816,122.0,0,Classic,0.6627,0,0
+De GendtThomas,109,0,flat,816,122.0,0,TT,0.7011,0,0
+LedanoisKévin,110,0,flat,816,122.0,0,Classic,0.7203,0,0
+HerradaJesús,111,0,flat,816,122.0,0,GC,0.7395,0,0
+PetersNans,112,0,flat,816,122.0,0,Classic,0.7395,0,0
+KlugeRoger,113,0,flat,816,122.0,0,Sprint,0.7683,0,0
+PérichonPierre-Luc,114,0,flat,816,122.0,0,Classic,0.7972,0,0
+Van AvermaetGreg,115,0,flat,816,122.0,0,Classic,0.8164,0,0
+ImpeyDaryl,116,0,flat,816,122.0,0,Hills,0.826,0,0
+Kragh AndersenSøren,117,0,flat,816,122.0,0,TT,0.8452,0,0
+DeclercqTim,118,0,flat,816,122.0,0,Classic,0.8644,0,0
+AlaphilippeJulian,119,0,flat,816,122.0,0,Classic,0.8644,0,0
+CavagnaRémi,120,0,flat,816,122.0,0,TT,0.8644,0,0
+PedersenCasper,121,0,flat,816,122.0,0,Classic,0.9124,0,0
+BenootTiesj,122,0,flat,816,122.0,0,Classic,1.2005,0,0
+SicardRomain,123,0,flat,816,122.0,0,GC,1.2486,0,0
+FrisonFrederik,124,0,flat,816,122.0,0,Classic,1.2486,0,0
+GrellierFabien,125,0,flat,816,122.0,0,Classic,1.2486,0,0
+EdetNicolas,126,0,flat,816,122.0,0,GC,1.4118,0,0
+SivakovPavel,127,0,flat,816,122.0,0,GC,1.431,0,0
+de la CruzDavid,128,0,flat,816,122.0,0,GC,1.4406,0,0
+SolerMarc,129,0,flat,816,122.0,0,Climber,1.4406,0,0
+HirtJan,130,0,flat,816,122.0,0,GC,1.5175,0,0
+SchachmannMaximilian,131,0,flat,816,122.0,0,GC,1.5175,0,0
+MartinTony,132,0,flat,816,122.0,0,TT,1.5175,0,0
+van GarderenTejay,133,0,flat,816,122.0,0,GC,1.5175,0,0
+BuchmannEmanuel,134,0,flat,816,122.0,0,GC,1.5175,0,0
+CarthyHugh,135,0,flat,816,122.0,0,GC,1.5175,0,0
+SwiftConnor,136,0,flat,816,122.0,0,Classic,1.5175,0,0
+CosnefroyBenoît,137,0,flat,816,122.0,0,Classic,1.6423,0,0
+HirschiMarc,138,0,flat,816,122.0,0,Classic,1.7768,0,0
+De MarchiAlessandro,139,0,flat,816,122.0,0,Climber,1.9497,0,0
+KwiatkowskiMichał,140,0,flat,816,122.0,0,Classic,1.9497,0,0
+BurgaudeauMathieu,141,0,flat,816,122.0,0,Hills,1.9689,0,0
+TheunsEdward,142,0,flat,816,122.0,0,Classic,2.1802,0,0
+KreuzigerRoman,143,0,flat,816,122.0,0,GC,2.1802,0,0
+RocheNicolas,144,0,flat,816,122.0,0,Climber,2.1802,0,0
+BennettGeorge,145,0,flat,816,122.0,0,GC,2.1802,0,0
+ValgrenMichael,146,0,flat,816,122.0,0,Classic,2.2378,0,0
