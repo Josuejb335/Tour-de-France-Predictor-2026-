@@ -1,0 +1,4130 @@
+{
+ "AbrahamsenJonas": {
+  "name": "Jonas Abrahamsen",
+  "rank": 94,
+  "wins": 4,
+  "pts": 207
+ },
+ "AckermannPascal": {
+  "name": "Pascal Ackermann",
+  "rank": 235,
+  "wins": 41,
+  "pts": 172
+ },
+ "AffiniEdoardo": {
+  "name": "Edoardo Affini",
+  "rank": 468,
+  "wins": 3,
+  "pts": 48
+ },
+ "AlaphilippeJulian": {
+  "name": "Julian Alaphilippe",
+  "rank": 58,
+  "wins": 45,
+  "pts": 57
+ },
+ "AlbaneseVincenzo": {
+  "name": "Vincenzo Albanese",
+  "rank": 275,
+  "wins": 3,
+  "pts": 70
+ },
+ "AllegaertPiet": {
+  "name": "Piet Allegaert",
+  "rank": 1602,
+  "wins": 1,
+  "pts": 5
+ },
+ "AmadorAndrey": {
+  "name": "Andrey Amador",
+  "rank": 0,
+  "wins": 2,
+  "pts": 5
+ },
+ "AnaconaWinner": {
+  "name": "Winner Anacona",
+  "rank": 0,
+  "wins": 4,
+  "pts": 0
+ },
+ "AndresenTobias Lund": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "AranburuAlex": {
+  "name": "Alex Aranburu",
+  "rank": 70,
+  "wins": 10,
+  "pts": 410
+ },
+ "ArcasJorge": {
+  "name": "Jorge Arcas",
+  "rank": 1412,
+  "wins": 0,
+  "pts": 15
+ },
+ "ArensmanThymen": {
+  "name": "Thymen Arensman",
+  "rank": 24,
+  "wins": 5,
+  "pts": 601
+ },
+ "ArmirailBruno": {
+  "name": "Bruno Armirail",
+  "rank": 151,
+  "wins": 4,
+  "pts": 69
+ },
+ "ArndtNikias": {
+  "name": "Nikias Arndt",
+  "rank": 1595,
+  "wins": 7,
+  "pts": 10
+ },
+ "AruFabio": {
+  "name": "Fabio Aru",
+  "rank": 0,
+  "wins": 9,
+  "pts": 285
+ },
+ "AsgreenKasper": {
+  "name": "Kasper Asgreen",
+  "rank": 530,
+  "wins": 14,
+  "pts": 64
+ },
+ "AskeyLewis": {
+  "name": "Lewis Askey",
+  "rank": 182,
+  "wins": 2,
+  "pts": 243
+ },
+ "BagioliAndrea": {
+  "name": "Andrea Bagioli",
+  "rank": 209,
+  "wins": 7,
+  "pts": 120
+ },
+ "BakelantsJan": {
+  "name": "Jan Bakelants",
+  "rank": 0,
+  "wins": 7,
+  "pts": 0
+ },
+ "BalleriniDavide": {
+  "name": "Davide Ballerini",
+  "rank": 127,
+  "wins": 11,
+  "pts": 196
+ },
+ "BarberoCarlos": {
+  "name": "Carlos Barbero",
+  "rank": 0,
+  "wins": 12,
+  "pts": 44
+ },
+ "BardetRomain": {
+  "name": "Romain Bardet",
+  "rank": 0,
+  "wins": 11,
+  "pts": 0
+ },
+ "BarguilWarren": {
+  "name": "Warren Barguil",
+  "rank": 395,
+  "wins": 8,
+  "pts": 33
+ },
+ "Barr\u00e9Louis": {
+  "name": "Louis Barr\u00e9",
+  "rank": 325,
+  "wins": 0,
+  "pts": 63
+ },
+ "BartheCyril": {
+  "name": "Cyril Barthe",
+  "rank": 553,
+  "wins": 0,
+  "pts": 60
+ },
+ "BaudinAlex": {
+  "name": "Alex Baudin",
+  "rank": 68,
+  "wins": 3,
+  "pts": 536
+ },
+ "BauerJack": {
+  "name": "Jack Bauer",
+  "rank": 0,
+  "wins": 6,
+  "pts": 25
+ },
+ "BauhausPhil": {
+  "name": "Phil Bauhaus",
+  "rank": 258,
+  "wins": 22,
+  "pts": 107
+ },
+ "BennettGeorge": {
+  "name": "George Bennett",
+  "rank": 321,
+  "wins": 4,
+  "pts": 152
+ },
+ "BennettSam": {
+  "name": "Sam Bennett",
+  "rank": 1529,
+  "wins": 71,
+  "pts": 12
+ },
+ "BennettSean": {
+  "name": "Sean Bennett",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "BenootTiesj": {
+  "name": "Tiesj Benoot",
+  "rank": 291,
+  "wins": 4,
+  "pts": 593
+ },
+ "BerckmoesJenno": {
+  "name": "Jenno Berckmoes",
+  "rank": 116,
+  "wins": 3,
+  "pts": 245
+ },
+ "BernalEgan": {
+  "name": "Egan Bernal",
+  "rank": 37,
+  "wins": 23,
+  "pts": 483
+ },
+ "BernardJulien": {
+  "name": "Julien Bernard",
+  "rank": 431,
+  "wins": 1,
+  "pts": 53
+ },
+ "BerthetCl\u00e9ment": {
+  "name": "Cl\u00e9ment Berthet",
+  "rank": 349,
+  "wins": 0,
+  "pts": 92
+ },
+ "BettiolAlberto": {
+  "name": "Alberto Bettiol",
+  "rank": 104,
+  "wins": 9,
+  "pts": 141
+ },
+ "BeullensCedric": {
+  "name": "Cedric Beullens",
+  "rank": 724,
+  "wins": 0,
+  "pts": 56
+ },
+ "BewleySam": {
+  "name": "Sam Bewley",
+  "rank": 0,
+  "wins": 0,
+  "pts": 10
+ },
+ "BiermansJenthe": {
+  "name": "Jenthe Biermans",
+  "rank": 239,
+  "wins": 3,
+  "pts": 172
+ },
+ "BilbaoPello": {
+  "name": "Pello Bilbao",
+  "rank": 63,
+  "wins": 17,
+  "pts": 419
+ },
+ "BisseggerStefan": {
+  "name": "Stefan Bissegger",
+  "rank": 411,
+  "wins": 7,
+  "pts": 104
+ },
+ "BittnerPavel": {
+  "name": "Pavel Bittner",
+  "rank": 54,
+  "wins": 3,
+  "pts": 248
+ },
+ "BjergMikkel": {
+  "name": "Mikkel Bjerg",
+  "rank": 424,
+  "wins": 1,
+  "pts": 62
+ },
+ "BlackmoreJoseph": {
+  "name": "Joseph Blackmore",
+  "rank": 486,
+  "wins": 4,
+  "pts": 271
+ },
+ "Boasson HagenEdvald": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "BodnarMaciej": {
+  "name": "Maciej Bodnar",
+  "rank": 0,
+  "wins": 12,
+  "pts": 24
+ },
+ "BoivinGuillaume": {
+  "name": "Guillaume Boivin",
+  "rank": 627,
+  "wins": 5,
+  "pts": 10
+ },
+ "BolCees": {
+  "name": "Cees Bol",
+  "rank": 396,
+  "wins": 6,
+  "pts": 136
+ },
+ "BonnamourFranck": {
+  "name": "Franck Bonnamour",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "BonnetWilliam": {
+  "name": "William Bonnet",
+  "rank": 0,
+  "wins": 4,
+  "pts": 10
+ },
+ "BouchardGeoffrey": {
+  "name": "Geoffrey Bouchard",
+  "rank": 1004,
+  "wins": 1,
+  "pts": 14
+ },
+ "BouetMaxime": {
+  "name": "Maxime Bouet",
+  "rank": 0,
+  "wins": 5,
+  "pts": 20
+ },
+ "BouhanniNacer": {
+  "name": "Nacer Bouhanni",
+  "rank": 0,
+  "wins": 70,
+  "pts": 58
+ },
+ "BraetVito": {
+  "name": "Vito Braet",
+  "rank": 363,
+  "wins": 0,
+  "pts": 154
+ },
+ "BuchmannEmanuel": {
+  "name": "Emanuel Buchmann",
+  "rank": 667,
+  "wins": 5,
+  "pts": 0
+ },
+ "BurgaudeauMathieu": {
+  "name": "Mathieu Burgaudeau",
+  "rank": 616,
+  "wins": 5,
+  "pts": 35
+ },
+ "Bystr\u00f8mSven Erik": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "CabotJ\u00e9r\u00e9my": {
+  "name": "J\u00e9r\u00e9my Cabot",
+  "rank": 0,
+  "wins": 0,
+  "pts": 4
+ },
+ "CalmejaneLilian": {
+  "name": "Lilian Calmejane",
+  "rank": 0,
+  "wins": 12,
+  "pts": 0
+ },
+ "CampenaertsVictor": {
+  "name": "Victor Campenaerts",
+  "rank": 257,
+  "wins": 12,
+  "pts": 65
+ },
+ "CapiotAmaury": {
+  "name": "Amaury Capiot",
+  "rank": 514,
+  "wins": 3,
+  "pts": 58
+ },
+ "CarapazRichard": {
+  "name": "Richard Carapaz",
+  "rank": 165,
+  "wins": 24,
+  "pts": 180
+ },
+ "CarthyHugh": {
+  "name": "Hugh Carthy",
+  "rank": 0,
+  "wins": 7,
+  "pts": 10
+ },
+ "CarusoDamiano": {
+  "name": "Damiano Caruso",
+  "rank": 188,
+  "wins": 8,
+  "pts": 273
+ },
+ "CastroviejoJonathan": {
+  "name": "Jonathan Castroviejo",
+  "rank": 1599,
+  "wins": 11,
+  "pts": 38
+ },
+ "CataldoDario": {
+  "name": "Dario Cataldo",
+  "rank": 0,
+  "wins": 5,
+  "pts": 15
+ },
+ "CattaneoMattia": {
+  "name": "Mattia Cattaneo",
+  "rank": 536,
+  "wins": 4,
+  "pts": 60
+ },
+ "CavagnaR\u00e9mi": {
+  "name": "R\u00e9mi Cavagna",
+  "rank": 347,
+  "wins": 13,
+  "pts": 124
+ },
+ "CavendishMark": {
+  "name": "Mark Cavendish",
+  "rank": 0,
+  "wins": 165,
+  "pts": 190
+ },
+ "ChampoussinCl\u00e9ment": {
+  "name": "Cl\u00e9ment Champoussin",
+  "rank": 92,
+  "wins": 3,
+  "pts": 360
+ },
+ "CharmigAnthon": {
+  "name": "Anthon Charmig",
+  "rank": 159,
+  "wins": 2,
+  "pts": 233
+ },
+ "CherelMika\u00ebl": {
+  "name": "Mika\u00ebl Cherel",
+  "rank": 0,
+  "wins": 0,
+  "pts": 56
+ },
+ "ChevalierMaxime": {
+  "name": "Maxime Chevalier",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "CicconeGiulio": {
+  "name": "Giulio Ciccone",
+  "rank": 25,
+  "wins": 13,
+  "pts": 439
+ },
+ "ClarkeSimon": {
+  "name": "Simon Clarke",
+  "rank": 1108,
+  "wins": 7,
+  "pts": 10
+ },
+ "ColbrelliSonny": {
+  "name": "Sonny Colbrelli",
+  "rank": 0,
+  "wins": 34,
+  "pts": 180
+ },
+ "ConsonniSimone": {
+  "name": "Simone Consonni",
+  "rank": 692,
+  "wins": 3,
+  "pts": 41
+ },
+ "CoquardBryan": {
+  "name": "Bryan Coquard",
+  "rank": 145,
+  "wins": 55,
+  "pts": 317
+ },
+ "CosnefroyBeno\u00eet": {
+  "name": "Beno\u00eet Cosnefroy",
+  "rank": 47,
+  "wins": 25,
+  "pts": 838
+ },
+ "CostaRui": {
+  "name": "Rui Costa",
+  "rank": 479,
+  "wins": 33,
+  "pts": 0
+ },
+ "CostiouEwen": {
+  "name": "Ewen Costiou",
+  "rank": 139,
+  "wins": 4,
+  "pts": 216
+ },
+ "CousinJ\u00e9r\u00f4me": {
+  "name": "J\u00e9r\u00f4me Cousin",
+  "rank": 0,
+  "wins": 2,
+  "pts": 0
+ },
+ "CraddockLawson": {
+  "name": "Lawson Craddock",
+  "rank": 0,
+  "wins": 2,
+  "pts": 26
+ },
+ "CrasSteff": {
+  "name": "Steff Cras",
+  "rank": 425,
+  "wins": 1,
+  "pts": 46
+ },
+ "DaineseAlberto": {
+  "name": "Alberto Dainese",
+  "rank": 293,
+  "wins": 7,
+  "pts": 58
+ },
+ "De BuystJasper": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "De GendtThomas": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "De LieArnaud": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "De MarchiAlessandro": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "De PlusLaurens": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "DebusschereJens": {
+  "name": "Jens Debusschere",
+  "rank": 0,
+  "wins": 15,
+  "pts": 0
+ },
+ "DeclercqTim": {
+  "name": "Tim Declercq",
+  "rank": 0,
+  "wins": 0,
+  "pts": 15
+ },
+ "DegenkolbJohn": {
+  "name": "John Degenkolb",
+  "rank": 678,
+  "wins": 48,
+  "pts": 73
+ },
+ "DelaplaceAnthony": {
+  "name": "Anthony Delaplace",
+  "rank": 1202,
+  "wins": 2,
+  "pts": 62
+ },
+ "DelettreAlexandre": {
+  "name": "Alexandre Delettre",
+  "rank": 84,
+  "wins": 0,
+  "pts": 223
+ },
+ "DenzNico": {
+  "name": "Nico Denz",
+  "rank": 422,
+  "wins": 7,
+  "pts": 74
+ },
+ "DevenynsDries": {
+  "name": "Dries Devenyns",
+  "rank": 0,
+  "wins": 7,
+  "pts": 60
+ },
+ "DewulfStan": {
+  "name": "Stan Dewulf",
+  "rank": 219,
+  "wins": 1,
+  "pts": 240
+ },
+ "DillierSilvan": {
+  "name": "Silvan Dillier",
+  "rank": 698,
+  "wins": 8,
+  "pts": 30
+ },
+ "DinhamMatthew": {
+  "name": "Matthew Dinham",
+  "rank": 757,
+  "wins": 0,
+  "pts": 37
+ },
+ "DombrowskiJoe": {
+  "name": "Joe Dombrowski",
+  "rank": 0,
+  "wins": 4,
+  "pts": 57
+ },
+ "DonovanMark": {
+  "name": "Mark Donovan",
+  "rank": 391,
+  "wins": 1,
+  "pts": 126
+ },
+ "DoubeyFabien": {
+  "name": "Fabien Doubey",
+  "rank": 1210,
+  "wins": 1,
+  "pts": 8
+ },
+ "DoullOwain": {
+  "name": "Owain Doull",
+  "rank": 851,
+  "wins": 2,
+  "pts": 40
+ },
+ "DriznersJarrad": {
+  "name": "Jarrad Drizners",
+  "rank": 741,
+  "wins": 0,
+  "pts": 20
+ },
+ "DuchesneAntoine": {
+  "name": "Antoine Duchesne",
+  "rank": 0,
+  "wins": 1,
+  "pts": 48
+ },
+ "DujardinSandy": {
+  "name": "Sandy Dujardin",
+  "rank": 147,
+  "wins": 2,
+  "pts": 162
+ },
+ "DumoulinTom": {
+  "name": "Tom Dumoulin",
+  "rank": 0,
+  "wins": 22,
+  "pts": 0
+ },
+ "DurbridgeLuke": {
+  "name": "Luke Durbridge",
+  "rank": 770,
+  "wins": 15,
+  "pts": 30
+ },
+ "D\u00e9mareArnaud": {
+  "name": "Arnaud D\u00e9mare",
+  "rank": 613,
+  "wins": 97,
+  "pts": 0
+ },
+ "EdetNicolas": {
+  "name": "Nicolas Edet",
+  "rank": 0,
+  "wins": 2,
+  "pts": 0
+ },
+ "EekhoffNils": {
+  "name": "Nils Eekhoff",
+  "rank": 584,
+  "wins": 2,
+  "pts": 0
+ },
+ "EenkhoornPascal": {
+  "name": "Pascal Eenkhoorn",
+  "rank": 378,
+  "wins": 5,
+  "pts": 50
+ },
+ "EgNiklas": {
+  "name": "Niklas Eg",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "EikingOdd Christian": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "ElissondeKenny": {
+  "name": "Kenny Elissonde",
+  "rank": 0,
+  "wins": 2,
+  "pts": 32
+ },
+ "ErvitiImanol": {
+  "name": "Imanol Erviti",
+  "rank": 0,
+  "wins": 3,
+  "pts": 77
+ },
+ "EvenepoelRemco": {
+  "name": "Remco Evenepoel",
+  "rank": 4,
+  "wins": 74,
+  "pts": 1230
+ },
+ "EwanCaleb": {
+  "name": "Caleb Ewan",
+  "rank": 0,
+  "wins": 65,
+  "pts": 70
+ },
+ "FedorovYevgeniy": {
+  "name": "Yevgeniy Fedorov",
+  "rank": 132,
+  "wins": 12,
+  "pts": 290
+ },
+ "FellineFabio": {
+  "name": "Fabio Felline",
+  "rank": 0,
+  "wins": 14,
+  "pts": 0
+ },
+ "FerronValentin": {
+  "name": "Valentin Ferron",
+  "rank": 665,
+  "wins": 4,
+  "pts": 77
+ },
+ "FlynnSean": {
+  "name": "Sean Flynn",
+  "rank": 718,
+  "wins": 0,
+  "pts": 16
+ },
+ "FormoloDavide": {
+  "name": "Davide Formolo",
+  "rank": 624,
+  "wins": 6,
+  "pts": 5
+ },
+ "FossTobias": {
+  "name": "Tobias Foss",
+  "rank": 625,
+  "wins": 6,
+  "pts": 42
+ },
+ "FraileOmar": {
+  "name": "Omar Fraile",
+  "rank": 1948,
+  "wins": 8,
+  "pts": 15
+ },
+ "FredheimStian": {
+  "name": "Stian Fredheim",
+  "rank": 592,
+  "wins": 1,
+  "pts": 7
+ },
+ "FrisonFrederik": {
+  "name": "Frederik Frison",
+  "rank": 1065,
+  "wins": 0,
+  "pts": 25
+ },
+ "FuglsangJakob": {
+  "name": "Jakob Fuglsang",
+  "rank": 0,
+  "wins": 27,
+  "pts": 43
+ },
+ "GachignardThomas": {
+  "name": "Thomas Gachignard",
+  "rank": 510,
+  "wins": 1,
+  "pts": 33
+ },
+ "GallFelix": {
+  "name": "Felix Gall",
+  "rank": 7,
+  "wins": 2,
+  "pts": 857
+ },
+ "GallopinTony": {
+  "name": "Tony Gallopin",
+  "rank": 0,
+  "wins": 12,
+  "pts": 175
+ },
+ "GannaFilippo": {
+  "name": "Filippo Ganna",
+  "rank": 64,
+  "wins": 40,
+  "pts": 439
+ },
+ "Garc\u00eda CortinaIv\u00e1n": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Garc\u00eda PiernaRa\u00fal": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "GauduDavid": {
+  "name": "David Gaudu",
+  "rank": 308,
+  "wins": 13,
+  "pts": 71
+ },
+ "GautierCyril": {
+  "name": "Cyril Gautier",
+  "rank": 0,
+  "wins": 5,
+  "pts": 12
+ },
+ "GaviriaFernando": {
+  "name": "Fernando Gaviria",
+  "rank": 254,
+  "wins": 52,
+  "pts": 203
+ },
+ "Gee-WestDerek": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "GenietsKevin": {
+  "name": "Kevin Geniets",
+  "rank": 787,
+  "wins": 5,
+  "pts": 40
+ },
+ "Geoghegan HartTao": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Gesbert\u00c9lie": {
+  "name": "\u00c9lie Gesbert",
+  "rank": 0,
+  "wins": 2,
+  "pts": 8
+ },
+ "GeschkeSimon": {
+  "name": "Simon Geschke",
+  "rank": 0,
+  "wins": 3,
+  "pts": 208
+ },
+ "GesinkRobert": {
+  "name": "Robert Gesink",
+  "rank": 0,
+  "wins": 13,
+  "pts": 0
+ },
+ "GhysRobbe": {
+  "name": "Robbe Ghys",
+  "rank": 1964,
+  "wins": 1,
+  "pts": 5
+ },
+ "GibbonsRyan": {
+  "name": "Ryan Gibbons",
+  "rank": 1414,
+  "wins": 10,
+  "pts": 10
+ },
+ "GilbertPhilippe": {
+  "name": "Philippe Gilbert",
+  "rank": 0,
+  "wins": 80,
+  "pts": 0
+ },
+ "GirmayBiniam": {
+  "name": "Biniam Girmay",
+  "rank": 54,
+  "wins": 18,
+  "pts": 413
+ },
+ "GodonDorian": {
+  "name": "Dorian Godon",
+  "rank": 33,
+  "wins": 21,
+  "pts": 534
+ },
+ "GoglMichael": {
+  "name": "Michael Gogl",
+  "rank": 1022,
+  "wins": 0,
+  "pts": 25
+ },
+ "GoldsteinOmer": {
+  "name": "Omer Goldstein",
+  "rank": 634,
+  "wins": 4,
+  "pts": 82
+ },
+ "GoossensKobe": {
+  "name": "Kobe Goossens",
+  "rank": 0,
+  "wins": 2,
+  "pts": 32
+ },
+ "GougeardAlexis": {
+  "name": "Alexis Gougeard",
+  "rank": 0,
+  "wins": 11,
+  "pts": 0
+ },
+ "GradekKamil": {
+  "name": "Kamil Gradek",
+  "rank": 810,
+  "wins": 3,
+  "pts": 20
+ },
+ "GregaardJonas": {
+  "name": "Jonas Gregaard",
+  "rank": 1146,
+  "wins": 0,
+  "pts": 50
+ },
+ "GreipelAndr\u00e9": {
+  "name": "Andr\u00e9 Greipel",
+  "rank": 0,
+  "wins": 158,
+  "pts": 0
+ },
+ "GrellierFabien": {
+  "name": "Fabien Grellier",
+  "rank": 1954,
+  "wins": 0,
+  "pts": 0
+ },
+ "GrignardS\u00e9bastien": {
+  "name": "S\u00e9bastien Grignard",
+  "rank": 669,
+  "wins": 0,
+  "pts": 30
+ },
+ "GroenewegenDylan": {
+  "name": "Dylan Groenewegen",
+  "rank": 34,
+  "wins": 81,
+  "pts": 692
+ },
+ "GrovesKaden": {
+  "name": "Kaden Groves",
+  "rank": 289,
+  "wins": 21,
+  "pts": 7
+ },
+ "GruzdevDmitriy": {
+  "name": "Dmitriy Gruzdev",
+  "rank": 0,
+  "wins": 10,
+  "pts": 65
+ },
+ "Gr\u00e9goireRomain": {
+  "name": "Romain Gr\u00e9goire",
+  "rank": 17,
+  "wins": 13,
+  "pts": 705
+ },
+ "GuarnieriJacopo": {
+  "name": "Jacopo Guarnieri",
+  "rank": 0,
+  "wins": 4,
+  "pts": 15
+ },
+ "GuerreiroRuben": {
+  "name": "Ruben Guerreiro",
+  "rank": 1413,
+  "wins": 5,
+  "pts": 161
+ },
+ "GuglielmiSimon": {
+  "name": "Simon Guglielmi",
+  "rank": 977,
+  "wins": 0,
+  "pts": 20
+ },
+ "HaigJack": {
+  "name": "Jack Haig",
+  "rank": 618,
+  "wins": 2,
+  "pts": 60
+ },
+ "HallerMarco": {
+  "name": "Marco Haller",
+  "rank": 416,
+  "wins": 6,
+  "pts": 48
+ },
+ "HamiltonChris": {
+  "name": "Chris Hamilton",
+  "rank": 456,
+  "wins": 0,
+  "pts": 82
+ },
+ "HamiltonLucas": {
+  "name": "Lucas Hamilton",
+  "rank": 889,
+  "wins": 4,
+  "pts": 25
+ },
+ "HarperChris": {
+  "name": "Chris Harper",
+  "rank": 243,
+  "wins": 4,
+  "pts": 257
+ },
+ "HealyBen": {
+  "name": "Ben Healy",
+  "rank": 38,
+  "wins": 10,
+  "pts": 158
+ },
+ "HermansBen": {
+  "name": "Ben Hermans",
+  "rank": 0,
+  "wins": 19,
+  "pts": 0
+ },
+ "HermansQuinten": {
+  "name": "Quinten Hermans",
+  "rank": 127,
+  "wins": 3,
+  "pts": 184
+ },
+ "HiguitaSergio": {
+  "name": "Sergio Higuita",
+  "rank": 124,
+  "wins": 10,
+  "pts": 217
+ },
+ "HindleyJai": {
+  "name": "Jai Hindley",
+  "rank": 35,
+  "wins": 9,
+  "pts": 492
+ },
+ "HirschiMarc": {
+  "name": "Marc Hirschi",
+  "rank": 130,
+  "wins": 24,
+  "pts": 67
+ },
+ "HirtJan": {
+  "name": "Jan Hirt",
+  "rank": 376,
+  "wins": 5,
+  "pts": 160
+ },
+ "HoelgaardMarkus": {
+  "name": "Markus Hoelgaard",
+  "rank": 356,
+  "wins": 5,
+  "pts": 57
+ },
+ "HofstetterHugo": {
+  "name": "Hugo Hofstetter",
+  "rank": 306,
+  "wins": 3,
+  "pts": 196
+ },
+ "HollensteinReto": {
+  "name": "Reto Hollenstein",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Honor\u00e9Mikkel Fr\u00f8lich": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "HouleHugo": {
+  "name": "Hugo Houle",
+  "rank": 812,
+  "wins": 3,
+  "pts": 25
+ },
+ "ImpeyDaryl": {
+  "name": "Daryl Impey",
+  "rank": 0,
+  "wins": 30,
+  "pts": 29
+ },
+ "IzagirreGorka": {
+  "name": "Gorka Izagirre",
+  "rank": 0,
+  "wins": 9,
+  "pts": 27
+ },
+ "IzagirreIon": {
+  "name": "Ion Izagirre",
+  "rank": 44,
+  "wins": 19,
+  "pts": 634
+ },
+ "JakobsenFabio": {
+  "name": "Fabio Jakobsen",
+  "rank": 1605,
+  "wins": 46,
+  "pts": 10
+ },
+ "Janse van RensburgReinardt": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "JansenAmund Gr\u00f8ndahl": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Jeanni\u00e8reEmilien": {
+  "name": "Emilien Jeanni\u00e8re",
+  "rank": 67,
+  "wins": 5,
+  "pts": 221
+ },
+ "JegatJordan": {
+  "name": "Jordan Jegat",
+  "rank": 74,
+  "wins": 1,
+  "pts": 241
+ },
+ "JohannessenAnders Halland": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "JohannessenTobias Halland": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "JorgensonMatteo": {
+  "name": "Matteo Jorgenson",
+  "rank": 32,
+  "wins": 5,
+  "pts": 590
+ },
+ "JungelsBob": {
+  "name": "Bob Jungels",
+  "rank": 570,
+  "wins": 27,
+  "pts": 10
+ },
+ "Juul-JensenChristopher": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "KeldermanWilco": {
+  "name": "Wilco Kelderman",
+  "rank": 566,
+  "wins": 4,
+  "pts": 37
+ },
+ "KeukeleireJens": {
+  "name": "Jens Keukeleire",
+  "rank": 0,
+  "wins": 11,
+  "pts": 61
+ },
+ "KirschAlex": {
+  "name": "Alex Kirsch",
+  "rank": 1125,
+  "wins": 2,
+  "pts": 17
+ },
+ "KlugeRoger": {
+  "name": "Roger Kluge",
+  "rank": 0,
+  "wins": 5,
+  "pts": 0
+ },
+ "KochJonas": {
+  "name": "Jonas Koch",
+  "rank": 1600,
+  "wins": 0,
+  "pts": 38
+ },
+ "KonradPatrick": {
+  "name": "Patrick Konrad",
+  "rank": 839,
+  "wins": 3,
+  "pts": 35
+ },
+ "Kragh AndersenS\u00f8ren": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "KreuzigerRoman": {
+  "name": "Roman Kreuziger",
+  "rank": 0,
+  "wins": 15,
+  "pts": 20
+ },
+ "KriegerAlexander": {
+  "name": "Alexander Krieger",
+  "rank": 0,
+  "wins": 0,
+  "pts": 50
+ },
+ "KristoffAlexander": {
+  "name": "Alexander Kristoff",
+  "rank": 633,
+  "wins": 98,
+  "pts": 380
+ },
+ "KronAndreas": {
+  "name": "Andreas Kron",
+  "rank": 199,
+  "wins": 4,
+  "pts": 268
+ },
+ "KruijswijkSteven": {
+  "name": "Steven Kruijswijk",
+  "rank": 1141,
+  "wins": 2,
+  "pts": 20
+ },
+ "KulsetJohannes": {
+  "name": "Johannes Kulset",
+  "rank": 112,
+  "wins": 0,
+  "pts": 189
+ },
+ "KussSepp": {
+  "name": "Sepp Kuss",
+  "rank": 69,
+  "wins": 12,
+  "pts": 228
+ },
+ "K\u00e4mnaLennard": {
+  "name": "Lennard K\u00e4mna",
+  "rank": 362,
+  "wins": 9,
+  "pts": 39
+ },
+ "K\u00fcngStefan": {
+  "name": "Stefan K\u00fcng",
+  "rank": 369,
+  "wins": 30,
+  "pts": 20
+ },
+ "LadagnousMatthieu": {
+  "name": "Matthieu Ladagnous",
+  "rank": 0,
+  "wins": 11,
+  "pts": 25
+ },
+ "LaengenVegard Stake": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "LafayVictor": {
+  "name": "Victor Lafay",
+  "rank": 297,
+  "wins": 4,
+  "pts": 271
+ },
+ "LampaertYves": {
+  "name": "Yves Lampaert",
+  "rank": 632,
+  "wins": 16,
+  "pts": 25
+ },
+ "LandaMikel": {
+  "name": "Mikel Landa",
+  "rank": 380,
+  "wins": 16,
+  "pts": 40
+ },
+ "LapeiraPaul": {
+  "name": "Paul Lapeira",
+  "rank": 66,
+  "wins": 8,
+  "pts": 349
+ },
+ "LaporteChristophe": {
+  "name": "Christophe Laporte",
+  "rank": 49,
+  "wins": 34,
+  "pts": 554
+ },
+ "LatourPierre": {
+  "name": "Pierre Latour",
+  "rank": 1019,
+  "wins": 7,
+  "pts": 234
+ },
+ "LauranceAxel": {
+  "name": "Axel Laurance",
+  "rank": 148,
+  "wins": 9,
+  "pts": 233
+ },
+ "LazkanoOier": {
+  "name": "Oier Lazkano",
+  "rank": 0,
+  "wins": 7,
+  "pts": 15
+ },
+ "Le BerreMathis": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Le GacOlivier": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "LecroqJ\u00e9r\u00e9my": {
+  "name": "J\u00e9r\u00e9my Lecroq",
+  "rank": 1564,
+  "wins": 0,
+  "pts": 6
+ },
+ "LedanoisK\u00e9vin": {
+  "name": "K\u00e9vin Ledanois",
+  "rank": 0,
+  "wins": 0,
+  "pts": 10
+ },
+ "LeknessundAndreas": {
+  "name": "Andreas Leknessund",
+  "rank": 84,
+  "wins": 7,
+  "pts": 392
+ },
+ "LemmenBart": {
+  "name": "Bart Lemmen",
+  "rank": 384,
+  "wins": 0,
+  "pts": 71
+ },
+ "LemoineCyril": {
+  "name": "Cyril Lemoine",
+  "rank": 0,
+  "wins": 0,
+  "pts": 50
+ },
+ "LienhardFabian": {
+  "name": "Fabian Lienhard",
+  "rank": 834,
+  "wins": 0,
+  "pts": 25
+ },
+ "LipowitzFlorian": {
+  "name": "Florian Lipowitz",
+  "rank": 14,
+  "wins": 3,
+  "pts": 792
+ },
+ "LouvelMatis": {
+  "name": "Matis Louvel",
+  "rank": 472,
+  "wins": 2,
+  "pts": 49
+ },
+ "L\u00f3pezJuan Pedro": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "L\u00f3pezMiguel \u00c1ngel": {
+  "name": "Miguel L\u00f3pez",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "MadouasValentin": {
+  "name": "Valentin Madouas",
+  "rank": 187,
+  "wins": 7,
+  "pts": 78
+ },
+ "MarcatoMarco": {
+  "name": "Marco Marcato",
+  "rank": 0,
+  "wins": 5,
+  "pts": 20
+ },
+ "MartinDan": {
+  "name": "Dan Martin",
+  "rank": 0,
+  "wins": 22,
+  "pts": 0
+ },
+ "MartinGuillaume": {
+  "name": "Guillaume Martin",
+  "rank": 162,
+  "wins": 11,
+  "pts": 215
+ },
+ "MartinTony": {
+  "name": "Tony Martin",
+  "rank": 0,
+  "wins": 67,
+  "pts": 164
+ },
+ "MartinezLenny": {
+  "name": "Lenny Martinez",
+  "rank": 26,
+  "wins": 11,
+  "pts": 817
+ },
+ "Mart\u00ednezDaniel Felipe": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "MasEnric": {
+  "name": "Enric Mas",
+  "rank": 374,
+  "wins": 6,
+  "pts": 114
+ },
+ "MatthewsMichael": {
+  "name": "Michael Matthews",
+  "rank": 152,
+  "wins": 44,
+  "pts": 101
+ },
+ "MayrhoferMarius": {
+  "name": "Marius Mayrhofer",
+  "rank": 294,
+  "wins": 2,
+  "pts": 35
+ },
+ "McLayDaniel": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "McNultyBrandon": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "MeeusJordi": {
+  "name": "Jordi Meeus",
+  "rank": 30,
+  "wins": 19,
+  "pts": 608
+ },
+ "MeintjesLouis": {
+  "name": "Louis Meintjes",
+  "rank": 599,
+  "wins": 7,
+  "pts": 205
+ },
+ "MerlierTim": {
+  "name": "Tim Merlier",
+  "rank": 41,
+  "wins": 71,
+  "pts": 365
+ },
+ "MeurisseXandro": {
+  "name": "Xandro Meurisse",
+  "rank": 285,
+  "wins": 5,
+  "pts": 35
+ },
+ "MezgecLuka": {
+  "name": "Luka Mezgec",
+  "rank": 760,
+  "wins": 19,
+  "pts": 31
+ },
+ "MilanJonathan": {
+  "name": "Jonathan Milan",
+  "rank": 27,
+  "wins": 32,
+  "pts": 544
+ },
+ "Mohori\u010dMatej": {
+  "name": "Matej Mohori\u010d",
+  "rank": 176,
+  "wins": 25,
+  "pts": 167
+ },
+ "MolardRudy": {
+  "name": "Rudy Molard",
+  "rank": 250,
+  "wins": 2,
+  "pts": 111
+ },
+ "MollemaBauke": {
+  "name": "Bauke Mollema",
+  "rank": 401,
+  "wins": 18,
+  "pts": 15
+ },
+ "MosconGianni": {
+  "name": "Gianni Moscon",
+  "rank": 557,
+  "wins": 11,
+  "pts": 75
+ },
+ "MozzatoLuca": {
+  "name": "Luca Mozzato",
+  "rank": 135,
+  "wins": 3,
+  "pts": 332
+ },
+ "M\u00e4rklNiklas": {
+  "name": "Niklas M\u00e4rkl",
+  "rank": 705,
+  "wins": 0,
+  "pts": 40
+ },
+ "M\u00fchlbergerGregor": {
+  "name": "Gregor M\u00fchlberger",
+  "rank": 201,
+  "wins": 9,
+  "pts": 123
+ },
+ "NabermanTim": {
+  "name": "Tim Naberman",
+  "rank": 621,
+  "wins": 0,
+  "pts": 40
+ },
+ "NaesenOliver": {
+  "name": "Oliver Naesen",
+  "rank": 357,
+  "wins": 5,
+  "pts": 107
+ },
+ "NeilandsKrists": {
+  "name": "Krists Neilands",
+  "rank": 358,
+  "wins": 9,
+  "pts": 106
+ },
+ "NibaliVincenzo": {
+  "name": "Vincenzo Nibali",
+  "rank": 0,
+  "wins": 54,
+  "pts": 516
+ },
+ "NieuwenhuisJoris": {
+  "name": "Joris Nieuwenhuis",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "NieveMikel": {
+  "name": "Mikel Nieve",
+  "rank": 0,
+  "wins": 5,
+  "pts": 19
+ },
+ "NivGuy": {
+  "name": "Guy Niv",
+  "rank": 0,
+  "wins": 1,
+  "pts": 41
+ },
+ "NizzoloGiacomo": {
+  "name": "Giacomo Nizzolo",
+  "rank": 1204,
+  "wins": 31,
+  "pts": 148
+ },
+ "NysThibau": {
+  "name": "Thibau Nys",
+  "rank": 683,
+  "wins": 12,
+  "pts": 32
+ },
+ "O'ConnorBen": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "OliveiraNelson": {
+  "name": "Nelson Oliveira",
+  "rank": 529,
+  "wins": 6,
+  "pts": 71
+ },
+ "OnleyOscar": {
+  "name": "Oscar Onley",
+  "rank": 19,
+  "wins": 2,
+  "pts": 199
+ },
+ "OssDaniel": {
+  "name": "Daniel Oss",
+  "rank": 0,
+  "wins": 2,
+  "pts": 0
+ },
+ "Owsian\u0141ukasz": {
+  "name": "\u0141ukasz Owsian",
+  "rank": 2430,
+  "wins": 0,
+  "pts": 1
+ },
+ "PacherQuentin": {
+  "name": "Quentin Pacher",
+  "rank": 572,
+  "wins": 0,
+  "pts": 72
+ },
+ "PageHugo": {
+  "name": "Hugo Page",
+  "rank": 469,
+  "wins": 1,
+  "pts": 72
+ },
+ "Paret-PeintreAur\u00e9lien": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Paret-PeintreValentin": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "PasqualonAndrea": {
+  "name": "Andrea Pasqualon",
+  "rank": 1363,
+  "wins": 9,
+  "pts": 56
+ },
+ "PedersenCasper": {
+  "name": "Casper Pedersen",
+  "rank": 576,
+  "wins": 3,
+  "pts": 84
+ },
+ "PedersenMads": {
+  "name": "Mads Pedersen",
+  "rank": 28,
+  "wins": 60,
+  "pts": 488
+ },
+ "PedreroAntonio": {
+  "name": "Antonio Pedrero",
+  "rank": 751,
+  "wins": 3,
+  "pts": 77
+ },
+ "Penho\u00ebtPaul": {
+  "name": "Paul Penho\u00ebt",
+  "rank": 106,
+  "wins": 2,
+  "pts": 221
+ },
+ "PerezAnthony": {
+  "name": "Anthony Perez",
+  "rank": 1301,
+  "wins": 5,
+  "pts": 0
+ },
+ "PetersNans": {
+  "name": "Nans Peters",
+  "rank": 917,
+  "wins": 3,
+  "pts": 90
+ },
+ "PetitAdrien": {
+  "name": "Adrien Petit",
+  "rank": 1952,
+  "wins": 9,
+  "pts": 15
+ },
+ "PhilipsenJasper": {
+  "name": "Jasper Philipsen",
+  "rank": 8,
+  "wins": 61,
+  "pts": 848
+ },
+ "PichonLaurent": {
+  "name": "Laurent Pichon",
+  "rank": 0,
+  "wins": 3,
+  "pts": 113
+ },
+ "PidcockTom": {
+  "name": "Tom Pidcock",
+  "rank": 9,
+  "wins": 13,
+  "pts": 821
+ },
+ "PinotThibaut": {
+  "name": "Thibaut Pinot",
+  "rank": 0,
+  "wins": 33,
+  "pts": 1146
+ },
+ "PithieLaurence": {
+  "name": "Laurence Pithie",
+  "rank": 48,
+  "wins": 7,
+  "pts": 797
+ },
+ "PlanckaertEdward": {
+  "name": "Edward Planckaert",
+  "rank": 497,
+  "wins": 1,
+  "pts": 44
+ },
+ "PlappLuke": {
+  "name": "Luke Plapp",
+  "rank": 55,
+  "wins": 8,
+  "pts": 530
+ },
+ "PoelsWout": {
+  "name": "Wout Poels",
+  "rank": 387,
+  "wins": 26,
+  "pts": 142
+ },
+ "Poga\u010darTadej": {
+  "name": "Tadej Poga\u010dar",
+  "rank": 1,
+  "wins": 117,
+  "pts": 1770
+ },
+ "PolancJan": {
+  "name": "Jan Polanc",
+  "rank": 0,
+  "wins": 4,
+  "pts": 376
+ },
+ "PolittNils": {
+  "name": "Nils Politt",
+  "rank": 256,
+  "wins": 8,
+  "pts": 189
+ },
+ "PorteRichie": {
+  "name": "Richie Porte",
+  "rank": 0,
+  "wins": 33,
+  "pts": 0
+ },
+ "PowlessNeilson": {
+  "name": "Neilson Powless",
+  "rank": 273,
+  "wins": 8,
+  "pts": 0
+ },
+ "PozzovivoDomenico": {
+  "name": "Domenico Pozzovivo",
+  "rank": 296,
+  "wins": 13,
+  "pts": 225
+ },
+ "ProdhommeNicolas": {
+  "name": "Nicolas Prodhomme",
+  "rank": 122,
+  "wins": 6,
+  "pts": 66
+ },
+ "P\u00e9richonPierre-Luc": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "P\u00f6stlbergerLukas": {
+  "name": "Lukas P\u00f6stlberger",
+  "rank": 0,
+  "wins": 6,
+  "pts": 0
+ },
+ "QuinnSean": {
+  "name": "Sean Quinn",
+  "rank": 694,
+  "wins": 2,
+  "pts": 25
+ },
+ "QuintanaNairo": {
+  "name": "Nairo Quintana",
+  "rank": 245,
+  "wins": 53,
+  "pts": 241
+ },
+ "ReichenbachS\u00e9bastien": {
+  "name": "S\u00e9bastien Reichenbach",
+  "rank": 0,
+  "wins": 2,
+  "pts": 47
+ },
+ "ReindersElmar": {
+  "name": "Elmar Reinders",
+  "rank": 484,
+  "wins": 0,
+  "pts": 91
+ },
+ "RenardAlexis": {
+  "name": "Alexis Renard",
+  "rank": 173,
+  "wins": 0,
+  "pts": 284
+ },
+ "RexLaurenz": {
+  "name": "Laurenz Rex",
+  "rank": 303,
+  "wins": 1,
+  "pts": 180
+ },
+ "RezaK\u00e9vin": {
+  "name": "K\u00e9vin Reza",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "RiabushenkoAlexandr": {
+  "name": "Alexandr Riabushenko",
+  "rank": 0,
+  "wins": 1,
+  "pts": 10
+ },
+ "RickaertJonas": {
+  "name": "Jonas Rickaert",
+  "rank": 663,
+  "wins": 1,
+  "pts": 25
+ },
+ "RocheNicolas": {
+  "name": "Nicolas Roche",
+  "rank": 0,
+  "wins": 12,
+  "pts": 0
+ },
+ "Rogli\u010dPrimo\u017e": {
+  "name": "Primo\u017e Rogli\u010d",
+  "rank": 50,
+  "wins": 91,
+  "pts": 311
+ },
+ "RojasJos\u00e9 Joaqu\u00edn": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "RollandPierre": {
+  "name": "Pierre Rolland",
+  "rank": 0,
+  "wins": 12,
+  "pts": 0
+ },
+ "RomoJavier": {
+  "name": "Javier Romo",
+  "rank": 217,
+  "wins": 1,
+  "pts": 187
+ },
+ "RosaDiego": {
+  "name": "Diego Rosa",
+  "rank": 0,
+  "wins": 3,
+  "pts": 0
+ },
+ "RotaLorenzo": {
+  "name": "Lorenzo Rota",
+  "rank": 556,
+  "wins": 2,
+  "pts": 66
+ },
+ "RoweLuke": {
+  "name": "Luke Rowe",
+  "rank": 0,
+  "wins": 2,
+  "pts": 15
+ },
+ "RubioEiner": {
+  "name": "Einer Rubio",
+  "rank": 336,
+  "wins": 2,
+  "pts": 103
+ },
+ "RussoCl\u00e9ment": {
+  "name": "Cl\u00e9ment Russo",
+  "rank": 453,
+  "wins": 1,
+  "pts": 54
+ },
+ "RutschJonas": {
+  "name": "Jonas Rutsch",
+  "rank": 521,
+  "wins": 0,
+  "pts": 60
+ },
+ "SaganPeter": {
+  "name": "Peter Sagan",
+  "rank": 0,
+  "wins": 121,
+  "pts": 0
+ },
+ "SbaragliKristian": {
+  "name": "Kristian Sbaragli",
+  "rank": 2432,
+  "wins": 1,
+  "pts": 16
+ },
+ "SchachmannMaximilian": {
+  "name": "Maximilian Schachmann",
+  "rank": 494,
+  "wins": 16,
+  "pts": 57
+ },
+ "SchellingIde": {
+  "name": "Ide Schelling",
+  "rank": 1611,
+  "wins": 3,
+  "pts": 0
+ },
+ "SchmidMauro": {
+  "name": "Mauro Schmid",
+  "rank": 16,
+  "wins": 13,
+  "pts": 1055
+ },
+ "SchultzNick": {
+  "name": "Nick Schultz",
+  "rank": 704,
+  "wins": 3,
+  "pts": 50
+ },
+ "Sch\u00e4rMichael": {
+  "name": "Michael Sch\u00e4r",
+  "rank": 0,
+  "wins": 2,
+  "pts": 40
+ },
+ "Sch\u00f6nbergerSebastian": {
+  "name": "Sebastian Sch\u00f6nberger",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "ScotsonCallum": {
+  "name": "Callum Scotson",
+  "rank": 516,
+  "wins": 0,
+  "pts": 47
+ },
+ "ScotsonMiles": {
+  "name": "Miles Scotson",
+  "rank": 1603,
+  "wins": 2,
+  "pts": 40
+ },
+ "ShawJames": {
+  "name": "James Shaw",
+  "rank": 619,
+  "wins": 0,
+  "pts": 32
+ },
+ "SicardRomain": {
+  "name": "Romain Sicard",
+  "rank": 0,
+  "wins": 1,
+  "pts": 70
+ },
+ "SimmonsQuinn": {
+  "name": "Quinn Simmons",
+  "rank": 91,
+  "wins": 8,
+  "pts": 160
+ },
+ "SimonJulien": {
+  "name": "Julien Simon",
+  "rank": 0,
+  "wins": 13,
+  "pts": 70
+ },
+ "SinkeldamRamon": {
+  "name": "Ramon Sinkeldam",
+  "rank": 0,
+  "wins": 7,
+  "pts": 0
+ },
+ "SivakovPavel": {
+  "name": "Pavel Sivakov",
+  "rank": 115,
+  "wins": 7,
+  "pts": 47
+ },
+ "SmithDion": {
+  "name": "Dion Smith",
+  "rank": 642,
+  "wins": 2,
+  "pts": 50
+ },
+ "SobreroMatteo": {
+  "name": "Matteo Sobrero",
+  "rank": 146,
+  "wins": 3,
+  "pts": 158
+ },
+ "SolerMarc": {
+  "name": "Marc Soler",
+  "rank": 141,
+  "wins": 11,
+  "pts": 184
+ },
+ "SoupeGeoffrey": {
+  "name": "Geoffrey Soupe",
+  "rank": 1283,
+  "wins": 4,
+  "pts": 29
+ },
+ "StannardRobert": {
+  "name": "Robert Stannard",
+  "rank": 606,
+  "wins": 0,
+  "pts": 53
+ },
+ "StewartJake": {
+  "name": "Jake Stewart",
+  "rank": 585,
+  "wins": 4,
+  "pts": 18
+ },
+ "StorerMichael": {
+  "name": "Michael Storer",
+  "rank": 40,
+  "wins": 10,
+  "pts": 443
+ },
+ "StrongCorbin": {
+  "name": "Corbin Strong",
+  "rank": 56,
+  "wins": 9,
+  "pts": 432
+ },
+ "StuyvenJasper": {
+  "name": "Jasper Stuyven",
+  "rank": 65,
+  "wins": 9,
+  "pts": 540
+ },
+ "SweenyHarry": {
+  "name": "Harry Sweeny",
+  "rank": 276,
+  "wins": 0,
+  "pts": 172
+ },
+ "SwiftConnor": {
+  "name": "Connor Swift",
+  "rank": 571,
+  "wins": 3,
+  "pts": 65
+ },
+ "S\u00e1nchezLuis Le\u00f3n": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "S\u00e9n\u00e9chalFlorian": {
+  "name": "Florian S\u00e9n\u00e9chal",
+  "rank": 686,
+  "wins": 5,
+  "pts": 50
+ },
+ "TejadaHarold": {
+  "name": "Harold Tejada",
+  "rank": 71,
+  "wins": 2,
+  "pts": 370
+ },
+ "TeunissenMike": {
+  "name": "Mike Teunissen",
+  "rank": 143,
+  "wins": 8,
+  "pts": 199
+ },
+ "TeunsDylan": {
+  "name": "Dylan Teuns",
+  "rank": 366,
+  "wins": 14,
+  "pts": 74
+ },
+ "TheunsEdward": {
+  "name": "Edward Theuns",
+  "rank": 565,
+  "wins": 10,
+  "pts": 74
+ },
+ "ThijssenGerben": {
+  "name": "Gerben Thijssen",
+  "rank": 195,
+  "wins": 9,
+  "pts": 212
+ },
+ "ThomasBenjamin": {
+  "name": "Benjamin Thomas",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "ThomasGeraint": {
+  "name": "Geraint Thomas",
+  "rank": 1140,
+  "wins": 25,
+  "pts": 52
+ },
+ "TillerRasmus": {
+  "name": "Rasmus Tiller",
+  "rank": 155,
+  "wins": 6,
+  "pts": 257
+ },
+ "TorresAlbert": {
+  "name": "Albert Torres",
+  "rank": 1588,
+  "wins": 0,
+  "pts": 10
+ },
+ "Touz\u00e9Damien": {
+  "name": "Damien Touz\u00e9",
+  "rank": 940,
+  "wins": 0,
+  "pts": 0
+ },
+ "TratnikJan": {
+  "name": "Jan Tratnik",
+  "rank": 768,
+  "wins": 12,
+  "pts": 47
+ },
+ "TrentinMatteo": {
+  "name": "Matteo Trentin",
+  "rank": 73,
+  "wins": 32,
+  "pts": 295
+ },
+ "TronchonBastien": {
+  "name": "Bastien Tronchon",
+  "rank": 449,
+  "wins": 2,
+  "pts": 87
+ },
+ "TurgisAnthony": {
+  "name": "Anthony Turgis",
+  "rank": 126,
+  "wins": 7,
+  "pts": 312
+ },
+ "TurnerBen": {
+  "name": "Ben Turner",
+  "rank": 113,
+  "wins": 3,
+  "pts": 189
+ },
+ "TusveldMartijn": {
+  "name": "Martijn Tusveld",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Vako\u010dPetr": {
+  "name": "Petr Vako\u010d",
+  "rank": 0,
+  "wins": 7,
+  "pts": 0
+ },
+ "VallsRafael": {
+  "name": "Rafael Valls",
+  "rank": 0,
+  "wins": 4,
+  "pts": 20
+ },
+ "ValverdeAlejandro": {
+  "name": "Alejandro Valverde",
+  "rank": 0,
+  "wins": 133,
+  "pts": 0
+ },
+ "Van AsbroeckTom": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van AvermaetGreg": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van EetveltLennert": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van GilsMaxim": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van HooydonckNathan": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van KeirsbulckGuillaume": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van LerbergheBert": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van MoerBrent": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van WilderIlan": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Van der SandeTosh": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "VanhouckeHarm": {
+  "name": "Harm Vanhoucke",
+  "rank": 780,
+  "wins": 0,
+  "pts": 26
+ },
+ "VauquelinK\u00e9vin": {
+  "name": "K\u00e9vin Vauquelin",
+  "rank": 23,
+  "wins": 10,
+  "pts": 473
+ },
+ "VelascoSimone": {
+  "name": "Simone Velasco",
+  "rank": 160,
+  "wins": 5,
+  "pts": 65
+ },
+ "VenturiniCl\u00e9ment": {
+  "name": "Cl\u00e9ment Venturini",
+  "rank": 77,
+  "wins": 5,
+  "pts": 477
+ },
+ "VermaerkeKevin": {
+  "name": "Kevin Vermaerke",
+  "rank": 175,
+  "wins": 0,
+  "pts": 140
+ },
+ "VermeerschFlorian": {
+  "name": "Florian Vermeersch",
+  "rank": 80,
+  "wins": 1,
+  "pts": 366
+ },
+ "VermeerschGianni": {
+  "name": "Gianni Vermeersch",
+  "rank": 171,
+  "wins": 4,
+  "pts": 282
+ },
+ "VeronaCarlos": {
+  "name": "Carlos Verona",
+  "rank": 612,
+  "wins": 2,
+  "pts": 37
+ },
+ "VerstryngeEmiel": {
+  "name": "Emiel Verstrynge",
+  "rank": 226,
+  "wins": 0,
+  "pts": 242
+ },
+ "VervaekeLouis": {
+  "name": "Louis Vervaeke",
+  "rank": 496,
+  "wins": 1,
+  "pts": 46
+ },
+ "VingegaardJonas": {
+  "name": "Jonas Vingegaard",
+  "rank": 2,
+  "wins": 54,
+  "pts": 1579
+ },
+ "VivianiElia": {
+  "name": "Elia Viviani",
+  "rank": 515,
+  "wins": 90,
+  "pts": 150
+ },
+ "VlasovAleksandr": {
+  "name": "Aleksandr Vlasov",
+  "rank": 102,
+  "wins": 12,
+  "pts": 388
+ },
+ "VliegenLo\u00efc": {
+  "name": "Lo\u00efc Vliegen",
+  "rank": 0,
+  "wins": 4,
+  "pts": 5
+ },
+ "VuillermozAlexis": {
+  "name": "Alexis Vuillermoz",
+  "rank": 0,
+  "wins": 9,
+  "pts": 31
+ },
+ "WallaysJelle": {
+  "name": "Jelle Wallays",
+  "rank": 0,
+  "wins": 8,
+  "pts": 15
+ },
+ "WalscheidMax": {
+  "name": "Max Walscheid",
+  "rank": 280,
+  "wins": 13,
+  "pts": 213
+ },
+ "WatsonSamuel": {
+  "name": "Samuel Watson",
+  "rank": 167,
+  "wins": 6,
+  "pts": 158
+ },
+ "WellensTim": {
+  "name": "Tim Wellens",
+  "rank": 107,
+  "wins": 42,
+  "pts": 133
+ },
+ "WelsfordSam": {
+  "name": "Sam Welsford",
+  "rank": 255,
+  "wins": 13,
+  "pts": 255
+ },
+ "WeltenBram": {
+  "name": "Bram Welten",
+  "rank": 0,
+  "wins": 1,
+  "pts": 10
+ },
+ "WilliamsStephen": {
+  "name": "Stephen Williams",
+  "rank": 0,
+  "wins": 11,
+  "pts": 10
+ },
+ "WoodsMichael": {
+  "name": "Michael Woods",
+  "rank": 1143,
+  "wins": 16,
+  "pts": 0
+ },
+ "YatesAdam": {
+  "name": "Adam Yates",
+  "rank": 50,
+  "wins": 34,
+  "pts": 390
+ },
+ "YatesSimon": {
+  "name": "Simon Yates",
+  "rank": 208,
+  "wins": 36,
+  "pts": 928
+ },
+ "ZabelRick": {
+  "name": "Rick Zabel",
+  "rank": 0,
+  "wins": 2,
+  "pts": 17
+ },
+ "ZakarinIlnur": {
+  "name": "Ilnur Zakarin",
+  "rank": 0,
+  "wins": 8,
+  "pts": 0
+ },
+ "ZeitsAndrey": {
+  "name": "Andrey Zeits",
+  "rank": 0,
+  "wins": 3,
+  "pts": 161
+ },
+ "ZimmermannGeorg": {
+  "name": "Georg Zimmermann",
+  "rank": 161,
+  "wins": 5,
+  "pts": 300
+ },
+ "ZingleAxel": {
+  "name": "Axel Zingle",
+  "rank": 319,
+  "wins": 6,
+  "pts": 170
+ },
+ "Adam Yates": {
+  "name": "Adam Yates",
+  "rank": 50,
+  "wins": 34,
+  "pts": 390
+ },
+ "Adrien Petit": {
+  "name": "Adrien Petit",
+  "rank": 1952,
+  "wins": 9,
+  "pts": 15
+ },
+ "Albert Torres": {
+  "name": "Albert Torres",
+  "rank": 1588,
+  "wins": 0,
+  "pts": 10
+ },
+ "Alberto Bettiol": {
+  "name": "Alberto Bettiol",
+  "rank": 105,
+  "wins": 9,
+  "pts": 141
+ },
+ "Alberto Dainese": {
+  "name": "Alberto Dainese",
+  "rank": 293,
+  "wins": 7,
+  "pts": 58
+ },
+ "Alejandro Valverde": {
+  "name": "Alejandro Valverde",
+  "rank": 0,
+  "wins": 133,
+  "pts": 0
+ },
+ "Aleksandr Vlasov": {
+  "name": "Aleksandr Vlasov",
+  "rank": 102,
+  "wins": 12,
+  "pts": 388
+ },
+ "Alex Aranburu": {
+  "name": "Alex Aranburu",
+  "rank": 70,
+  "wins": 10,
+  "pts": 410
+ },
+ "Alex Baudin": {
+  "name": "Alex Baudin",
+  "rank": 68,
+  "wins": 3,
+  "pts": 536
+ },
+ "Alex Kirsch": {
+  "name": "Alex Kirsch",
+  "rank": 1125,
+  "wins": 2,
+  "pts": 17
+ },
+ "Alexander Krieger": {
+  "name": "Alexander Krieger",
+  "rank": 0,
+  "wins": 0,
+  "pts": 50
+ },
+ "Alexander Kristoff": {
+  "name": "Alexander Kristoff",
+  "rank": 633,
+  "wins": 98,
+  "pts": 380
+ },
+ "Alexandr Riabushenko": {
+  "name": "Alexandr Riabushenko",
+  "rank": 0,
+  "wins": 1,
+  "pts": 10
+ },
+ "Alexandre Delettre": {
+  "name": "Alexandre Delettre",
+  "rank": 83,
+  "wins": 0,
+  "pts": 223
+ },
+ "Alexis Gougeard": {
+  "name": "Alexis Gougeard",
+  "rank": 0,
+  "wins": 11,
+  "pts": 0
+ },
+ "Alexis Renard": {
+  "name": "Alexis Renard",
+  "rank": 173,
+  "wins": 0,
+  "pts": 284
+ },
+ "Alexis Vuillermoz": {
+  "name": "Alexis Vuillermoz",
+  "rank": 0,
+  "wins": 9,
+  "pts": 31
+ },
+ "Amaury Capiot": {
+  "name": "Amaury Capiot",
+  "rank": 514,
+  "wins": 3,
+  "pts": 58
+ },
+ "Andrea Bagioli": {
+  "name": "Andrea Bagioli",
+  "rank": 197,
+  "wins": 7,
+  "pts": 120
+ },
+ "Andrea Pasqualon": {
+  "name": "Andrea Pasqualon",
+  "rank": 1363,
+  "wins": 9,
+  "pts": 56
+ },
+ "Andreas Kron": {
+  "name": "Andreas Kron",
+  "rank": 199,
+  "wins": 4,
+  "pts": 268
+ },
+ "Andreas Leknessund": {
+  "name": "Andreas Leknessund",
+  "rank": 84,
+  "wins": 7,
+  "pts": 392
+ },
+ "Andrey Amador": {
+  "name": "Andrey Amador",
+  "rank": 0,
+  "wins": 2,
+  "pts": 5
+ },
+ "Andrey Zeits": {
+  "name": "Andrey Zeits",
+  "rank": 0,
+  "wins": 3,
+  "pts": 161
+ },
+ "Andr\u00e9 Greipel": {
+  "name": "Andr\u00e9 Greipel",
+  "rank": 0,
+  "wins": 158,
+  "pts": 0
+ },
+ "Anthon Charmig": {
+  "name": "Anthon Charmig",
+  "rank": 159,
+  "wins": 2,
+  "pts": 233
+ },
+ "Anthony Delaplace": {
+  "name": "Anthony Delaplace",
+  "rank": 1202,
+  "wins": 2,
+  "pts": 62
+ },
+ "Anthony Perez": {
+  "name": "Anthony Perez",
+  "rank": 1301,
+  "wins": 5,
+  "pts": 0
+ },
+ "Anthony Turgis": {
+  "name": "Anthony Turgis",
+  "rank": 126,
+  "wins": 7,
+  "pts": 312
+ },
+ "Antoine Duchesne": {
+  "name": "Antoine Duchesne",
+  "rank": 0,
+  "wins": 1,
+  "pts": 48
+ },
+ "Antonio Pedrero": {
+  "name": "Antonio Pedrero",
+  "rank": 751,
+  "wins": 3,
+  "pts": 77
+ },
+ "Arnaud D\u00e9mare": {
+  "name": "Arnaud D\u00e9mare",
+  "rank": 613,
+  "wins": 97,
+  "pts": 0
+ },
+ "Axel Laurance": {
+  "name": "Axel Laurance",
+  "rank": 148,
+  "wins": 9,
+  "pts": 233
+ },
+ "Axel Zingle": {
+  "name": "Axel Zingle",
+  "rank": 319,
+  "wins": 6,
+  "pts": 170
+ },
+ "Bart Lemmen": {
+  "name": "Bart Lemmen",
+  "rank": 384,
+  "wins": 0,
+  "pts": 71
+ },
+ "Bastien Tronchon": {
+  "name": "Bastien Tronchon",
+  "rank": 449,
+  "wins": 2,
+  "pts": 87
+ },
+ "Bauke Mollema": {
+  "name": "Bauke Mollema",
+  "rank": 401,
+  "wins": 18,
+  "pts": 15
+ },
+ "Ben Healy": {
+  "name": "Ben Healy",
+  "rank": 38,
+  "wins": 10,
+  "pts": 158
+ },
+ "Ben Hermans": {
+  "name": "Ben Hermans",
+  "rank": 0,
+  "wins": 19,
+  "pts": 0
+ },
+ "Ben Turner": {
+  "name": "Ben Turner",
+  "rank": 113,
+  "wins": 3,
+  "pts": 189
+ },
+ "Benjamin Thomas": {
+  "name": "Benjamin Thomas",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Beno\u00eet Cosnefroy": {
+  "name": "Beno\u00eet Cosnefroy",
+  "rank": 47,
+  "wins": 25,
+  "pts": 838
+ },
+ "Biniam Girmay": {
+  "name": "Biniam Girmay",
+  "rank": 52,
+  "wins": 19,
+  "pts": 413
+ },
+ "Bob Jungels": {
+  "name": "Bob Jungels",
+  "rank": 570,
+  "wins": 27,
+  "pts": 10
+ },
+ "Bram Welten": {
+  "name": "Bram Welten",
+  "rank": 0,
+  "wins": 1,
+  "pts": 10
+ },
+ "Bruno Armirail": {
+  "name": "Bruno Armirail",
+  "rank": 151,
+  "wins": 4,
+  "pts": 69
+ },
+ "Bryan Coquard": {
+  "name": "Bryan Coquard",
+  "rank": 145,
+  "wins": 55,
+  "pts": 317
+ },
+ "Caleb Ewan": {
+  "name": "Caleb Ewan",
+  "rank": 0,
+  "wins": 65,
+  "pts": 70
+ },
+ "Callum Scotson": {
+  "name": "Callum Scotson",
+  "rank": 516,
+  "wins": 0,
+  "pts": 47
+ },
+ "Carlos Barbero": {
+  "name": "Carlos Barbero",
+  "rank": 0,
+  "wins": 12,
+  "pts": 44
+ },
+ "Carlos Verona": {
+  "name": "Carlos Verona",
+  "rank": 612,
+  "wins": 2,
+  "pts": 37
+ },
+ "Casper Pedersen": {
+  "name": "Casper Pedersen",
+  "rank": 576,
+  "wins": 3,
+  "pts": 84
+ },
+ "Cedric Beullens": {
+  "name": "Cedric Beullens",
+  "rank": 724,
+  "wins": 0,
+  "pts": 56
+ },
+ "Cees Bol": {
+  "name": "Cees Bol",
+  "rank": 396,
+  "wins": 6,
+  "pts": 136
+ },
+ "Chris Hamilton": {
+  "name": "Chris Hamilton",
+  "rank": 456,
+  "wins": 0,
+  "pts": 82
+ },
+ "Chris Harper": {
+  "name": "Chris Harper",
+  "rank": 243,
+  "wins": 4,
+  "pts": 257
+ },
+ "Christophe Laporte": {
+  "name": "Christophe Laporte",
+  "rank": 49,
+  "wins": 34,
+  "pts": 554
+ },
+ "Cl\u00e9ment Berthet": {
+  "name": "Cl\u00e9ment Berthet",
+  "rank": 349,
+  "wins": 0,
+  "pts": 92
+ },
+ "Cl\u00e9ment Champoussin": {
+  "name": "Cl\u00e9ment Champoussin",
+  "rank": 92,
+  "wins": 3,
+  "pts": 360
+ },
+ "Cl\u00e9ment Russo": {
+  "name": "Cl\u00e9ment Russo",
+  "rank": 453,
+  "wins": 1,
+  "pts": 54
+ },
+ "Cl\u00e9ment Venturini": {
+  "name": "Cl\u00e9ment Venturini",
+  "rank": 77,
+  "wins": 5,
+  "pts": 477
+ },
+ "Connor Swift": {
+  "name": "Connor Swift",
+  "rank": 571,
+  "wins": 3,
+  "pts": 65
+ },
+ "Corbin Strong": {
+  "name": "Corbin Strong",
+  "rank": 56,
+  "wins": 9,
+  "pts": 432
+ },
+ "Cyril Barthe": {
+  "name": "Cyril Barthe",
+  "rank": 553,
+  "wins": 0,
+  "pts": 60
+ },
+ "Cyril Gautier": {
+  "name": "Cyril Gautier",
+  "rank": 0,
+  "wins": 5,
+  "pts": 12
+ },
+ "Cyril Lemoine": {
+  "name": "Cyril Lemoine",
+  "rank": 0,
+  "wins": 0,
+  "pts": 50
+ },
+ "Damiano Caruso": {
+  "name": "Damiano Caruso",
+  "rank": 188,
+  "wins": 8,
+  "pts": 273
+ },
+ "Damien Touz\u00e9": {
+  "name": "Damien Touz\u00e9",
+  "rank": 940,
+  "wins": 0,
+  "pts": 0
+ },
+ "Dan Martin": {
+  "name": "Dan Martin",
+  "rank": 0,
+  "wins": 22,
+  "pts": 0
+ },
+ "Daniel Oss": {
+  "name": "Daniel Oss",
+  "rank": 0,
+  "wins": 2,
+  "pts": 0
+ },
+ "Dario Cataldo": {
+  "name": "Dario Cataldo",
+  "rank": 0,
+  "wins": 5,
+  "pts": 15
+ },
+ "Daryl Impey": {
+  "name": "Daryl Impey",
+  "rank": 0,
+  "wins": 30,
+  "pts": 29
+ },
+ "David Gaudu": {
+  "name": "David Gaudu",
+  "rank": 308,
+  "wins": 13,
+  "pts": 71
+ },
+ "Davide Ballerini": {
+  "name": "Davide Ballerini",
+  "rank": 127,
+  "wins": 11,
+  "pts": 196
+ },
+ "Davide Formolo": {
+  "name": "Davide Formolo",
+  "rank": 624,
+  "wins": 6,
+  "pts": 5
+ },
+ "Diego Rosa": {
+  "name": "Diego Rosa",
+  "rank": 0,
+  "wins": 3,
+  "pts": 0
+ },
+ "Dion Smith": {
+  "name": "Dion Smith",
+  "rank": 642,
+  "wins": 2,
+  "pts": 50
+ },
+ "Dmitriy Gruzdev": {
+  "name": "Dmitriy Gruzdev",
+  "rank": 0,
+  "wins": 10,
+  "pts": 65
+ },
+ "Domenico Pozzovivo": {
+  "name": "Domenico Pozzovivo",
+  "rank": 296,
+  "wins": 13,
+  "pts": 225
+ },
+ "Dorian Godon": {
+  "name": "Dorian Godon",
+  "rank": 33,
+  "wins": 21,
+  "pts": 534
+ },
+ "Dries Devenyns": {
+  "name": "Dries Devenyns",
+  "rank": 0,
+  "wins": 7,
+  "pts": 60
+ },
+ "Dylan Groenewegen": {
+  "name": "Dylan Groenewegen",
+  "rank": 34,
+  "wins": 81,
+  "pts": 692
+ },
+ "Dylan Teuns": {
+  "name": "Dylan Teuns",
+  "rank": 366,
+  "wins": 14,
+  "pts": 74
+ },
+ "Edoardo Affini": {
+  "name": "Edoardo Affini",
+  "rank": 468,
+  "wins": 3,
+  "pts": 48
+ },
+ "Edward Planckaert": {
+  "name": "Edward Planckaert",
+  "rank": 497,
+  "wins": 1,
+  "pts": 44
+ },
+ "Edward Theuns": {
+  "name": "Edward Theuns",
+  "rank": 565,
+  "wins": 10,
+  "pts": 74
+ },
+ "Egan Bernal": {
+  "name": "Egan Bernal",
+  "rank": 37,
+  "wins": 23,
+  "pts": 483
+ },
+ "Einer Rubio": {
+  "name": "Einer Rubio",
+  "rank": 336,
+  "wins": 2,
+  "pts": 103
+ },
+ "Elia Viviani": {
+  "name": "Elia Viviani",
+  "rank": 515,
+  "wins": 90,
+  "pts": 150
+ },
+ "Elmar Reinders": {
+  "name": "Elmar Reinders",
+  "rank": 484,
+  "wins": 0,
+  "pts": 91
+ },
+ "Emanuel Buchmann": {
+  "name": "Emanuel Buchmann",
+  "rank": 667,
+  "wins": 5,
+  "pts": 0
+ },
+ "Emiel Verstrynge": {
+  "name": "Emiel Verstrynge",
+  "rank": 226,
+  "wins": 0,
+  "pts": 242
+ },
+ "Emilien Jeanni\u00e8re": {
+  "name": "Emilien Jeanni\u00e8re",
+  "rank": 67,
+  "wins": 5,
+  "pts": 221
+ },
+ "Enric Mas": {
+  "name": "Enric Mas",
+  "rank": 374,
+  "wins": 6,
+  "pts": 114
+ },
+ "Ewen Costiou": {
+  "name": "Ewen Costiou",
+  "rank": 139,
+  "wins": 4,
+  "pts": 216
+ },
+ "Fabian Lienhard": {
+  "name": "Fabian Lienhard",
+  "rank": 834,
+  "wins": 0,
+  "pts": 25
+ },
+ "Fabien Doubey": {
+  "name": "Fabien Doubey",
+  "rank": 1210,
+  "wins": 1,
+  "pts": 8
+ },
+ "Fabien Grellier": {
+  "name": "Fabien Grellier",
+  "rank": 1954,
+  "wins": 0,
+  "pts": 0
+ },
+ "Fabio Aru": {
+  "name": "Fabio Aru",
+  "rank": 0,
+  "wins": 9,
+  "pts": 285
+ },
+ "Fabio Felline": {
+  "name": "Fabio Felline",
+  "rank": 0,
+  "wins": 14,
+  "pts": 0
+ },
+ "Fabio Jakobsen": {
+  "name": "Fabio Jakobsen",
+  "rank": 1605,
+  "wins": 46,
+  "pts": 10
+ },
+ "Felix Gall": {
+  "name": "Felix Gall",
+  "rank": 7,
+  "wins": 2,
+  "pts": 857
+ },
+ "Fernando Gaviria": {
+  "name": "Fernando Gaviria",
+  "rank": 254,
+  "wins": 52,
+  "pts": 203
+ },
+ "Filippo Ganna": {
+  "name": "Filippo Ganna",
+  "rank": 64,
+  "wins": 40,
+  "pts": 439
+ },
+ "Florian Lipowitz": {
+  "name": "Florian Lipowitz",
+  "rank": 14,
+  "wins": 3,
+  "pts": 792
+ },
+ "Florian S\u00e9n\u00e9chal": {
+  "name": "Florian S\u00e9n\u00e9chal",
+  "rank": 686,
+  "wins": 5,
+  "pts": 50
+ },
+ "Florian Vermeersch": {
+  "name": "Florian Vermeersch",
+  "rank": 80,
+  "wins": 1,
+  "pts": 366
+ },
+ "Franck Bonnamour": {
+  "name": "Franck Bonnamour",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Frederik Frison": {
+  "name": "Frederik Frison",
+  "rank": 1065,
+  "wins": 0,
+  "pts": 25
+ },
+ "Geoffrey Bouchard": {
+  "name": "Geoffrey Bouchard",
+  "rank": 1004,
+  "wins": 1,
+  "pts": 14
+ },
+ "Geoffrey Soupe": {
+  "name": "Geoffrey Soupe",
+  "rank": 1283,
+  "wins": 4,
+  "pts": 29
+ },
+ "Georg Zimmermann": {
+  "name": "Georg Zimmermann",
+  "rank": 161,
+  "wins": 5,
+  "pts": 300
+ },
+ "George Bennett": {
+  "name": "George Bennett",
+  "rank": 321,
+  "wins": 4,
+  "pts": 152
+ },
+ "Geraint Thomas": {
+  "name": "Geraint Thomas",
+  "rank": 1140,
+  "wins": 25,
+  "pts": 52
+ },
+ "Gerben Thijssen": {
+  "name": "Gerben Thijssen",
+  "rank": 195,
+  "wins": 9,
+  "pts": 212
+ },
+ "Giacomo Nizzolo": {
+  "name": "Giacomo Nizzolo",
+  "rank": 1204,
+  "wins": 31,
+  "pts": 148
+ },
+ "Gianni Moscon": {
+  "name": "Gianni Moscon",
+  "rank": 557,
+  "wins": 11,
+  "pts": 75
+ },
+ "Gianni Vermeersch": {
+  "name": "Gianni Vermeersch",
+  "rank": 171,
+  "wins": 4,
+  "pts": 282
+ },
+ "Giulio Ciccone": {
+  "name": "Giulio Ciccone",
+  "rank": 25,
+  "wins": 13,
+  "pts": 439
+ },
+ "Gorka Izagirre": {
+  "name": "Gorka Izagirre",
+  "rank": 0,
+  "wins": 9,
+  "pts": 27
+ },
+ "Gregor M\u00fchlberger": {
+  "name": "Gregor M\u00fchlberger",
+  "rank": 201,
+  "wins": 9,
+  "pts": 123
+ },
+ "Guillaume Boivin": {
+  "name": "Guillaume Boivin",
+  "rank": 627,
+  "wins": 5,
+  "pts": 10
+ },
+ "Guillaume Martin": {
+  "name": "Guillaume Martin",
+  "rank": 162,
+  "wins": 11,
+  "pts": 215
+ },
+ "Guy Niv": {
+  "name": "Guy Niv",
+  "rank": 0,
+  "wins": 1,
+  "pts": 41
+ },
+ "Harm Vanhoucke": {
+  "name": "Harm Vanhoucke",
+  "rank": 780,
+  "wins": 0,
+  "pts": 26
+ },
+ "Harold Tejada": {
+  "name": "Harold Tejada",
+  "rank": 71,
+  "wins": 2,
+  "pts": 370
+ },
+ "Harry Sweeny": {
+  "name": "Harry Sweeny",
+  "rank": 276,
+  "wins": 0,
+  "pts": 172
+ },
+ "Hugh Carthy": {
+  "name": "Hugh Carthy",
+  "rank": 0,
+  "wins": 7,
+  "pts": 10
+ },
+ "Hugo Hofstetter": {
+  "name": "Hugo Hofstetter",
+  "rank": 306,
+  "wins": 3,
+  "pts": 196
+ },
+ "Hugo Houle": {
+  "name": "Hugo Houle",
+  "rank": 812,
+  "wins": 3,
+  "pts": 25
+ },
+ "Hugo Page": {
+  "name": "Hugo Page",
+  "rank": 469,
+  "wins": 1,
+  "pts": 72
+ },
+ "Ide Schelling": {
+  "name": "Ide Schelling",
+  "rank": 1611,
+  "wins": 3,
+  "pts": 0
+ },
+ "Ilnur Zakarin": {
+  "name": "Ilnur Zakarin",
+  "rank": 0,
+  "wins": 8,
+  "pts": 0
+ },
+ "Imanol Erviti": {
+  "name": "Imanol Erviti",
+  "rank": 0,
+  "wins": 3,
+  "pts": 77
+ },
+ "Ion Izagirre": {
+  "name": "Ion Izagirre",
+  "rank": 44,
+  "wins": 19,
+  "pts": 634
+ },
+ "Jack Bauer": {
+  "name": "Jack Bauer",
+  "rank": 0,
+  "wins": 6,
+  "pts": 25
+ },
+ "Jack Haig": {
+  "name": "Jack Haig",
+  "rank": 618,
+  "wins": 2,
+  "pts": 60
+ },
+ "Jacopo Guarnieri": {
+  "name": "Jacopo Guarnieri",
+  "rank": 0,
+  "wins": 4,
+  "pts": 15
+ },
+ "Jai Hindley": {
+  "name": "Jai Hindley",
+  "rank": 35,
+  "wins": 9,
+  "pts": 492
+ },
+ "Jake Stewart": {
+  "name": "Jake Stewart",
+  "rank": 585,
+  "wins": 4,
+  "pts": 18
+ },
+ "Jakob Fuglsang": {
+  "name": "Jakob Fuglsang",
+  "rank": 0,
+  "wins": 27,
+  "pts": 43
+ },
+ "James Shaw": {
+  "name": "James Shaw",
+  "rank": 619,
+  "wins": 0,
+  "pts": 32
+ },
+ "Jan Bakelants": {
+  "name": "Jan Bakelants",
+  "rank": 0,
+  "wins": 7,
+  "pts": 0
+ },
+ "Jan Hirt": {
+  "name": "Jan Hirt",
+  "rank": 376,
+  "wins": 5,
+  "pts": 160
+ },
+ "Jan Polanc": {
+  "name": "Jan Polanc",
+  "rank": 0,
+  "wins": 4,
+  "pts": 376
+ },
+ "Jan Tratnik": {
+  "name": "Jan Tratnik",
+  "rank": 768,
+  "wins": 12,
+  "pts": 47
+ },
+ "Jarrad Drizners": {
+  "name": "Jarrad Drizners",
+  "rank": 741,
+  "wins": 0,
+  "pts": 20
+ },
+ "Jasper Philipsen": {
+  "name": "Jasper Philipsen",
+  "rank": 8,
+  "wins": 61,
+  "pts": 848
+ },
+ "Jasper Stuyven": {
+  "name": "Jasper Stuyven",
+  "rank": 65,
+  "wins": 9,
+  "pts": 540
+ },
+ "Javier Romo": {
+  "name": "Javier Romo",
+  "rank": 217,
+  "wins": 1,
+  "pts": 187
+ },
+ "Jelle Wallays": {
+  "name": "Jelle Wallays",
+  "rank": 0,
+  "wins": 8,
+  "pts": 15
+ },
+ "Jenno Berckmoes": {
+  "name": "Jenno Berckmoes",
+  "rank": 116,
+  "wins": 3,
+  "pts": 245
+ },
+ "Jens Debusschere": {
+  "name": "Jens Debusschere",
+  "rank": 0,
+  "wins": 15,
+  "pts": 0
+ },
+ "Jens Keukeleire": {
+  "name": "Jens Keukeleire",
+  "rank": 0,
+  "wins": 11,
+  "pts": 61
+ },
+ "Jenthe Biermans": {
+  "name": "Jenthe Biermans",
+  "rank": 239,
+  "wins": 3,
+  "pts": 172
+ },
+ "Joe Dombrowski": {
+  "name": "Joe Dombrowski",
+  "rank": 0,
+  "wins": 4,
+  "pts": 57
+ },
+ "Johannes Kulset": {
+  "name": "Johannes Kulset",
+  "rank": 112,
+  "wins": 0,
+  "pts": 189
+ },
+ "John Degenkolb": {
+  "name": "John Degenkolb",
+  "rank": 678,
+  "wins": 48,
+  "pts": 73
+ },
+ "Jonas Abrahamsen": {
+  "name": "Jonas Abrahamsen",
+  "rank": 94,
+  "wins": 4,
+  "pts": 207
+ },
+ "Jonas Gregaard": {
+  "name": "Jonas Gregaard",
+  "rank": 1146,
+  "wins": 0,
+  "pts": 50
+ },
+ "Jonas Koch": {
+  "name": "Jonas Koch",
+  "rank": 1600,
+  "wins": 0,
+  "pts": 38
+ },
+ "Jonas Rickaert": {
+  "name": "Jonas Rickaert",
+  "rank": 663,
+  "wins": 1,
+  "pts": 25
+ },
+ "Jonas Rutsch": {
+  "name": "Jonas Rutsch",
+  "rank": 521,
+  "wins": 0,
+  "pts": 60
+ },
+ "Jonas Vingegaard": {
+  "name": "Jonas Vingegaard",
+  "rank": 2,
+  "wins": 54,
+  "pts": 1579
+ },
+ "Jonathan Castroviejo": {
+  "name": "Jonathan Castroviejo",
+  "rank": 1599,
+  "wins": 11,
+  "pts": 38
+ },
+ "Jonathan Milan": {
+  "name": "Jonathan Milan",
+  "rank": 27,
+  "wins": 32,
+  "pts": 544
+ },
+ "Jordan Jegat": {
+  "name": "Jordan Jegat",
+  "rank": 74,
+  "wins": 1,
+  "pts": 241
+ },
+ "Jordi Meeus": {
+  "name": "Jordi Meeus",
+  "rank": 30,
+  "wins": 19,
+  "pts": 608
+ },
+ "Jorge Arcas": {
+  "name": "Jorge Arcas",
+  "rank": 1412,
+  "wins": 0,
+  "pts": 15
+ },
+ "Joris Nieuwenhuis": {
+  "name": "Joris Nieuwenhuis",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Joseph Blackmore": {
+  "name": "Joseph Blackmore",
+  "rank": 486,
+  "wins": 4,
+  "pts": 271
+ },
+ "Julian Alaphilippe": {
+  "name": "Julian Alaphilippe",
+  "rank": 61,
+  "wins": 45,
+  "pts": 57
+ },
+ "Julien Bernard": {
+  "name": "Julien Bernard",
+  "rank": 431,
+  "wins": 1,
+  "pts": 53
+ },
+ "Julien Simon": {
+  "name": "Julien Simon",
+  "rank": 0,
+  "wins": 13,
+  "pts": 70
+ },
+ "J\u00e9r\u00e9my Cabot": {
+  "name": "J\u00e9r\u00e9my Cabot",
+  "rank": 0,
+  "wins": 0,
+  "pts": 4
+ },
+ "J\u00e9r\u00e9my Lecroq": {
+  "name": "J\u00e9r\u00e9my Lecroq",
+  "rank": 1564,
+  "wins": 0,
+  "pts": 6
+ },
+ "J\u00e9r\u00f4me Cousin": {
+  "name": "J\u00e9r\u00f4me Cousin",
+  "rank": 0,
+  "wins": 2,
+  "pts": 0
+ },
+ "Kaden Groves": {
+  "name": "Kaden Groves",
+  "rank": 289,
+  "wins": 21,
+  "pts": 7
+ },
+ "Kamil Gradek": {
+  "name": "Kamil Gradek",
+  "rank": 810,
+  "wins": 3,
+  "pts": 20
+ },
+ "Kasper Asgreen": {
+  "name": "Kasper Asgreen",
+  "rank": 530,
+  "wins": 14,
+  "pts": 64
+ },
+ "Kenny Elissonde": {
+  "name": "Kenny Elissonde",
+  "rank": 0,
+  "wins": 2,
+  "pts": 32
+ },
+ "Kevin Geniets": {
+  "name": "Kevin Geniets",
+  "rank": 787,
+  "wins": 5,
+  "pts": 40
+ },
+ "Kevin Vermaerke": {
+  "name": "Kevin Vermaerke",
+  "rank": 175,
+  "wins": 0,
+  "pts": 140
+ },
+ "Kobe Goossens": {
+  "name": "Kobe Goossens",
+  "rank": 0,
+  "wins": 2,
+  "pts": 32
+ },
+ "Kristian Sbaragli": {
+  "name": "Kristian Sbaragli",
+  "rank": 2432,
+  "wins": 1,
+  "pts": 16
+ },
+ "Krists Neilands": {
+  "name": "Krists Neilands",
+  "rank": 358,
+  "wins": 9,
+  "pts": 106
+ },
+ "K\u00e9vin Ledanois": {
+  "name": "K\u00e9vin Ledanois",
+  "rank": 0,
+  "wins": 0,
+  "pts": 10
+ },
+ "K\u00e9vin Reza": {
+  "name": "K\u00e9vin Reza",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "K\u00e9vin Vauquelin": {
+  "name": "K\u00e9vin Vauquelin",
+  "rank": 23,
+  "wins": 10,
+  "pts": 473
+ },
+ "Laurence Pithie": {
+  "name": "Laurence Pithie",
+  "rank": 48,
+  "wins": 7,
+  "pts": 797
+ },
+ "Laurent Pichon": {
+  "name": "Laurent Pichon",
+  "rank": 0,
+  "wins": 3,
+  "pts": 113
+ },
+ "Laurenz Rex": {
+  "name": "Laurenz Rex",
+  "rank": 303,
+  "wins": 1,
+  "pts": 180
+ },
+ "Lawson Craddock": {
+  "name": "Lawson Craddock",
+  "rank": 0,
+  "wins": 2,
+  "pts": 26
+ },
+ "Lennard K\u00e4mna": {
+  "name": "Lennard K\u00e4mna",
+  "rank": 362,
+  "wins": 9,
+  "pts": 39
+ },
+ "Lenny Martinez": {
+  "name": "Lenny Martinez",
+  "rank": 26,
+  "wins": 11,
+  "pts": 817
+ },
+ "Lewis Askey": {
+  "name": "Lewis Askey",
+  "rank": 183,
+  "wins": 2,
+  "pts": 243
+ },
+ "Lilian Calmejane": {
+  "name": "Lilian Calmejane",
+  "rank": 0,
+  "wins": 12,
+  "pts": 0
+ },
+ "Lorenzo Rota": {
+  "name": "Lorenzo Rota",
+  "rank": 556,
+  "wins": 2,
+  "pts": 66
+ },
+ "Louis Barr\u00e9": {
+  "name": "Louis Barr\u00e9",
+  "rank": 325,
+  "wins": 0,
+  "pts": 63
+ },
+ "Louis Meintjes": {
+  "name": "Louis Meintjes",
+  "rank": 599,
+  "wins": 7,
+  "pts": 205
+ },
+ "Louis Vervaeke": {
+  "name": "Louis Vervaeke",
+  "rank": 496,
+  "wins": 1,
+  "pts": 46
+ },
+ "Lo\u00efc Vliegen": {
+  "name": "Lo\u00efc Vliegen",
+  "rank": 0,
+  "wins": 4,
+  "pts": 5
+ },
+ "Luca Mozzato": {
+  "name": "Luca Mozzato",
+  "rank": 135,
+  "wins": 3,
+  "pts": 332
+ },
+ "Lucas Hamilton": {
+  "name": "Lucas Hamilton",
+  "rank": 889,
+  "wins": 4,
+  "pts": 25
+ },
+ "Luka Mezgec": {
+  "name": "Luka Mezgec",
+  "rank": 760,
+  "wins": 19,
+  "pts": 31
+ },
+ "Lukas P\u00f6stlberger": {
+  "name": "Lukas P\u00f6stlberger",
+  "rank": 0,
+  "wins": 6,
+  "pts": 0
+ },
+ "Luke Durbridge": {
+  "name": "Luke Durbridge",
+  "rank": 770,
+  "wins": 15,
+  "pts": 30
+ },
+ "Luke Plapp": {
+  "name": "Luke Plapp",
+  "rank": 55,
+  "wins": 8,
+  "pts": 530
+ },
+ "Luke Rowe": {
+  "name": "Luke Rowe",
+  "rank": 0,
+  "wins": 2,
+  "pts": 15
+ },
+ "Maciej Bodnar": {
+  "name": "Maciej Bodnar",
+  "rank": 0,
+  "wins": 12,
+  "pts": 24
+ },
+ "Mads Pedersen": {
+  "name": "Mads Pedersen",
+  "rank": 28,
+  "wins": 60,
+  "pts": 488
+ },
+ "Marc Hirschi": {
+  "name": "Marc Hirschi",
+  "rank": 130,
+  "wins": 24,
+  "pts": 67
+ },
+ "Marc Soler": {
+  "name": "Marc Soler",
+  "rank": 141,
+  "wins": 11,
+  "pts": 184
+ },
+ "Marco Haller": {
+  "name": "Marco Haller",
+  "rank": 416,
+  "wins": 6,
+  "pts": 48
+ },
+ "Marco Marcato": {
+  "name": "Marco Marcato",
+  "rank": 0,
+  "wins": 5,
+  "pts": 20
+ },
+ "Marius Mayrhofer": {
+  "name": "Marius Mayrhofer",
+  "rank": 294,
+  "wins": 2,
+  "pts": 35
+ },
+ "Mark Cavendish": {
+  "name": "Mark Cavendish",
+  "rank": 0,
+  "wins": 165,
+  "pts": 190
+ },
+ "Mark Donovan": {
+  "name": "Mark Donovan",
+  "rank": 391,
+  "wins": 1,
+  "pts": 126
+ },
+ "Markus Hoelgaard": {
+  "name": "Markus Hoelgaard",
+  "rank": 356,
+  "wins": 5,
+  "pts": 57
+ },
+ "Martijn Tusveld": {
+  "name": "Martijn Tusveld",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Matej Mohori\u010d": {
+  "name": "Matej Mohori\u010d",
+  "rank": 176,
+  "wins": 25,
+  "pts": 167
+ },
+ "Mathieu Burgaudeau": {
+  "name": "Mathieu Burgaudeau",
+  "rank": 616,
+  "wins": 5,
+  "pts": 35
+ },
+ "Matis Louvel": {
+  "name": "Matis Louvel",
+  "rank": 472,
+  "wins": 2,
+  "pts": 49
+ },
+ "Matteo Jorgenson": {
+  "name": "Matteo Jorgenson",
+  "rank": 32,
+  "wins": 5,
+  "pts": 590
+ },
+ "Matteo Sobrero": {
+  "name": "Matteo Sobrero",
+  "rank": 146,
+  "wins": 3,
+  "pts": 158
+ },
+ "Matteo Trentin": {
+  "name": "Matteo Trentin",
+  "rank": 73,
+  "wins": 32,
+  "pts": 295
+ },
+ "Matthew Dinham": {
+  "name": "Matthew Dinham",
+  "rank": 757,
+  "wins": 0,
+  "pts": 37
+ },
+ "Matthieu Ladagnous": {
+  "name": "Matthieu Ladagnous",
+  "rank": 0,
+  "wins": 11,
+  "pts": 25
+ },
+ "Mattia Cattaneo": {
+  "name": "Mattia Cattaneo",
+  "rank": 536,
+  "wins": 4,
+  "pts": 60
+ },
+ "Mauro Schmid": {
+  "name": "Mauro Schmid",
+  "rank": 16,
+  "wins": 13,
+  "pts": 1055
+ },
+ "Max Walscheid": {
+  "name": "Max Walscheid",
+  "rank": 280,
+  "wins": 13,
+  "pts": 213
+ },
+ "Maxime Bouet": {
+  "name": "Maxime Bouet",
+  "rank": 0,
+  "wins": 5,
+  "pts": 20
+ },
+ "Maxime Chevalier": {
+  "name": "Maxime Chevalier",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Maximilian Schachmann": {
+  "name": "Maximilian Schachmann",
+  "rank": 494,
+  "wins": 16,
+  "pts": 57
+ },
+ "Michael Gogl": {
+  "name": "Michael Gogl",
+  "rank": 1022,
+  "wins": 0,
+  "pts": 25
+ },
+ "Michael Matthews": {
+  "name": "Michael Matthews",
+  "rank": 152,
+  "wins": 44,
+  "pts": 101
+ },
+ "Michael Sch\u00e4r": {
+  "name": "Michael Sch\u00e4r",
+  "rank": 0,
+  "wins": 2,
+  "pts": 40
+ },
+ "Michael Storer": {
+  "name": "Michael Storer",
+  "rank": 40,
+  "wins": 10,
+  "pts": 443
+ },
+ "Michael Woods": {
+  "name": "Michael Woods",
+  "rank": 1143,
+  "wins": 16,
+  "pts": 0
+ },
+ "Miguel L\u00f3pez": {
+  "name": "Miguel L\u00f3pez",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Mika\u00ebl Cherel": {
+  "name": "Mika\u00ebl Cherel",
+  "rank": 0,
+  "wins": 0,
+  "pts": 56
+ },
+ "Mike Teunissen": {
+  "name": "Mike Teunissen",
+  "rank": 143,
+  "wins": 8,
+  "pts": 199
+ },
+ "Mikel Landa": {
+  "name": "Mikel Landa",
+  "rank": 380,
+  "wins": 16,
+  "pts": 40
+ },
+ "Mikel Nieve": {
+  "name": "Mikel Nieve",
+  "rank": 0,
+  "wins": 5,
+  "pts": 19
+ },
+ "Mikkel Bjerg": {
+  "name": "Mikkel Bjerg",
+  "rank": 424,
+  "wins": 1,
+  "pts": 62
+ },
+ "Miles Scotson": {
+  "name": "Miles Scotson",
+  "rank": 1603,
+  "wins": 2,
+  "pts": 40
+ },
+ "Nacer Bouhanni": {
+  "name": "Nacer Bouhanni",
+  "rank": 0,
+  "wins": 70,
+  "pts": 58
+ },
+ "Nairo Quintana": {
+  "name": "Nairo Quintana",
+  "rank": 245,
+  "wins": 53,
+  "pts": 241
+ },
+ "Nans Peters": {
+  "name": "Nans Peters",
+  "rank": 917,
+  "wins": 3,
+  "pts": 90
+ },
+ "Neilson Powless": {
+  "name": "Neilson Powless",
+  "rank": 273,
+  "wins": 8,
+  "pts": 0
+ },
+ "Nelson Oliveira": {
+  "name": "Nelson Oliveira",
+  "rank": 529,
+  "wins": 6,
+  "pts": 71
+ },
+ "Nick Schultz": {
+  "name": "Nick Schultz",
+  "rank": 704,
+  "wins": 3,
+  "pts": 50
+ },
+ "Nico Denz": {
+  "name": "Nico Denz",
+  "rank": 422,
+  "wins": 7,
+  "pts": 74
+ },
+ "Nicolas Edet": {
+  "name": "Nicolas Edet",
+  "rank": 0,
+  "wins": 2,
+  "pts": 0
+ },
+ "Nicolas Prodhomme": {
+  "name": "Nicolas Prodhomme",
+  "rank": 122,
+  "wins": 6,
+  "pts": 66
+ },
+ "Nicolas Roche": {
+  "name": "Nicolas Roche",
+  "rank": 0,
+  "wins": 12,
+  "pts": 0
+ },
+ "Nikias Arndt": {
+  "name": "Nikias Arndt",
+  "rank": 1595,
+  "wins": 7,
+  "pts": 10
+ },
+ "Niklas Eg": {
+  "name": "Niklas Eg",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Niklas M\u00e4rkl": {
+  "name": "Niklas M\u00e4rkl",
+  "rank": 705,
+  "wins": 0,
+  "pts": 40
+ },
+ "Nils Eekhoff": {
+  "name": "Nils Eekhoff",
+  "rank": 584,
+  "wins": 2,
+  "pts": 0
+ },
+ "Nils Politt": {
+  "name": "Nils Politt",
+  "rank": 256,
+  "wins": 8,
+  "pts": 189
+ },
+ "Oier Lazkano": {
+  "name": "Oier Lazkano",
+  "rank": 0,
+  "wins": 7,
+  "pts": 15
+ },
+ "Oliver Naesen": {
+  "name": "Oliver Naesen",
+  "rank": 357,
+  "wins": 5,
+  "pts": 107
+ },
+ "Omar Fraile": {
+  "name": "Omar Fraile",
+  "rank": 1948,
+  "wins": 8,
+  "pts": 15
+ },
+ "Omer Goldstein": {
+  "name": "Omer Goldstein",
+  "rank": 634,
+  "wins": 4,
+  "pts": 82
+ },
+ "Oscar Onley": {
+  "name": "Oscar Onley",
+  "rank": 19,
+  "wins": 2,
+  "pts": 199
+ },
+ "Owain Doull": {
+  "name": "Owain Doull",
+  "rank": 851,
+  "wins": 2,
+  "pts": 40
+ },
+ "Page not found": {
+  "name": "Forbidden",
+  "rank": 0,
+  "wins": 0,
+  "pts": 0
+ },
+ "Pascal Ackermann": {
+  "name": "Pascal Ackermann",
+  "rank": 235,
+  "wins": 41,
+  "pts": 172
+ },
+ "Pascal Eenkhoorn": {
+  "name": "Pascal Eenkhoorn",
+  "rank": 378,
+  "wins": 5,
+  "pts": 50
+ },
+ "Patrick Konrad": {
+  "name": "Patrick Konrad",
+  "rank": 839,
+  "wins": 3,
+  "pts": 35
+ },
+ "Paul Lapeira": {
+  "name": "Paul Lapeira",
+  "rank": 66,
+  "wins": 8,
+  "pts": 349
+ },
+ "Paul Penho\u00ebt": {
+  "name": "Paul Penho\u00ebt",
+  "rank": 106,
+  "wins": 2,
+  "pts": 221
+ },
+ "Pavel Bittner": {
+  "name": "Pavel Bittner",
+  "rank": 54,
+  "wins": 3,
+  "pts": 248
+ },
+ "Pavel Sivakov": {
+  "name": "Pavel Sivakov",
+  "rank": 115,
+  "wins": 7,
+  "pts": 47
+ },
+ "Pello Bilbao": {
+  "name": "Pello Bilbao",
+  "rank": 63,
+  "wins": 17,
+  "pts": 419
+ },
+ "Peter Sagan": {
+  "name": "Peter Sagan",
+  "rank": 0,
+  "wins": 121,
+  "pts": 0
+ },
+ "Petr Vako\u010d": {
+  "name": "Petr Vako\u010d",
+  "rank": 0,
+  "wins": 7,
+  "pts": 0
+ }
+}
