@@ -73,6 +73,12 @@ for src, dst in log_cols_src.items():
 df['meters_climbed_per_km'] = df['elevation'] / df['distance_km'].clip(lower=1)
 df['log_meters_climbed_per_km'] = np.log1p(df['meters_climbed_per_km'].clip(lower=0))
 
+# --- Breakaway likelihood: late flat/hilly stages favour breakaways ---
+# Stage number × breakaway-friendly terrain (flat/hilly).
+# GC contenders don't fight on these days, so the model should lower
+# confidence on elite riders and consider outsiders.
+df['breakaway_idx'] = df['stage'] * df['stage_type'].isin(['flat', 'hilly']).astype(int)
+
 # --- Temporal features: previous year wins & 3-year rolling average ---
 df = df.sort_values(['rider_name', 'year'])
 df['prev_year_wins'] = df.groupby('rider_name')['won'].transform(
@@ -93,6 +99,7 @@ feature_cols = [
     'type_stage_match',
     'log_prev_year_wins', 'wins_3yr_avg',
     'log_meters_climbed_per_km',
+    'breakaway_idx',
 ]
 
 # Numeric columns to scale (everything except low-cardinality encodings)
@@ -111,6 +118,16 @@ print(f"\nFeature columns ({len(feature_cols)}): {feature_cols}")
 
 df['group_id'] = df['year'].astype(str) + '_S' + df['stage'].astype(str)
 df = df.sort_values(['group_id']).reset_index(drop=True)
+
+# --- Data quality check: detect stages with no winner ---
+winners_per_stage = df.groupby('group_id')[TARGET].sum()
+stages_missing_winner = winners_per_stage[winners_per_stage == 0]
+if len(stages_missing_winner) > 0:
+    print(f"\n⚠ WARNING: {len(stages_missing_winner)} stage(s) have no winner "
+          f"(data likely incomplete from scraper):")
+    for s in stages_missing_winner.index:
+        n_riders = len(df[df['group_id'] == s])
+        print(f"  {s}: {n_riders} riders (missing top finishers)")
 
 X = df[feature_cols].copy()
 y = df[TARGET].values
@@ -309,8 +326,8 @@ print("HYPERPARAMETER TUNING (manual randomized search)")
 print(f"{'═'*60}")
 
 param_grid = {
-    'n_estimators': [100, 200, 300, 500],
-    'max_depth': [3, 5, 7, 10],
+    'n_estimators': [50, 80, 100, 150],
+    'max_depth': [3, 4, 5],
     'learning_rate': [0.01, 0.05, 0.1, 0.2],
     'subsample': [0.6, 0.8, 1.0],
     'colsample_bytree': [0.6, 0.8, 1.0],

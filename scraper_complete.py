@@ -57,8 +57,12 @@ def parse_results(html, year, stage, si):
                 break
     if not table:
         return results
-    tbody = table.find('tbody')
-    rows = tbody.find_all('tr') if tbody else table.find_all('tr')[1:]
+    tbodies = table.find_all('tbody')
+    rows = []
+    for tbody in tbodies:
+        rows.extend(tbody.find_all('tr'))
+    if not rows:
+        rows = table.find_all('tr')[1:]
 
     st = si.get('stage_type', '')
     elev = si.get('elevation', 0)
