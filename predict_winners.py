@@ -129,6 +129,7 @@ if len(stages_missing_winner) > 0:
         n_riders = len(df[df['group_id'] == s])
         print(f"  {s}: {n_riders} riders (missing top finishers)")
 
+rider_names = df['rider_name'].values
 X = df[feature_cols].copy()
 y = df[TARGET].values
 group_ids = df['group_id'].values
@@ -148,6 +149,7 @@ X_train, X_test = X[train_mask].copy(), X[test_mask].copy()
 y_train, y_test = y[train_mask].copy(), y[test_mask].copy()
 group_ids_train = group_ids[train_mask]
 group_ids_test  = group_ids[test_mask]
+rider_names_test = rider_names[test_mask]
 
 # Group sizes for XGBRanker (must match order in data)
 _, train_group_counts = np.unique(group_ids_train, return_counts=True)
@@ -449,24 +451,30 @@ print(f"  MRR        = {test_metrics['mrr']:.4f}")
 print(f"  NDCG@1     = {test_metrics['ndcg@1']:.4f}")
 print(f"  NDCG@5     = {test_metrics['ndcg@5']:.4f}")
 
-# --- Per-stage winner prediction breakdown ---
-print(f"\nPer-stage winner prediction (softmax over riders):")
+# --- Per-stage winner predictions (top-5) ---
+print(f"\n{'─'*80}")
+print("STAGE WINNER PREDICTIONS — Top-5 per stage")
+print(f"{'─'*80}")
 correct_k1 = 0
 correct_k5 = 0
 n_stages = 0
+all_predictions = []
 
 for g in np.unique(group_ids_test):
     mask = (group_ids_test == g)
     g_true = y_test[mask]
+    g_names = rider_names_test[mask]
     g_score = y_test_score[mask]
     g_prob = softmax(g_score)
 
     order = np.argsort(-g_prob)
     sorted_true = g_true[order]
+    sorted_names = g_names[order]
+    sorted_probs = g_prob[order]
+
     winner_pos = np.where(sorted_true == 1)[0]
     if len(winner_pos) == 0:
-        print(f"  {g}: no winner found in data  "
-              f"(top-prob rider: {g_prob[order[0]]:.3f})")
+        print(f"  {g}: ⚠ NO WINNER IN DATA")
         continue
     winner_rank = winner_pos[0] + 1
 
@@ -476,11 +484,28 @@ for g in np.unique(group_ids_test):
     if winner_rank <= 5:
         correct_k5 += 1
 
-    print(f"  {g}: winner ranked #{winner_rank}/{len(g_true)}  "
-          f"(top-prob rider: {g_prob[order[0]]:.3f})")
+    print(f"\n{g}  |  Actual: {sorted_names[winner_pos[0]]}  "
+          f"({'✓' if winner_rank == 1 else ('#' + str(winner_rank))})")
+    for i in range(5):
+        mark = ' ← WINNER' if sorted_true[i] == 1 else ''
+        print(f"  {i+1}. {sorted_names[i]:30s}  {sorted_probs[i]:.4f}{mark}")
 
-print(f"\n  Winner in Top 1:  {correct_k1}/{n_stages} = {correct_k1/n_stages*100:.1f}%")
+    for i in range(5):
+        all_predictions.append({
+            'stage': g,
+            'rank': i + 1,
+            'predicted_rider': sorted_names[i],
+            'probability': sorted_probs[i],
+            'is_actual_winner': int(sorted_true[i]),
+        })
+
+print(f"\n{'─'*50}")
+print(f"  Winner in Top 1:  {correct_k1}/{n_stages} = {correct_k1/n_stages*100:.1f}%")
 print(f"  Winner in Top 5:  {correct_k5}/{n_stages} = {correct_k5/n_stages*100:.1f}%")
+
+pred_df = pd.DataFrame(all_predictions)
+pred_df.to_csv('stage_predictions_2024_2025.csv', index=False)
+print(f"\nSaved top-5 predictions to stage_predictions_2024_2025.csv")
 
 # ═══════════════════════════════════════════════════════════════════════════
 # 11.  VISUALISATIONS
