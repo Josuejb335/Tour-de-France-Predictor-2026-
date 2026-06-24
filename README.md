@@ -97,29 +97,29 @@ Trains XGBRanker on historical data and outputs top-5 predictions per stage to `
 
 ### Top Stage Win Probabilities
 
-| Stage | Type | Distance | Elevation | Top Contender | Prob | Runner-up | Prob |
-|-------|------|----------|---|------|-----------|------|
-| 1 | TTT | 19.6 km | 200 m | Remco Evenepoel | 12.9% | Jasper Philipsen | 9.0% |
-| 2 | Hilly | 168.5 km | 2500 m | Jasper Philipsen | 5.6% | Remco Evenepoel | 5.2% |
-| 3 | Mountain | 195.9 km | 3850 m | **Tadej Pogačar** | **15.7%** | Jonas Vingegaard | 5.4% |
-| 4 | Hilly | 181.9 km | 2700 m | Tadej Pogačar | 14.4% | Remco Evenepoel | 8.9% |
-| 5 | Flat | 158.3 km | 1600 m | Jasper Philipsen | 20.0% | Tim Merlier | 18.2% |
-| 6 | Mountain | 186.2 km | 4100 m | **Tadej Pogačar** | **36.8%** | Jonas Vingegaard | 8.5% |
-| 7 | Flat | 175.1 km | 850 m | Jasper Philipsen | 31.5% | Tim Merlier | 27.0% |
-| 8 | Flat | 180.4 km | 1150 m | Jasper Philipsen | 29.3% | Tim Merlier | 25.1% |
-| 9 | Hilly | 185.5 km | 3300 m | Mads Pedersen | 5.1% | Biniam Girmay | 5.1% |
-| 10 | Mountain | 166.6 km | 3800 m | **Tadej Pogačar** | **42.4%** | Jonas Vingegaard | 7.9% |
-| 11 | Flat | 161.3 km | 1400 m | Jasper Philipsen | 25.9% | Tim Merlier | 15.4% |
-| 12 | Flat | 179.1 km | 1800 m | Jasper Philipsen | 26.3% | Tim Merlier | 14.7% |
-| 13 | Hilly | 205.8 km | 2400 m | Jasper Philipsen | 6.8% | Mads Pedersen | 6.0% |
-| 14 | Mountain | 155.3 km | 3800 m | **Tadej Pogačar** | **47.0%** | Jonas Vingegaard | 7.0% |
-| 15 | Mountain | 183.9 km | 3950 m | **Tadej Pogačar** | **36.7%** | Jonas Vingegaard | 7.8% |
-| 16 | ITT | 26.1 km | 500 m | Tadej Pogačar | 23.6% | Remco Evenepoel | 16.4% |
-| 17 | Flat | 174.7 km | 2200 m | Jasper Philipsen | 9.3% | Tim Merlier | 5.6% |
-| 18 | Mountain | 185.2 km | 3900 m | **Tadej Pogačar** | **38.7%** | Jonas Vingegaard | 7.0% |
-| 19 | Mountain | 127.9 km | 3500 m | **Tadej Pogačar** | **55.2%** | Thymen Arensman | 7.5% |
-| 20 | Mountain | 170.9 km | 5450 m | **Tadej Pogačar** | **40.4%** | Thymen Arensman | 10.3% |
-| 21 | Flat | 133.0 km | 1000 m | Tim Merlier | 8.5% | Jasper Philipsen | 8.4% |
+| Stage | Type | Distance | Top Contender | Prob | Runner-up | Prob |
+|-------|------|----------|---------------|------|-----------|------|
+| 1 | TTT | 19.6 km | Remco Evenepoel | 12.9% | Jasper Philipsen | 9.0% |
+| 2 | Hilly | 168.5 km | Jasper Philipsen | 5.6% | Remco Evenepoel | 5.2% |
+| 3 | Mountain | 195.9 km | **Tadej Pogačar** | **15.7%** | Jonas Vingegaard | 5.4% |
+| 4 | Hilly | 181.9 km | Tadej Pogačar | 14.4% | Remco Evenepoel | 8.9% |
+| 5 | Flat | 158.3 km | Jasper Philipsen | 20.0% | Tim Merlier | 18.2% |
+| 6 | Mountain | 186.2 km | **Tadej Pogačar** | **36.8%** | Jonas Vingegaard | 8.5% |
+| 7 | Flat | 175.1 km | Jasper Philipsen | 31.5% | Tim Merlier | 27.0% |
+| 8 | Flat | 180.4 km | Jasper Philipsen | 29.3% | Tim Merlier | 25.1% |
+| 9 | Hilly | 185.5 km | Mads Pedersen | 5.1% | Biniam Girmay | 5.1% |
+| 10 | Mountain | 166.6 km | **Tadej Pogačar** | **42.4%** | Jonas Vingegaard | 7.9% |
+| 11 | Flat | 161.3 km | Jasper Philipsen | 25.9% | Tim Merlier | 15.4% |
+| 12 | Flat | 179.1 km | Jasper Philipsen | 26.3% | Tim Merlier | 14.7% |
+| 13 | Hilly | 205.8 km | Jasper Philipsen | 6.8% | Mads Pedersen | 6.0% |
+| 14 | Mountain | 155.3 km | **Tadej Pogačar** | **47.0%** | Jonas Vingegaard | 7.0% |
+| 15 | Mountain | 183.9 km | **Tadej Pogačar** | **36.7%** | Jonas Vingegaard | 7.8% |
+| 16 | ITT | 26.1 km | Tadej Pogačar | 23.6% | Remco Evenepoel | 16.4% |
+| 17 | Flat | 174.7 km | Jasper Philipsen | 9.3% | Tim Merlier | 5.6% |
+| 18 | Mountain | 185.2 km | **Tadej Pogačar** | **38.7%** | Jonas Vingegaard | 7.0% |
+| 19 | Mountain | 127.9 km | **Tadej Pogačar** | **55.2%** | Thymen Arensman | 7.5% |
+| 20 | Mountain | 170.9 km | **Tadej Pogačar** | **40.4%** | Thymen Arensman | 10.3% |
+| 21 | Flat | 133.0 km | Tim Merlier | 8.5% | Jasper Philipsen | 8.4% |
 
 ### Key Insights
 
