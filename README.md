@@ -121,6 +121,12 @@ Trains XGBRanker on historical data and outputs top-5 predictions per stage to `
 | 20 | Mountain | 170.9 km | **Tadej Pogačar** | **40.4%** | Thymen Arensman | 10.3% |
 | 21 | Flat | 133.0 km | Tim Merlier | 8.5% | Jasper Philipsen | 8.4% |
 
+### GC Winner Prediction
+
+|   Rider Name   |   Prob   |
+|---------------|-----------|
+| Tadej Pogačar  | 4.074378 |
+
 ### Key Insights
 
 - **Tadej Pogačar** dominates mountain stages (Stages 3, 6, 10, 14, 15, 18, 19, 20) with probabilities 15–55%
